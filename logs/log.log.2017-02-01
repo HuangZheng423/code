@@ -1,0 +1,10 @@
+2017-02-01 11:51:19  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-01 11:51:19  [ JavaFX Application Thread:5 ] - [ INFO ]  Connect to database successfully.
+2017-02-01 11:51:19  [ JavaFX Application Thread:13 ] - [ INFO ]  Get the collection successfully.
+2017-02-01 11:51:19  [ JavaFX Application Thread:19 ] - [ DEBUG ]  U Thread 0 started
+2017-02-01 11:55:39  [ JavaFX Application Thread:260265 ] - [ DEBUG ]  U Thread 0 end
+2017-02-01 11:55:39  [ JavaFX Application Thread:260265 ] - [ DEBUG ]  260252
+2017-02-01 11:55:39  [ JavaFX Application Thread:260270 ] - [ DEBUG ]  U Thread 1 started
+2017-02-01 12:00:10  [ JavaFX Application Thread:530807 ] - [ DEBUG ]  U Thread 1 end
+2017-02-01 12:00:10  [ JavaFX Application Thread:530807 ] - [ DEBUG ]  270542
+2017-02-01 12:00:10  [ JavaFX Application Thread:530810 ] - [ DEBUG ]  U Thread 2 started

@@ -1,0 +1,322 @@
+2017-02-04 11:19:57  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 11:19:57  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 11:19:57  [ JavaFX Application Thread:14 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 11:34:18  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 11:34:18  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 11:34:18  [ JavaFX Application Thread:12 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 15:30:48  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 15:30:48  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 15:30:48  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 15:35:02  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 15:35:02  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 15:35:02  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 15:42:43  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 15:42:43  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 15:42:43  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 15:46:40  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 15:46:40  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 15:46:41  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 16:02:28  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 16:02:28  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 16:02:28  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 16:03:17  [ Thread-44:49369 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 16:05:20  [ Thread-44:171565 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130610.htm
+2017-02-04 16:05:24  [ Thread-44:175820 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130609.htm
+2017-02-04 16:05:25  [ Thread-44:176654 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130620.htm
+2017-02-04 16:05:27  [ Thread-44:179102 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130602.htm
+2017-02-04 16:05:28  [ Thread-44:179610 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130615.htm
+2017-02-04 16:05:29  [ Thread-44:181095 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130607.htm
+2017-02-04 16:05:29  [ Thread-44:181299 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130605.htm
+2017-02-04 16:05:30  [ Thread-44:181899 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130613.htm
+2017-02-04 16:05:31  [ Thread-44:182955 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130618.htm
+2017-02-04 16:05:31  [ Thread-44:183368 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130611.htm
+2017-02-04 16:05:33  [ Thread-44:185241 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130601.htm
+2017-02-04 16:05:36  [ Thread-44:187462 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130616.htm
+2017-02-04 16:05:36  [ Thread-44:187504 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130603.htm
+2017-02-04 16:05:38  [ Thread-44:190180 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130614.htm
+2017-02-04 16:05:39  [ Thread-44:190737 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130621.htm
+2017-02-04 16:05:39  [ Thread-44:190942 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130608.htm
+2017-02-04 16:05:39  [ Thread-44:191255 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130604.htm
+2017-02-04 16:05:40  [ Thread-44:191435 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130617.htm
+2017-02-04 16:05:40  [ Thread-44:191498 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130612.htm
+2017-02-04 16:05:42  [ Thread-44:193636 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130606.htm
+2017-02-04 16:05:42  [ Thread-44:193671 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20130619.htm
+2017-02-04 16:05:44  [ Thread-44:196302 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140109.htm
+2017-02-04 16:05:44  [ Thread-44:196366 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140206.htm
+2017-02-04 16:05:45  [ Thread-44:196673 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140400.htm
+2017-02-04 16:05:45  [ Thread-44:196717 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140117.htm
+2017-02-04 16:05:45  [ Thread-44:196752 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140214.htm
+2017-02-04 16:05:45  [ Thread-44:196790 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140303.htm
+2017-02-04 16:05:45  [ Thread-44:197068 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140307.htm
+2017-02-04 16:05:46  [ Thread-44:197629 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140404.htm
+2017-02-04 16:05:46  [ Thread-44:197691 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140311.htm
+2017-02-04 16:05:47  [ Thread-44:198580 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140102.htm
+2017-02-04 16:05:48  [ Thread-44:200203 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140420.htm
+2017-02-04 16:05:49  [ Thread-44:200731 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140407.htm
+2017-02-04 16:05:49  [ Thread-44:200767 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140300.htm
+2017-02-04 16:05:49  [ Thread-44:200804 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140114.htm
+2017-02-04 16:05:49  [ Thread-44:201083 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140415.htm
+2017-02-04 16:05:49  [ Thread-44:201226 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140202.htm
+2017-02-04 16:05:50  [ Thread-44:201562 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140121.htm
+2017-02-04 16:05:50  [ Thread-44:202075 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140210.htm
+2017-02-04 16:05:51  [ Thread-44:202489 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140315.htm
+2017-02-04 16:05:51  [ Thread-44:203056 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140217.htm
+2017-02-04 16:05:51  [ Thread-44:203092 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140110.htm
+2017-02-04 16:05:51  [ Thread-44:203137 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140411.htm
+2017-02-04 16:05:51  [ Thread-44:203173 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140106.htm
+2017-02-04 16:05:53  [ Thread-44:204791 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140207.htm
+2017-02-04 16:05:53  [ Thread-44:204960 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140304.htm
+2017-02-04 16:05:53  [ Thread-44:204996 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140118.htm
+2017-02-04 16:05:53  [ Thread-44:205213 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140320.htm
+2017-02-04 16:05:56  [ Thread-44:207538 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140421.htm
+2017-02-04 16:05:56  [ Thread-44:207692 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140213.htm
+2017-02-04 16:05:56  [ Thread-44:207819 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140103.htm
+2017-02-04 16:05:56  [ Thread-44:207865 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140403.htm
+2017-02-04 16:05:56  [ Thread-44:207912 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140310.htm
+2017-02-04 16:05:56  [ Thread-44:208362 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140500.htm
+2017-02-04 16:05:57  [ Thread-44:208939 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140318.htm
+2017-02-04 16:05:57  [ Thread-44:209070 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140203.htm
+2017-02-04 16:05:57  [ Thread-44:209105 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140220.htm
+2017-02-04 16:05:58  [ Thread-44:209453 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140319.htm
+2017-02-04 16:05:58  [ Thread-44:209582 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140408.htm
+2017-02-04 16:05:58  [ Thread-44:209618 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140414.htm
+2017-02-04 16:05:58  [ Thread-44:209756 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140113.htm
+2017-02-04 16:05:58  [ Thread-44:209792 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140600.htm
+2017-02-04 16:05:59  [ Thread-44:210446 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140218.htm
+2017-02-04 16:05:59  [ Thread-44:210481 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140308.htm
+2017-02-04 16:05:59  [ Thread-44:210609 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140107.htm
+2017-02-04 16:05:59  [ Thread-44:211018 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140419.htm
+2017-02-04 16:05:59  [ Thread-44:211311 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140314.htm
+2017-02-04 16:05:59  [ Thread-44:211347 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140216.htm
+2017-02-04 16:06:00  [ Thread-44:211515 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140313.htm
+2017-02-04 16:06:00  [ Thread-44:211688 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140402.htm
+2017-02-04 16:06:01  [ Thread-44:212420 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140410.htm
+2017-02-04 16:06:01  [ Thread-44:212577 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140100.htm
+2017-02-04 16:06:01  [ Thread-44:212776 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140120.htm
+2017-02-04 16:06:01  [ Thread-44:212988 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140417.htm
+2017-02-04 16:06:02  [ Thread-44:213466 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140115.htm
+2017-02-04 16:06:02  [ Thread-44:213868 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140208.htm
+2017-02-04 16:06:02  [ Thread-44:213905 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140212.htm
+2017-02-04 16:06:02  [ Thread-44:213943 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140305.htm
+2017-02-04 16:06:04  [ Thread-44:215727 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140317.htm
+2017-02-04 16:06:04  [ Thread-44:216172 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140405.htm
+2017-02-04 16:06:04  [ Thread-44:216207 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140219.htm
+2017-02-04 16:06:05  [ Thread-44:216561 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140104.htm
+2017-02-04 16:06:05  [ Thread-44:216693 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140409.htm
+2017-02-04 16:06:05  [ Thread-44:216825 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140108.htm
+2017-02-04 16:06:05  [ Thread-44:216861 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140413.htm
+2017-02-04 16:06:05  [ Thread-44:216897 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140418.htm
+2017-02-04 16:06:05  [ Thread-44:217150 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140112.htm
+2017-02-04 16:06:05  [ Thread-44:217331 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140302.htm
+2017-02-04 16:06:06  [ Thread-44:217524 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140204.htm
+2017-02-04 16:06:06  [ Thread-44:217660 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140309.htm
+2017-02-04 16:06:09  [ Thread-44:221099 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140221.htm
+2017-02-04 16:06:09  [ Thread-44:221248 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140119.htm
+2017-02-04 16:06:10  [ Thread-44:222188 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140101.htm
+2017-02-04 16:06:11  [ Thread-44:222525 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140312.htm
+2017-02-04 16:06:11  [ Thread-44:222744 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140209.htm
+2017-02-04 16:06:11  [ Thread-44:222785 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140401.htm
+2017-02-04 16:06:11  [ Thread-44:223032 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140215.htm
+2017-02-04 16:06:15  [ Thread-44:227214 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140200.htm
+2017-02-04 16:06:16  [ Thread-44:227717 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140116.htm
+2017-02-04 16:06:16  [ Thread-44:227890 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140306.htm
+2017-02-04 16:06:16  [ Thread-44:227928 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140416.htm
+2017-02-04 16:06:16  [ Thread-44:228103 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140211.htm
+2017-02-04 16:06:17  [ Thread-44:229355 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140406.htm
+2017-02-04 16:06:19  [ Thread-44:230502 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140105.htm
+2017-02-04 16:06:20  [ Thread-44:232388 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140201.htm
+2017-02-04 16:06:21  [ Thread-44:233295 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140316.htm
+2017-02-04 16:06:23  [ Thread-44:235385 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140205.htm
+2017-02-04 16:06:24  [ Thread-44:235428 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140111.htm
+2017-02-04 16:06:24  [ Thread-44:235954 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140412.htm
+2017-02-04 16:06:24  [ Thread-44:235993 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140222.htm
+2017-02-04 16:06:25  [ Thread-44:236572 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20140301.htm
+2017-02-04 16:06:45  [ Thread-44:257102 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150100.htm
+2017-02-04 16:06:49  [ Thread-44:261118 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150200.htm
+2017-02-04 16:07:14  [ Thread-44:286179 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150607.htm
+2017-02-04 16:07:33  [ Thread-44:304921 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150300.htm
+2017-02-04 16:07:34  [ Thread-44:306179 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150600.htm
+2017-02-04 16:07:40  [ Thread-44:311490 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150400.htm
+2017-02-04 16:07:41  [ Thread-44:312994 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20150500.htm
+2017-02-04 16:07:53  [ Thread-44:324804 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20160500.htm
+2017-02-04 16:07:54  [ Thread-44:326292 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20160600.htm
+2017-02-04 16:07:58  [ Thread-44:330116 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20160100.htm
+2017-02-04 16:07:58  [ Thread-44:330152 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20160400.htm
+2017-02-04 16:08:07  [ Thread-44:339165 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://html.rhhz.net/BJHKHTDXXBSKB/20160300.htm
+2017-02-04 16:11:16  [ JavaFX Application Thread:1 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 16:11:16  [ JavaFX Application Thread:9 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 16:11:16  [ JavaFX Application Thread:18 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 18:20:04  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 18:20:04  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 18:20:04  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 18:27:29  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 18:27:29  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 18:27:29  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 18:29:40  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 18:29:40  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 18:29:40  [ JavaFX Application Thread:12 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 19:06:33  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 19:06:33  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 19:06:33  [ JavaFX Application Thread:12 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 19:07:21  [ Thread-45:47637 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 19:11:52  [ Thread-45:319182 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 20:14:17  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 20:14:17  [ JavaFX Application Thread:5 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 20:14:17  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 20:15:45  [ Thread-47:88115 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 20:19:43  [ Thread-47:326847 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 21:33:48  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 21:33:48  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 21:33:48  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 21:34:21  [ Thread-48:32903 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 21:39:02  [ Thread-48:313585 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 21:46:44  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 21:46:44  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 21:46:44  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 21:47:14  [ Thread-43:30559 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 21:53:05  [ Thread-43:381141 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 21:55:08  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 21:55:08  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 21:55:08  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 21:55:38  [ Thread-27:29957 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 22:01:55  [ Thread-27:407363 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 22:02:13  [ Thread-31:425354 ] - [ DEBUG ]  U Thread 1 started
+2017-02-04 22:02:17  [ Thread-31:429261 ] - [ DEBUG ]  U Thread 1 end
+2017-02-04 22:02:17  [ JavaFX Application Thread:429262 ] - [ DEBUG ]  3913
+2017-02-04 22:02:17  [ Thread-32:429266 ] - [ DEBUG ]  U Thread 2 started
+2017-02-04 22:02:21  [ Thread-32:432891 ] - [ DEBUG ]  U Thread 2 end
+2017-02-04 22:02:21  [ JavaFX Application Thread:432891 ] - [ DEBUG ]  3629
+2017-02-04 22:02:21  [ Thread-33:432894 ] - [ DEBUG ]  U Thread 3 started
+2017-02-04 22:02:25  [ Thread-33:436810 ] - [ DEBUG ]  U Thread 3 end
+2017-02-04 22:02:25  [ JavaFX Application Thread:436811 ] - [ DEBUG ]  3920
+2017-02-04 22:02:25  [ Thread-34:436813 ] - [ DEBUG ]  U Thread 4 started
+2017-02-04 22:02:28  [ Thread-34:440526 ] - [ DEBUG ]  U Thread 4 end
+2017-02-04 22:02:28  [ JavaFX Application Thread:440527 ] - [ DEBUG ]  3715
+2017-02-04 22:02:28  [ Thread-35:440531 ] - [ DEBUG ]  U Thread 5 started
+2017-02-04 22:02:53  [ Thread-35:464804 ] - [ DEBUG ]  U Thread 5 end
+2017-02-04 22:02:53  [ JavaFX Application Thread:464805 ] - [ DEBUG ]  24278
+2017-02-04 22:02:53  [ Thread-36:464808 ] - [ DEBUG ]  U Thread 6 started
+2017-02-04 22:03:17  [ Thread-36:489001 ] - [ DEBUG ]  U Thread 6 end
+2017-02-04 22:03:17  [ JavaFX Application Thread:489001 ] - [ DEBUG ]  24196
+2017-02-04 22:03:17  [ Thread-37:489004 ] - [ DEBUG ]  U Thread 7 started
+2017-02-04 22:03:19  [ Thread-37:491572 ] - [ DEBUG ]  U Thread 7 end
+2017-02-04 22:04:09  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 22:04:09  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 22:04:09  [ JavaFX Application Thread:13 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 22:04:52  [ Thread-26:42751 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 22:11:02  [ Thread-26:412829 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 22:11:21  [ Thread-29:432471 ] - [ DEBUG ]  U Thread 1 started
+2017-02-04 22:11:40  [ Thread-29:451357 ] - [ DEBUG ]  U Thread 1 end
+2017-02-04 22:11:40  [ JavaFX Application Thread:451358 ] - [ DEBUG ]  18890
+2017-02-04 22:11:40  [ Thread-30:451362 ] - [ DEBUG ]  U Thread 2 started
+2017-02-04 22:11:59  [ Thread-30:470476 ] - [ DEBUG ]  U Thread 2 end
+2017-02-04 22:11:59  [ JavaFX Application Thread:470476 ] - [ DEBUG ]  19117
+2017-02-04 22:11:59  [ Thread-31:470481 ] - [ DEBUG ]  U Thread 3 started
+2017-02-04 22:12:04  [ Thread-31:474848 ] - [ DEBUG ]  U Thread 3 end
+2017-02-04 22:12:04  [ JavaFX Application Thread:474849 ] - [ DEBUG ]  4371
+2017-02-04 22:12:04  [ Thread-32:474852 ] - [ DEBUG ]  U Thread 4 started
+2017-02-04 22:12:08  [ Thread-32:479113 ] - [ DEBUG ]  U Thread 4 end
+2017-02-04 22:12:08  [ JavaFX Application Thread:479114 ] - [ DEBUG ]  4265
+2017-02-04 22:12:08  [ Thread-33:479119 ] - [ DEBUG ]  U Thread 5 started
+2017-02-04 22:12:33  [ Thread-33:504637 ] - [ DEBUG ]  U Thread 5 end
+2017-02-04 22:12:33  [ JavaFX Application Thread:504637 ] - [ DEBUG ]  25523
+2017-02-04 22:12:34  [ Thread-34:504642 ] - [ DEBUG ]  U Thread 6 started
+2017-02-04 22:13:00  [ Thread-34:530925 ] - [ DEBUG ]  U Thread 6 end
+2017-02-04 22:13:00  [ JavaFX Application Thread:530925 ] - [ DEBUG ]  26287
+2017-02-04 22:13:00  [ Thread-35:530929 ] - [ DEBUG ]  U Thread 7 started
+2017-02-04 22:13:03  [ Thread-35:533642 ] - [ DEBUG ]  U Thread 7 end
+2017-02-04 22:26:55  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 22:26:55  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 22:26:55  [ JavaFX Application Thread:12 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 22:27:49  [ Thread-23:54588 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 22:34:28  [ Thread-23:453003 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 22:34:45  [ Thread-26:470317 ] - [ DEBUG ]  U Thread 1 started
+2017-02-04 22:34:49  [ Thread-26:474658 ] - [ DEBUG ]  U Thread 1 end
+2017-02-04 22:34:49  [ JavaFX Application Thread:474658 ] - [ DEBUG ]  4347
+2017-02-04 22:34:49  [ Thread-27:474661 ] - [ DEBUG ]  U Thread 2 started
+2017-02-04 22:34:53  [ Thread-27:478704 ] - [ DEBUG ]  U Thread 2 end
+2017-02-04 22:34:53  [ JavaFX Application Thread:478704 ] - [ DEBUG ]  4045
+2017-02-04 22:34:53  [ Thread-28:478707 ] - [ DEBUG ]  U Thread 3 started
+2017-02-04 22:34:58  [ Thread-28:482989 ] - [ DEBUG ]  U Thread 3 end
+2017-02-04 22:34:58  [ JavaFX Application Thread:482990 ] - [ DEBUG ]  4284
+2017-02-04 22:34:58  [ Thread-29:482992 ] - [ DEBUG ]  U Thread 4 started
+2017-02-04 22:35:02  [ Thread-29:487046 ] - [ DEBUG ]  U Thread 4 end
+2017-02-04 22:35:02  [ JavaFX Application Thread:487046 ] - [ DEBUG ]  4056
+2017-02-04 22:35:02  [ Thread-30:487052 ] - [ DEBUG ]  U Thread 5 started
+2017-02-04 22:35:06  [ Thread-30:490989 ] - [ DEBUG ]  U Thread 5 end
+2017-02-04 22:35:06  [ JavaFX Application Thread:490990 ] - [ DEBUG ]  3944
+2017-02-04 22:35:06  [ Thread-31:490993 ] - [ DEBUG ]  U Thread 6 started
+2017-02-04 22:35:09  [ Thread-31:494630 ] - [ DEBUG ]  U Thread 6 end
+2017-02-04 22:35:09  [ JavaFX Application Thread:494630 ] - [ DEBUG ]  3640
+2017-02-04 22:35:09  [ Thread-32:494633 ] - [ DEBUG ]  U Thread 7 started
+2017-02-04 22:35:12  [ Thread-32:497477 ] - [ DEBUG ]  U Thread 7 end
+2017-02-04 22:35:30  [ Thread-36:515147 ] - [ DEBUG ]  U Thread 8 started
+2017-02-04 22:35:34  [ Thread-36:519539 ] - [ DEBUG ]  U Thread 8 end
+2017-02-04 22:35:34  [ JavaFX Application Thread:519539 ] - [ DEBUG ]  4395
+2017-02-04 22:35:34  [ Thread-37:519542 ] - [ DEBUG ]  U Thread 9 started
+2017-02-04 22:35:38  [ Thread-37:523453 ] - [ DEBUG ]  U Thread 9 end
+2017-02-04 22:35:38  [ JavaFX Application Thread:523454 ] - [ DEBUG ]  3913
+2017-02-04 22:35:38  [ Thread-38:523456 ] - [ DEBUG ]  U Thread 10 started
+2017-02-04 22:35:42  [ Thread-38:527433 ] - [ DEBUG ]  U Thread 10 end
+2017-02-04 22:35:42  [ JavaFX Application Thread:527433 ] - [ DEBUG ]  3979
+2017-02-04 22:35:42  [ Thread-39:527436 ] - [ DEBUG ]  U Thread 11 started
+2017-02-04 22:35:46  [ Thread-39:531073 ] - [ DEBUG ]  U Thread 11 end
+2017-02-04 22:35:46  [ JavaFX Application Thread:531073 ] - [ DEBUG ]  3640
+2017-02-04 22:35:46  [ Thread-40:531075 ] - [ DEBUG ]  U Thread 12 started
+2017-02-04 22:36:09  [ Thread-40:554221 ] - [ DEBUG ]  U Thread 12 end
+2017-02-04 22:36:09  [ JavaFX Application Thread:554222 ] - [ DEBUG ]  23148
+2017-02-04 22:36:09  [ Thread-41:554226 ] - [ DEBUG ]  U Thread 13 started
+2017-02-04 22:36:29  [ Thread-41:574706 ] - [ DEBUG ]  U Thread 13 end
+2017-02-04 22:36:29  [ JavaFX Application Thread:574706 ] - [ DEBUG ]  20484
+2017-02-04 22:36:29  [ Thread-42:574709 ] - [ DEBUG ]  U Thread 14 started
+2017-02-04 22:36:32  [ Thread-42:577584 ] - [ DEBUG ]  U Thread 14 end
+2017-02-04 22:45:26  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 22:45:26  [ JavaFX Application Thread:5 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 22:45:26  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 22:45:54  [ Thread-46:27293 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 22:50:18  [ Thread-46:291700 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 22:51:46  [ Thread-49:379431 ] - [ DEBUG ]  U Thread 1 started
+2017-02-04 22:51:50  [ Thread-49:383450 ] - [ DEBUG ]  U Thread 1 end
+2017-02-04 22:51:50  [ JavaFX Application Thread:383451 ] - [ DEBUG ]  4026
+2017-02-04 22:51:50  [ Thread-50:383454 ] - [ DEBUG ]  U Thread 2 started
+2017-02-04 22:51:53  [ Thread-50:387174 ] - [ DEBUG ]  U Thread 2 end
+2017-02-04 22:51:53  [ JavaFX Application Thread:387174 ] - [ DEBUG ]  3723
+2017-02-04 22:51:53  [ Thread-51:387179 ] - [ DEBUG ]  U Thread 3 started
+2017-02-04 22:51:58  [ Thread-51:392231 ] - [ DEBUG ]  U Thread 3 end
+2017-02-04 22:51:58  [ JavaFX Application Thread:392231 ] - [ DEBUG ]  5056
+2017-02-04 22:51:58  [ Thread-52:392237 ] - [ DEBUG ]  U Thread 4 started
+2017-02-04 22:52:03  [ Thread-52:397109 ] - [ DEBUG ]  U Thread 4 end
+2017-02-04 22:52:03  [ JavaFX Application Thread:397109 ] - [ DEBUG ]  4877
+2017-02-04 22:52:03  [ Thread-53:397118 ] - [ DEBUG ]  U Thread 5 started
+2017-02-04 22:52:13  [ Thread-53:407065 ] - [ DEBUG ]  U Thread 5 end
+2017-02-04 22:52:13  [ JavaFX Application Thread:407065 ] - [ DEBUG ]  9956
+2017-02-04 22:52:13  [ Thread-54:407068 ] - [ DEBUG ]  U Thread 6 started
+2017-02-04 22:52:19  [ Thread-54:412723 ] - [ DEBUG ]  U Thread 6 end
+2017-02-04 22:52:19  [ JavaFX Application Thread:412723 ] - [ DEBUG ]  5657
+2017-02-04 22:52:19  [ Thread-55:412727 ] - [ DEBUG ]  U Thread 7 started
+2017-02-04 22:52:22  [ Thread-55:415471 ] - [ DEBUG ]  U Thread 7 end
+2017-02-04 23:03:33  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-04 23:03:33  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
+2017-02-04 23:03:33  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-02-04 23:04:04  [ Thread-39:30661 ] - [ DEBUG ]  U Thread 0 started
+2017-02-04 23:09:43  [ Thread-39:369797 ] - [ DEBUG ]  U Thread 0 end
+2017-02-04 23:10:02  [ Thread-42:388763 ] - [ DEBUG ]  U Thread 1 started
+2017-02-04 23:10:06  [ Thread-42:392831 ] - [ DEBUG ]  U Thread 1 end
+2017-02-04 23:10:06  [ JavaFX Application Thread:392831 ] - [ DEBUG ]  4073
+2017-02-04 23:10:06  [ Thread-43:392836 ] - [ DEBUG ]  U Thread 2 started
+2017-02-04 23:10:10  [ Thread-43:396564 ] - [ DEBUG ]  U Thread 2 end
+2017-02-04 23:10:10  [ JavaFX Application Thread:396564 ] - [ DEBUG ]  3732
+2017-02-04 23:10:10  [ Thread-44:396567 ] - [ DEBUG ]  U Thread 3 started
+2017-02-04 23:10:14  [ Thread-44:400580 ] - [ DEBUG ]  U Thread 3 end
+2017-02-04 23:10:14  [ JavaFX Application Thread:400580 ] - [ DEBUG ]  4016
+2017-02-04 23:10:14  [ Thread-45:400583 ] - [ DEBUG ]  U Thread 4 started
+2017-02-04 23:10:17  [ Thread-45:404386 ] - [ DEBUG ]  U Thread 4 end
+2017-02-04 23:10:17  [ JavaFX Application Thread:404386 ] - [ DEBUG ]  3806
+2017-02-04 23:10:17  [ Thread-46:404391 ] - [ DEBUG ]  U Thread 5 started
+2017-02-04 23:10:21  [ Thread-46:408438 ] - [ DEBUG ]  U Thread 5 end
+2017-02-04 23:10:21  [ JavaFX Application Thread:408438 ] - [ DEBUG ]  4052
+2017-02-04 23:10:21  [ Thread-47:408441 ] - [ DEBUG ]  U Thread 6 started
+2017-02-04 23:10:25  [ Thread-47:412261 ] - [ DEBUG ]  U Thread 6 end
+2017-02-04 23:10:25  [ JavaFX Application Thread:412261 ] - [ DEBUG ]  3822
+2017-02-04 23:10:25  [ Thread-48:412264 ] - [ DEBUG ]  U Thread 7 started
+2017-02-04 23:10:28  [ Thread-48:415143 ] - [ DEBUG ]  U Thread 7 end

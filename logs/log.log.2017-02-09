@@ -1,0 +1,6 @@
+2017-02-09 16:28:38  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-09 16:28:38  [ JavaFX Application Thread:9 ] - [ INFO ]  Connect to database successfully.
+2017-02-09 16:28:38  [ JavaFX Application Thread:16 ] - [ INFO ]  Get the collection successfully.
+2017-02-09 19:44:53  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-02-09 19:44:53  [ JavaFX Application Thread:6 ] - [ INFO ]  Connect to database successfully.
+2017-02-09 19:44:53  [ JavaFX Application Thread:15 ] - [ INFO ]  Get the collection successfully.

@@ -1,0 +1,1866 @@
+2017-01-27 19:05:38  [ main:0 ] - [ DEBUG ]  debug
+2017-01-27 19:05:38  [ main:5 ] - [ INFO ]  info
+2017-01-27 19:05:38  [ main:5 ] - [ ERROR ]  error
+2017-01-27 19:06:17  [ main:0 ] - [ DEBUG ]  debug1
+2017-01-27 19:06:17  [ main:0 ] - [ INFO ]  info1
+2017-01-27 19:06:17  [ main:0 ] - [ ERROR ]  error1
+2017-01-27 19:08:48  [ main:0 ] - [ DEBUG ]  debug2
+2017-01-27 19:08:48  [ main:3 ] - [ INFO ]  info2
+2017-01-27 19:08:48  [ main:4 ] - [ ERROR ]  error2
+2017-01-27 19:13:55  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-01-27 19:13:55  [ JavaFX Application Thread:2 ] - [ INFO ]  Connect to database successfully.
+2017-01-27 19:13:55  [ JavaFX Application Thread:7 ] - [ INFO ]  Get the collection successfully.
+2017-01-27 19:13:55  [ JavaFX Application Thread:7 ] - [ DEBUG ]  Thread0started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:12 ] - [ DEBUG ]  Thread1started.
+2017-01-27 19:13:55  [ Thread-12:12 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1459.shtml
+2017-01-27 19:13:55  [ Thread-13:16 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1447.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:16 ] - [ DEBUG ]  Thread2started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread3started.
+2017-01-27 19:13:55  [ Thread-14:24 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1448.shtml
+2017-01-27 19:13:55  [ Thread-15:28 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1449.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:28 ] - [ DEBUG ]  Thread4started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread5started.
+2017-01-27 19:13:55  [ Thread-16:37 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1450.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:46 ] - [ DEBUG ]  Thread6started.
+2017-01-27 19:13:55  [ Thread-17:47 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1451.shtml
+2017-01-27 19:13:55  [ Thread-18:50 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1452.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:49 ] - [ DEBUG ]  Thread7started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread8started.
+2017-01-27 19:13:55  [ Thread-19:57 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1453.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:57 ] - [ DEBUG ]  Thread9started.
+2017-01-27 19:13:55  [ Thread-20:57 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1454.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread10started.
+2017-01-27 19:13:55  [ Thread-21:65 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1455.shtml
+2017-01-27 19:13:55  [ Thread-22:67 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1456.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread11started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread12started.
+2017-01-27 19:13:55  [ Thread-23:71 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1457.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread13started.
+2017-01-27 19:13:55  [ Thread-24:74 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1458.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread14started.
+2017-01-27 19:13:55  [ Thread-25:78 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1435.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread15started.
+2017-01-27 19:13:55  [ Thread-26:82 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1436.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread16started.
+2017-01-27 19:13:55  [ Thread-27:85 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1437.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread17started.
+2017-01-27 19:13:55  [ Thread-28:89 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1438.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread18started.
+2017-01-27 19:13:55  [ Thread-29:93 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1439.shtml
+2017-01-27 19:13:55  [ Thread-30:96 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1440.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread19started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread20started.
+2017-01-27 19:13:55  [ Thread-31:99 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1441.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread21started.
+2017-01-27 19:13:55  [ Thread-32:103 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1442.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:106 ] - [ DEBUG ]  Thread22started.
+2017-01-27 19:13:55  [ Thread-33:106 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1443.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:109 ] - [ DEBUG ]  Thread23started.
+2017-01-27 19:13:55  [ Thread-34:109 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1444.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:113 ] - [ DEBUG ]  Thread24started.
+2017-01-27 19:13:55  [ Thread-35:113 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1445.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:117 ] - [ DEBUG ]  Thread25started.
+2017-01-27 19:13:55  [ Thread-36:117 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1446.shtml
+2017-01-27 19:13:55  [ Thread-37:120 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1423.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread26started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:124 ] - [ DEBUG ]  Thread27started.
+2017-01-27 19:13:55  [ Thread-38:124 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1424.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:129 ] - [ DEBUG ]  Thread28started.
+2017-01-27 19:13:55  [ Thread-39:130 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1425.shtml
+2017-01-27 19:13:55  [ Thread-40:132 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1426.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:132 ] - [ DEBUG ]  Thread29started.
+2017-01-27 19:13:55  [ JavaFX Application Thread:137 ] - [ DEBUG ]  Thread30started.
+2017-01-27 19:13:55  [ Thread-41:137 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1427.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:141 ] - [ DEBUG ]  Thread31started.
+2017-01-27 19:13:55  [ Thread-42:142 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1428.shtml
+2017-01-27 19:13:55  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread32started.
+2017-01-27 19:13:56  [ Thread-43:157 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1429.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread33started.
+2017-01-27 19:13:56  [ Thread-44:161 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1430.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:164 ] - [ DEBUG ]  Thread34started.
+2017-01-27 19:13:56  [ Thread-45:164 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1431.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:168 ] - [ DEBUG ]  Thread35started.
+2017-01-27 19:13:56  [ Thread-46:168 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1432.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:172 ] - [ DEBUG ]  Thread36started.
+2017-01-27 19:13:56  [ Thread-47:173 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1433.shtml
+2017-01-27 19:13:56  [ Thread-48:179 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1434.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:178 ] - [ DEBUG ]  Thread37started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:183 ] - [ DEBUG ]  Thread38started.
+2017-01-27 19:13:56  [ Thread-49:185 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1411.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:186 ] - [ DEBUG ]  Thread39started.
+2017-01-27 19:13:56  [ Thread-50:194 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1412.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread40started.
+2017-01-27 19:13:56  [ Thread-51:197 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1413.shtml
+2017-01-27 19:13:56  [ Thread-52:200 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1414.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:200 ] - [ DEBUG ]  Thread41started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:229 ] - [ DEBUG ]  Thread42started.
+2017-01-27 19:13:56  [ Thread-53:229 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1415.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:233 ] - [ DEBUG ]  Thread43started.
+2017-01-27 19:13:56  [ Thread-54:233 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1416.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:237 ] - [ DEBUG ]  Thread44started.
+2017-01-27 19:13:56  [ Thread-55:237 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1417.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:255 ] - [ DEBUG ]  Thread45started.
+2017-01-27 19:13:56  [ Thread-56:255 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1418.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:258 ] - [ DEBUG ]  Thread46started.
+2017-01-27 19:13:56  [ Thread-57:258 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1419.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:280 ] - [ DEBUG ]  Thread47started.
+2017-01-27 19:13:56  [ Thread-58:280 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1420.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:284 ] - [ DEBUG ]  Thread48started.
+2017-01-27 19:13:56  [ Thread-59:284 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1421.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:288 ] - [ DEBUG ]  Thread49started.
+2017-01-27 19:13:56  [ Thread-60:288 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1422.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:307 ] - [ DEBUG ]  Thread50started.
+2017-01-27 19:13:56  [ Thread-61:307 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1395.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:311 ] - [ DEBUG ]  Thread51started.
+2017-01-27 19:13:56  [ Thread-62:311 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1397.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:318 ] - [ DEBUG ]  Thread52started.
+2017-01-27 19:13:56  [ Thread-63:319 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1398.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:324 ] - [ DEBUG ]  Thread53started.
+2017-01-27 19:13:56  [ Thread-64:324 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1400.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:326 ] - [ DEBUG ]  Thread54started.
+2017-01-27 19:13:56  [ Thread-65:326 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1402.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:329 ] - [ DEBUG ]  Thread55started.
+2017-01-27 19:13:56  [ Thread-66:329 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1403.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:331 ] - [ DEBUG ]  Thread56started.
+2017-01-27 19:13:56  [ Thread-67:331 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1404.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:333 ] - [ DEBUG ]  Thread57started.
+2017-01-27 19:13:56  [ Thread-68:333 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1405.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:336 ] - [ DEBUG ]  Thread58started.
+2017-01-27 19:13:56  [ Thread-69:336 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1406.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:339 ] - [ DEBUG ]  Thread59started.
+2017-01-27 19:13:56  [ Thread-70:339 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1407.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:341 ] - [ DEBUG ]  Thread60started.
+2017-01-27 19:13:56  [ Thread-71:341 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1408.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:343 ] - [ DEBUG ]  Thread61started.
+2017-01-27 19:13:56  [ Thread-72:343 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1409.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:346 ] - [ DEBUG ]  Thread62started.
+2017-01-27 19:13:56  [ Thread-73:346 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1382.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:348 ] - [ DEBUG ]  Thread63started.
+2017-01-27 19:13:56  [ Thread-74:348 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1383.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:350 ] - [ DEBUG ]  Thread64started.
+2017-01-27 19:13:56  [ Thread-75:350 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1384.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:352 ] - [ DEBUG ]  Thread65started.
+2017-01-27 19:13:56  [ Thread-76:352 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1386.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:355 ] - [ DEBUG ]  Thread66started.
+2017-01-27 19:13:56  [ Thread-77:355 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1387.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:357 ] - [ DEBUG ]  Thread67started.
+2017-01-27 19:13:56  [ Thread-78:357 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1388.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:359 ] - [ DEBUG ]  Thread68started.
+2017-01-27 19:13:56  [ Thread-79:359 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1389.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:361 ] - [ DEBUG ]  Thread69started.
+2017-01-27 19:13:56  [ Thread-80:362 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1390.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:363 ] - [ DEBUG ]  Thread70started.
+2017-01-27 19:13:56  [ Thread-81:363 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1391.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:366 ] - [ DEBUG ]  Thread71started.
+2017-01-27 19:13:56  [ Thread-82:366 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1392.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:368 ] - [ DEBUG ]  Thread72started.
+2017-01-27 19:13:56  [ Thread-83:368 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1393.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:370 ] - [ DEBUG ]  Thread73started.
+2017-01-27 19:13:56  [ Thread-84:370 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1394.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:372 ] - [ DEBUG ]  Thread74started.
+2017-01-27 19:13:56  [ Thread-85:372 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1140.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:374 ] - [ DEBUG ]  Thread75started.
+2017-01-27 19:13:56  [ Thread-86:375 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1139.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:377 ] - [ DEBUG ]  Thread76started.
+2017-01-27 19:13:56  [ Thread-87:377 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1138.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:379 ] - [ DEBUG ]  Thread77started.
+2017-01-27 19:13:56  [ Thread-88:379 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1137.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:381 ] - [ DEBUG ]  Thread78started.
+2017-01-27 19:13:56  [ Thread-89:381 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1136.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:383 ] - [ DEBUG ]  Thread79started.
+2017-01-27 19:13:56  [ Thread-90:383 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1135.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:385 ] - [ DEBUG ]  Thread80started.
+2017-01-27 19:13:56  [ Thread-91:386 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1134.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:387 ] - [ DEBUG ]  Thread81started.
+2017-01-27 19:13:56  [ Thread-92:388 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1348.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:389 ] - [ DEBUG ]  Thread82started.
+2017-01-27 19:13:56  [ Thread-93:390 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1354.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:392 ] - [ DEBUG ]  Thread83started.
+2017-01-27 19:13:56  [ Thread-94:392 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1361.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:394 ] - [ DEBUG ]  Thread84started.
+2017-01-27 19:13:56  [ Thread-95:395 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1363.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:397 ] - [ DEBUG ]  Thread85started.
+2017-01-27 19:13:56  [ Thread-96:397 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1381.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:398 ] - [ DEBUG ]  Thread86started.
+2017-01-27 19:13:56  [ Thread-97:399 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1152.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:400 ] - [ DEBUG ]  Thread87started.
+2017-01-27 19:13:56  [ Thread-98:400 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1148.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:402 ] - [ DEBUG ]  Thread88started.
+2017-01-27 19:13:56  [ Thread-99:402 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1147.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:404 ] - [ DEBUG ]  Thread89started.
+2017-01-27 19:13:56  [ Thread-100:405 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1146.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:408 ] - [ DEBUG ]  Thread90started.
+2017-01-27 19:13:56  [ Thread-101:408 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1145.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:410 ] - [ DEBUG ]  Thread91started.
+2017-01-27 19:13:56  [ Thread-102:410 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1144.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:413 ] - [ DEBUG ]  Thread92started.
+2017-01-27 19:13:56  [ Thread-103:413 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1143.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:415 ] - [ DEBUG ]  Thread93started.
+2017-01-27 19:13:56  [ Thread-104:415 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1142.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:417 ] - [ DEBUG ]  Thread94started.
+2017-01-27 19:13:56  [ Thread-105:418 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1141.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:420 ] - [ DEBUG ]  Thread95started.
+2017-01-27 19:13:56  [ Thread-106:420 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1151.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:421 ] - [ DEBUG ]  Thread96started.
+2017-01-27 19:13:56  [ Thread-107:422 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1150.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:423 ] - [ DEBUG ]  Thread97started.
+2017-01-27 19:13:56  [ Thread-108:423 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1149.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:425 ] - [ DEBUG ]  Thread98started.
+2017-01-27 19:13:56  [ Thread-109:425 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1164.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:427 ] - [ DEBUG ]  Thread99started.
+2017-01-27 19:13:56  [ Thread-110:427 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1160.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:429 ] - [ DEBUG ]  Thread100started.
+2017-01-27 19:13:56  [ Thread-111:429 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1159.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:431 ] - [ DEBUG ]  Thread101started.
+2017-01-27 19:13:56  [ Thread-112:431 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1158.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:433 ] - [ DEBUG ]  Thread102started.
+2017-01-27 19:13:56  [ Thread-113:433 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1157.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:434 ] - [ DEBUG ]  Thread103started.
+2017-01-27 19:13:56  [ Thread-114:435 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1156.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:436 ] - [ DEBUG ]  Thread104started.
+2017-01-27 19:13:56  [ Thread-115:436 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1155.shtml
+2017-01-27 19:13:56  [ Thread-116:445 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1154.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:445 ] - [ DEBUG ]  Thread105started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:448 ] - [ DEBUG ]  Thread106started.
+2017-01-27 19:13:56  [ Thread-117:448 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1153.shtml
+2017-01-27 19:13:56  [ Thread-118:452 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1163.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:452 ] - [ DEBUG ]  Thread107started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:454 ] - [ DEBUG ]  Thread108started.
+2017-01-27 19:13:56  [ Thread-119:454 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1162.shtml
+2017-01-27 19:13:56  [ Thread-120:456 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1161.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:456 ] - [ DEBUG ]  Thread109started.
+2017-01-27 19:13:56  [ Thread-121:462 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1176.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:463 ] - [ DEBUG ]  Thread110started.
+2017-01-27 19:13:56  [ Thread-122:468 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1172.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:469 ] - [ DEBUG ]  Thread111started.
+2017-01-27 19:13:56  [ Thread-123:472 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1171.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:472 ] - [ DEBUG ]  Thread112started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:476 ] - [ DEBUG ]  Thread113started.
+2017-01-27 19:13:56  [ Thread-124:476 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1170.shtml
+2017-01-27 19:13:56  [ Thread-125:479 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1169.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:479 ] - [ DEBUG ]  Thread114started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:481 ] - [ DEBUG ]  Thread115started.
+2017-01-27 19:13:56  [ Thread-126:481 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1168.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:482 ] - [ DEBUG ]  Thread116started.
+2017-01-27 19:13:56  [ Thread-127:483 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1167.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:484 ] - [ DEBUG ]  Thread117started.
+2017-01-27 19:13:56  [ Thread-128:484 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1166.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:487 ] - [ DEBUG ]  Thread118started.
+2017-01-27 19:13:56  [ Thread-129:487 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1165.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:491 ] - [ DEBUG ]  Thread119started.
+2017-01-27 19:13:56  [ Thread-130:491 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1175.shtml
+2017-01-27 19:13:56  [ Thread-131:494 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1174.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:494 ] - [ DEBUG ]  Thread120started.
+2017-01-27 19:13:56  [ Thread-132:501 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1173.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:501 ] - [ DEBUG ]  Thread121started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:503 ] - [ DEBUG ]  Thread122started.
+2017-01-27 19:13:56  [ Thread-133:503 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1188.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:506 ] - [ DEBUG ]  Thread123started.
+2017-01-27 19:13:56  [ Thread-134:506 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1184.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:508 ] - [ DEBUG ]  Thread124started.
+2017-01-27 19:13:56  [ Thread-135:508 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1183.shtml
+2017-01-27 19:13:56  [ Thread-136:517 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1182.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:517 ] - [ DEBUG ]  Thread125started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:525 ] - [ DEBUG ]  Thread126started.
+2017-01-27 19:13:56  [ Thread-137:525 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1181.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:527 ] - [ DEBUG ]  Thread127started.
+2017-01-27 19:13:56  [ Thread-138:527 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1180.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:528 ] - [ DEBUG ]  Thread128started.
+2017-01-27 19:13:56  [ Thread-139:529 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1179.shtml
+2017-01-27 19:13:56  [ Thread-140:531 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1178.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:531 ] - [ DEBUG ]  Thread129started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:533 ] - [ DEBUG ]  Thread130started.
+2017-01-27 19:13:56  [ Thread-141:533 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1177.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:535 ] - [ DEBUG ]  Thread131started.
+2017-01-27 19:13:56  [ Thread-142:535 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1187.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:540 ] - [ DEBUG ]  Thread132started.
+2017-01-27 19:13:56  [ Thread-143:540 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1186.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:543 ] - [ DEBUG ]  Thread133started.
+2017-01-27 19:13:56  [ Thread-144:543 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1185.shtml
+2017-01-27 19:13:56  [ Thread-145:545 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1200.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:545 ] - [ DEBUG ]  Thread134started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:547 ] - [ DEBUG ]  Thread135started.
+2017-01-27 19:13:56  [ Thread-146:547 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1196.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:549 ] - [ DEBUG ]  Thread136started.
+2017-01-27 19:13:56  [ Thread-147:549 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1195.shtml
+2017-01-27 19:13:56  [ Thread-148:551 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1194.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:551 ] - [ DEBUG ]  Thread137started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:553 ] - [ DEBUG ]  Thread138started.
+2017-01-27 19:13:56  [ Thread-149:553 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1193.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:555 ] - [ DEBUG ]  Thread139started.
+2017-01-27 19:13:56  [ Thread-150:556 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1192.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:559 ] - [ DEBUG ]  Thread140started.
+2017-01-27 19:13:56  [ Thread-151:559 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1191.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:561 ] - [ DEBUG ]  Thread141started.
+2017-01-27 19:13:56  [ Thread-152:561 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1190.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:562 ] - [ DEBUG ]  Thread142started.
+2017-01-27 19:13:56  [ Thread-153:562 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1189.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:564 ] - [ DEBUG ]  Thread143started.
+2017-01-27 19:13:56  [ Thread-154:564 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1199.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:566 ] - [ DEBUG ]  Thread144started.
+2017-01-27 19:13:56  [ Thread-155:566 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1198.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:568 ] - [ DEBUG ]  Thread145started.
+2017-01-27 19:13:56  [ Thread-156:568 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1197.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:569 ] - [ DEBUG ]  Thread146started.
+2017-01-27 19:13:56  [ Thread-157:569 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1212.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:575 ] - [ DEBUG ]  Thread147started.
+2017-01-27 19:13:56  [ Thread-158:575 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1208.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:579 ] - [ DEBUG ]  Thread148started.
+2017-01-27 19:13:56  [ Thread-159:579 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1207.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:582 ] - [ DEBUG ]  Thread149started.
+2017-01-27 19:13:56  [ Thread-160:582 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1206.shtml
+2017-01-27 19:13:56  [ Thread-152:585 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1190.shtml
+2017-01-27 19:13:56  [ Thread-151:585 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1191.shtml
+2017-01-27 19:13:56  [ Thread-153:588 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1189.shtml
+2017-01-27 19:13:56  [ Thread-154:590 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1199.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:591 ] - [ DEBUG ]  Thread150started.
+2017-01-27 19:13:56  [ Thread-161:591 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1205.shtml
+2017-01-27 19:13:56  [ Thread-155:592 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1198.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:594 ] - [ DEBUG ]  Thread151started.
+2017-01-27 19:13:56  [ Thread-162:594 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1204.shtml
+2017-01-27 19:13:56  [ Thread-157:596 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1212.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:597 ] - [ DEBUG ]  Thread152started.
+2017-01-27 19:13:56  [ Thread-163:597 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1203.shtml
+2017-01-27 19:13:56  [ Thread-156:599 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1197.shtml
+2017-01-27 19:13:56  [ Thread-158:601 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1208.shtml
+2017-01-27 19:13:56  [ Thread-164:634 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1202.shtml
+2017-01-27 19:13:56  [ Thread-161:635 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1205.shtml
+2017-01-27 19:13:56  [ Thread-162:635 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1204.shtml
+2017-01-27 19:13:56  [ Thread-163:635 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1203.shtml
+2017-01-27 19:13:56  [ Thread-160:635 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1206.shtml
+2017-01-27 19:13:56  [ Thread-159:636 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1207.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:636 ] - [ DEBUG ]  Thread153started.
+2017-01-27 19:13:56  [ Thread-164:670 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1202.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:672 ] - [ DEBUG ]  Thread154started.
+2017-01-27 19:13:56  [ Thread-165:672 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1201.shtml
+2017-01-27 19:13:56  [ Thread-166:674 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1211.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:674 ] - [ DEBUG ]  Thread155started.
+2017-01-27 19:13:56  [ Thread-167:679 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1210.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:680 ] - [ DEBUG ]  Thread156started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:681 ] - [ DEBUG ]  Thread157started.
+2017-01-27 19:13:56  [ Thread-168:681 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1209.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:685 ] - [ DEBUG ]  Thread158started.
+2017-01-27 19:13:56  [ Thread-169:685 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1224.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:687 ] - [ DEBUG ]  Thread159started.
+2017-01-27 19:13:56  [ Thread-170:687 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1220.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:688 ] - [ DEBUG ]  Thread160started.
+2017-01-27 19:13:56  [ Thread-171:689 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1219.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:690 ] - [ DEBUG ]  Thread161started.
+2017-01-27 19:13:56  [ Thread-172:691 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1218.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:692 ] - [ DEBUG ]  Thread162started.
+2017-01-27 19:13:56  [ Thread-173:693 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1217.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:695 ] - [ DEBUG ]  Thread163started.
+2017-01-27 19:13:56  [ Thread-174:695 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1216.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:697 ] - [ DEBUG ]  Thread164started.
+2017-01-27 19:13:56  [ Thread-175:697 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1215.shtml
+2017-01-27 19:13:56  [ Thread-165:697 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1201.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:699 ] - [ DEBUG ]  Thread165started.
+2017-01-27 19:13:56  [ Thread-176:699 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1214.shtml
+2017-01-27 19:13:56  [ Thread-166:701 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1211.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:702 ] - [ DEBUG ]  Thread166started.
+2017-01-27 19:13:56  [ Thread-177:702 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1213.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:704 ] - [ DEBUG ]  Thread167started.
+2017-01-27 19:13:56  [ Thread-178:704 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1223.shtml
+2017-01-27 19:13:56  [ Thread-167:705 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1210.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:706 ] - [ DEBUG ]  Thread168started.
+2017-01-27 19:13:56  [ Thread-179:706 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1222.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:709 ] - [ DEBUG ]  Thread169started.
+2017-01-27 19:13:56  [ Thread-180:710 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1221.shtml
+2017-01-27 19:13:56  [ Thread-169:711 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1224.shtml
+2017-01-27 19:13:56  [ Thread-168:710 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1209.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:712 ] - [ DEBUG ]  Thread170started.
+2017-01-27 19:13:56  [ Thread-181:712 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1236.shtml
+2017-01-27 19:13:56  [ Thread-170:713 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1220.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:714 ] - [ DEBUG ]  Thread171started.
+2017-01-27 19:13:56  [ Thread-182:714 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1232.shtml
+2017-01-27 19:13:56  [ Thread-171:714 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1219.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:715 ] - [ DEBUG ]  Thread172started.
+2017-01-27 19:13:56  [ Thread-183:715 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1231.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:716 ] - [ DEBUG ]  Thread173started.
+2017-01-27 19:13:56  [ Thread-184:716 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1230.shtml
+2017-01-27 19:13:56  [ Thread-172:717 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1218.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:718 ] - [ DEBUG ]  Thread174started.
+2017-01-27 19:13:56  [ Thread-185:718 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1229.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:719 ] - [ DEBUG ]  Thread175started.
+2017-01-27 19:13:56  [ Thread-186:719 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1228.shtml
+2017-01-27 19:13:56  [ Thread-173:720 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1217.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:721 ] - [ DEBUG ]  Thread176started.
+2017-01-27 19:13:56  [ Thread-187:721 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1227.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:722 ] - [ DEBUG ]  Thread177started.
+2017-01-27 19:13:56  [ Thread-188:722 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1226.shtml
+2017-01-27 19:13:56  [ Thread-174:722 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1216.shtml
+2017-01-27 19:13:56  [ Thread-175:723 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1215.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:724 ] - [ DEBUG ]  Thread178started.
+2017-01-27 19:13:56  [ Thread-189:724 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1225.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:725 ] - [ DEBUG ]  Thread179started.
+2017-01-27 19:13:56  [ Thread-190:725 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1235.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:726 ] - [ DEBUG ]  Thread180started.
+2017-01-27 19:13:56  [ Thread-191:726 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1234.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:727 ] - [ DEBUG ]  Thread181started.
+2017-01-27 19:13:56  [ Thread-192:728 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1233.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:729 ] - [ DEBUG ]  Thread182started.
+2017-01-27 19:13:56  [ Thread-176:729 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1214.shtml
+2017-01-27 19:13:56  [ Thread-193:729 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1248.shtml
+2017-01-27 19:13:56  [ Thread-177:729 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1213.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:730 ] - [ DEBUG ]  Thread183started.
+2017-01-27 19:13:56  [ Thread-194:730 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1244.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:732 ] - [ DEBUG ]  Thread184started.
+2017-01-27 19:13:56  [ Thread-195:732 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1243.shtml
+2017-01-27 19:13:56  [ Thread-178:733 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1223.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:733 ] - [ DEBUG ]  Thread185started.
+2017-01-27 19:13:56  [ Thread-196:733 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1242.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:734 ] - [ DEBUG ]  Thread186started.
+2017-01-27 19:13:56  [ Thread-197:734 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1241.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:736 ] - [ DEBUG ]  Thread187started.
+2017-01-27 19:13:56  [ Thread-198:736 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1240.shtml
+2017-01-27 19:13:56  [ Thread-179:747 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1222.shtml
+2017-01-27 19:13:56  [ Thread-183:747 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1231.shtml
+2017-01-27 19:13:56  [ Thread-182:747 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1232.shtml
+2017-01-27 19:13:56  [ Thread-184:747 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1230.shtml
+2017-01-27 19:13:56  [ Thread-185:747 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1229.shtml
+2017-01-27 19:13:56  [ Thread-199:748 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1239.shtml
+2017-01-27 19:13:56  [ Thread-181:736 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1236.shtml
+2017-01-27 19:13:56  [ Thread-180:736 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1221.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:748 ] - [ DEBUG ]  Thread188started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:750 ] - [ DEBUG ]  Thread189started.
+2017-01-27 19:13:56  [ Thread-200:750 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1238.shtml
+2017-01-27 19:13:56  [ Thread-189:751 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1225.shtml
+2017-01-27 19:13:56  [ Thread-187:750 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1227.shtml
+2017-01-27 19:13:56  [ Thread-186:750 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1228.shtml
+2017-01-27 19:13:56  [ Thread-191:751 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1234.shtml
+2017-01-27 19:13:56  [ Thread-188:751 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1226.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:752 ] - [ DEBUG ]  Thread190started.
+2017-01-27 19:13:56  [ Thread-201:752 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1237.shtml
+2017-01-27 19:13:56  [ Thread-190:753 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1235.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:753 ] - [ DEBUG ]  Thread191started.
+2017-01-27 19:13:56  [ Thread-202:753 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1247.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:754 ] - [ DEBUG ]  Thread192started.
+2017-01-27 19:13:56  [ Thread-203:754 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1246.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:755 ] - [ DEBUG ]  Thread193started.
+2017-01-27 19:13:56  [ Thread-204:756 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1245.shtml
+2017-01-27 19:13:56  [ Thread-194:756 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1244.shtml
+2017-01-27 19:13:56  [ Thread-192:756 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1233.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:757 ] - [ DEBUG ]  Thread194started.
+2017-01-27 19:13:56  [ Thread-205:757 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1254.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:758 ] - [ DEBUG ]  Thread195started.
+2017-01-27 19:13:56  [ Thread-206:758 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1253.shtml
+2017-01-27 19:13:56  [ Thread-193:759 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1248.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:760 ] - [ DEBUG ]  Thread196started.
+2017-01-27 19:13:56  [ Thread-197:759 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1241.shtml
+2017-01-27 19:13:56  [ Thread-207:760 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1252.shtml
+2017-01-27 19:13:56  [ Thread-196:759 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1242.shtml
+2017-01-27 19:13:56  [ Thread-195:761 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1243.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:762 ] - [ DEBUG ]  Thread197started.
+2017-01-27 19:13:56  [ Thread-208:762 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1251.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:763 ] - [ DEBUG ]  Thread198started.
+2017-01-27 19:13:56  [ Thread-209:763 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1250.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:764 ] - [ DEBUG ]  Thread199started.
+2017-01-27 19:13:56  [ Thread-210:765 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1249.shtml
+2017-01-27 19:13:56  [ Thread-198:765 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1240.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:766 ] - [ DEBUG ]  Thread200started.
+2017-01-27 19:13:56  [ Thread-211:766 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1260.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:767 ] - [ DEBUG ]  Thread201started.
+2017-01-27 19:13:56  [ Thread-212:767 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1259.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:768 ] - [ DEBUG ]  Thread202started.
+2017-01-27 19:13:56  [ Thread-213:768 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1258.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:769 ] - [ DEBUG ]  Thread203started.
+2017-01-27 19:13:56  [ Thread-214:769 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1257.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:770 ] - [ DEBUG ]  Thread204started.
+2017-01-27 19:13:56  [ Thread-215:771 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1256.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:772 ] - [ DEBUG ]  Thread205started.
+2017-01-27 19:13:56  [ Thread-216:772 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1255.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:773 ] - [ DEBUG ]  Thread206started.
+2017-01-27 19:13:56  [ Thread-217:773 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1266.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:774 ] - [ DEBUG ]  Thread207started.
+2017-01-27 19:13:56  [ Thread-218:775 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1265.shtml
+2017-01-27 19:13:56  [ Thread-199:775 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1239.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:776 ] - [ DEBUG ]  Thread208started.
+2017-01-27 19:13:56  [ Thread-219:776 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1264.shtml
+2017-01-27 19:13:56  [ Thread-202:778 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1247.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:779 ] - [ DEBUG ]  Thread209started.
+2017-01-27 19:13:56  [ Thread-220:779 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1263.shtml
+2017-01-27 19:13:56  [ Thread-200:779 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1238.shtml
+2017-01-27 19:13:56  [ Thread-203:779 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1246.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:780 ] - [ DEBUG ]  Thread210started.
+2017-01-27 19:13:56  [ Thread-204:781 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1245.shtml
+2017-01-27 19:13:56  [ Thread-201:781 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1237.shtml
+2017-01-27 19:13:56  [ Thread-221:780 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1262.shtml
+2017-01-27 19:13:56  [ Thread-222:782 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1261.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:782 ] - [ DEBUG ]  Thread211started.
+2017-01-27 19:13:56  [ Thread-205:783 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1254.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:783 ] - [ DEBUG ]  Thread212started.
+2017-01-27 19:13:56  [ Thread-223:783 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1272.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:784 ] - [ DEBUG ]  Thread213started.
+2017-01-27 19:13:56  [ Thread-224:784 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1271.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:786 ] - [ DEBUG ]  Thread214started.
+2017-01-27 19:13:56  [ Thread-225:786 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1270.shtml
+2017-01-27 19:13:56  [ Thread-206:787 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1253.shtml
+2017-01-27 19:13:56  [ Thread-207:787 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1252.shtml
+2017-01-27 19:13:56  [ Thread-208:787 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1251.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:788 ] - [ DEBUG ]  Thread215started.
+2017-01-27 19:13:56  [ Thread-226:788 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1269.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:789 ] - [ DEBUG ]  Thread216started.
+2017-01-27 19:13:56  [ Thread-227:789 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1268.shtml
+2017-01-27 19:13:56  [ Thread-211:790 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1260.shtml
+2017-01-27 19:13:56  [ Thread-210:790 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1249.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:790 ] - [ DEBUG ]  Thread217started.
+2017-01-27 19:13:56  [ Thread-228:790 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1267.shtml
+2017-01-27 19:13:56  [ Thread-209:793 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1250.shtml
+2017-01-27 19:13:56  [ Thread-213:793 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1258.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:793 ] - [ DEBUG ]  Thread218started.
+2017-01-27 19:13:56  [ Thread-229:793 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1278.shtml
+2017-01-27 19:13:56  [ Thread-212:796 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1259.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:796 ] - [ DEBUG ]  Thread219started.
+2017-01-27 19:13:56  [ Thread-230:796 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1277.shtml
+2017-01-27 19:13:56  [ Thread-214:797 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1257.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:798 ] - [ DEBUG ]  Thread220started.
+2017-01-27 19:13:56  [ Thread-231:798 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1276.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:799 ] - [ DEBUG ]  Thread221started.
+2017-01-27 19:13:56  [ Thread-232:799 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1275.shtml
+2017-01-27 19:13:56  [ Thread-215:799 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1256.shtml
+2017-01-27 19:13:56  [ Thread-216:799 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1255.shtml
+2017-01-27 19:13:56  [ Thread-218:800 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1265.shtml
+2017-01-27 19:13:56  [ Thread-217:801 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1266.shtml
+2017-01-27 19:13:56  [ Thread-233:801 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1274.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:801 ] - [ DEBUG ]  Thread222started.
+2017-01-27 19:13:56  [ Thread-219:803 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1264.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:803 ] - [ DEBUG ]  Thread223started.
+2017-01-27 19:13:56  [ Thread-234:803 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1273.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:804 ] - [ DEBUG ]  Thread224started.
+2017-01-27 19:13:56  [ Thread-235:804 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1284.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:806 ] - [ DEBUG ]  Thread225started.
+2017-01-27 19:13:56  [ Thread-236:806 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1283.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:807 ] - [ DEBUG ]  Thread226started.
+2017-01-27 19:13:56  [ Thread-220:807 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1263.shtml
+2017-01-27 19:13:56  [ Thread-237:807 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1282.shtml
+2017-01-27 19:13:56  [ Thread-222:808 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1261.shtml
+2017-01-27 19:13:56  [ Thread-221:808 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1262.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:809 ] - [ DEBUG ]  Thread227started.
+2017-01-27 19:13:56  [ Thread-238:809 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1281.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:810 ] - [ DEBUG ]  Thread228started.
+2017-01-27 19:13:56  [ Thread-239:810 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1280.shtml
+2017-01-27 19:13:56  [ Thread-223:811 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1272.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:812 ] - [ DEBUG ]  Thread229started.
+2017-01-27 19:13:56  [ Thread-240:812 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1279.shtml
+2017-01-27 19:13:56  [ Thread-226:813 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1269.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:813 ] - [ DEBUG ]  Thread230started.
+2017-01-27 19:13:56  [ Thread-241:813 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1290.shtml
+2017-01-27 19:13:56  [ Thread-227:814 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1268.shtml
+2017-01-27 19:13:56  [ Thread-242:815 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1289.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:815 ] - [ DEBUG ]  Thread231started.
+2017-01-27 19:13:56  [ Thread-225:815 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1270.shtml
+2017-01-27 19:13:56  [ Thread-224:815 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1271.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:816 ] - [ DEBUG ]  Thread232started.
+2017-01-27 19:13:56  [ Thread-243:816 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1288.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:818 ] - [ DEBUG ]  Thread233started.
+2017-01-27 19:13:56  [ Thread-244:819 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1287.shtml
+2017-01-27 19:13:56  [ Thread-228:819 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1267.shtml
+2017-01-27 19:13:56  [ Thread-245:820 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1286.shtml
+2017-01-27 19:13:56  [ Thread-231:822 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1276.shtml
+2017-01-27 19:13:56  [ Thread-229:822 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1278.shtml
+2017-01-27 19:13:56  [ Thread-232:825 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1275.shtml
+2017-01-27 19:13:56  [ Thread-230:825 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1277.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:825 ] - [ DEBUG ]  Thread234started.
+2017-01-27 19:13:56  [ Thread-241:839 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1290.shtml
+2017-01-27 19:13:56  [ Thread-238:838 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1281.shtml
+2017-01-27 19:13:56  [ Thread-240:836 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1279.shtml
+2017-01-27 19:13:56  [ Thread-239:835 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1280.shtml
+2017-01-27 19:13:56  [ Thread-236:835 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1283.shtml
+2017-01-27 19:13:56  [ Thread-235:833 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1284.shtml
+2017-01-27 19:13:56  [ Thread-237:833 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1282.shtml
+2017-01-27 19:13:56  [ Thread-234:829 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1273.shtml
+2017-01-27 19:13:56  [ Thread-233:829 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1274.shtml
+2017-01-27 19:13:56  [ Thread-242:843 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1289.shtml
+2017-01-27 19:13:56  [ Thread-244:843 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1287.shtml
+2017-01-27 19:13:56  [ Thread-246:844 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1285.shtml
+2017-01-27 19:13:56  [ Thread-243:844 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1288.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:848 ] - [ DEBUG ]  Thread235started.
+2017-01-27 19:13:56  [ Thread-245:849 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1286.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:852 ] - [ DEBUG ]  Thread236started.
+2017-01-27 19:13:56  [ Thread-247:852 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1296.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:854 ] - [ DEBUG ]  Thread237started.
+2017-01-27 19:13:56  [ Thread-248:854 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1295.shtml
+2017-01-27 19:13:56  [ Thread-249:856 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1294.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:856 ] - [ DEBUG ]  Thread238started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:859 ] - [ DEBUG ]  Thread239started.
+2017-01-27 19:13:56  [ Thread-250:859 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1293.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:860 ] - [ DEBUG ]  Thread240started.
+2017-01-27 19:13:56  [ Thread-251:860 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1292.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:862 ] - [ DEBUG ]  Thread241started.
+2017-01-27 19:13:56  [ Thread-252:862 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1291.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:863 ] - [ DEBUG ]  Thread242started.
+2017-01-27 19:13:56  [ Thread-253:863 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1302.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:865 ] - [ DEBUG ]  Thread243started.
+2017-01-27 19:13:56  [ Thread-254:865 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1301.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:866 ] - [ DEBUG ]  Thread244started.
+2017-01-27 19:13:56  [ Thread-255:866 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1300.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:867 ] - [ DEBUG ]  Thread245started.
+2017-01-27 19:13:56  [ Thread-256:867 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1299.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:869 ] - [ DEBUG ]  Thread246started.
+2017-01-27 19:13:56  [ Thread-257:869 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1298.shtml
+2017-01-27 19:13:56  [ Thread-246:869 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1285.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:872 ] - [ DEBUG ]  Thread247started.
+2017-01-27 19:13:56  [ Thread-258:872 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1297.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:874 ] - [ DEBUG ]  Thread248started.
+2017-01-27 19:13:56  [ Thread-259:874 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1308.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:876 ] - [ DEBUG ]  Thread249started.
+2017-01-27 19:13:56  [ Thread-260:876 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1307.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:877 ] - [ DEBUG ]  Thread250started.
+2017-01-27 19:13:56  [ Thread-261:877 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1306.shtml
+2017-01-27 19:13:56  [ Thread-247:878 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1296.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:879 ] - [ DEBUG ]  Thread251started.
+2017-01-27 19:13:56  [ Thread-262:879 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1305.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:880 ] - [ DEBUG ]  Thread252started.
+2017-01-27 19:13:56  [ Thread-263:880 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1304.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:882 ] - [ DEBUG ]  Thread253started.
+2017-01-27 19:13:56  [ Thread-264:882 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1303.shtml
+2017-01-27 19:13:56  [ Thread-248:884 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1295.shtml
+2017-01-27 19:13:56  [ Thread-249:884 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1294.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:884 ] - [ DEBUG ]  Thread254started.
+2017-01-27 19:13:56  [ Thread-265:884 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1314.shtml
+2017-01-27 19:13:56  [ Thread-251:885 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1292.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:886 ] - [ DEBUG ]  Thread255started.
+2017-01-27 19:13:56  [ Thread-266:886 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1313.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:887 ] - [ DEBUG ]  Thread256started.
+2017-01-27 19:13:56  [ Thread-267:887 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1312.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:888 ] - [ DEBUG ]  Thread257started.
+2017-01-27 19:13:56  [ Thread-268:888 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1311.shtml
+2017-01-27 19:13:56  [ Thread-250:888 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1293.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:889 ] - [ DEBUG ]  Thread258started.
+2017-01-27 19:13:56  [ Thread-269:889 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1310.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:891 ] - [ DEBUG ]  Thread259started.
+2017-01-27 19:13:56  [ Thread-270:891 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1309.shtml
+2017-01-27 19:13:56  [ Thread-252:891 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1291.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:892 ] - [ DEBUG ]  Thread260started.
+2017-01-27 19:13:56  [ Thread-271:892 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1320.shtml
+2017-01-27 19:13:56  [ Thread-257:894 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1298.shtml
+2017-01-27 19:13:56  [ Thread-256:893 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1299.shtml
+2017-01-27 19:13:56  [ Thread-254:896 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1301.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:896 ] - [ DEBUG ]  Thread261started.
+2017-01-27 19:13:56  [ Thread-272:896 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1319.shtml
+2017-01-27 19:13:56  [ Thread-255:897 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1300.shtml
+2017-01-27 19:13:56  [ Thread-253:897 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1302.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:898 ] - [ DEBUG ]  Thread262started.
+2017-01-27 19:13:56  [ Thread-273:898 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1318.shtml
+2017-01-27 19:13:56  [ Thread-258:898 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1297.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:899 ] - [ DEBUG ]  Thread263started.
+2017-01-27 19:13:56  [ Thread-274:899 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1317.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:900 ] - [ DEBUG ]  Thread264started.
+2017-01-27 19:13:56  [ Thread-275:900 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1316.shtml
+2017-01-27 19:13:56  [ Thread-259:902 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1308.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:904 ] - [ DEBUG ]  Thread265started.
+2017-01-27 19:13:56  [ Thread-276:904 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1315.shtml
+2017-01-27 19:13:56  [ Thread-260:904 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1307.shtml
+2017-01-27 19:13:56  [ Thread-261:904 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1306.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:905 ] - [ DEBUG ]  Thread266started.
+2017-01-27 19:13:56  [ Thread-277:905 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1326.shtml
+2017-01-27 19:13:56  [ Thread-263:906 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1304.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:907 ] - [ DEBUG ]  Thread267started.
+2017-01-27 19:13:56  [ Thread-278:907 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1325.shtml
+2017-01-27 19:13:56  [ Thread-262:908 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1305.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:909 ] - [ DEBUG ]  Thread268started.
+2017-01-27 19:13:56  [ Thread-279:909 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1324.shtml
+2017-01-27 19:13:56  [ Thread-265:910 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1314.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:910 ] - [ DEBUG ]  Thread269started.
+2017-01-27 19:13:56  [ Thread-280:911 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1323.shtml
+2017-01-27 19:13:56  [ Thread-264:911 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1303.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:912 ] - [ DEBUG ]  Thread270started.
+2017-01-27 19:13:56  [ Thread-281:912 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1322.shtml
+2017-01-27 19:13:56  [ Thread-268:913 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1311.shtml
+2017-01-27 19:13:56  [ Thread-267:912 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1312.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:913 ] - [ DEBUG ]  Thread271started.
+2017-01-27 19:13:56  [ Thread-282:913 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1321.shtml
+2017-01-27 19:13:56  [ Thread-266:914 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1313.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:915 ] - [ DEBUG ]  Thread272started.
+2017-01-27 19:13:56  [ Thread-283:915 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1332.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:916 ] - [ DEBUG ]  Thread273started.
+2017-01-27 19:13:56  [ Thread-284:916 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1331.shtml
+2017-01-27 19:13:56  [ Thread-270:917 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1309.shtml
+2017-01-27 19:13:56  [ Thread-285:917 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1330.shtml
+2017-01-27 19:13:56  [ Thread-271:917 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1320.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:917 ] - [ DEBUG ]  Thread274started.
+2017-01-27 19:13:56  [ Thread-269:917 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1310.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:919 ] - [ DEBUG ]  Thread275started.
+2017-01-27 19:13:56  [ Thread-286:919 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1329.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:921 ] - [ DEBUG ]  Thread276started.
+2017-01-27 19:13:56  [ Thread-287:922 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1328.shtml
+2017-01-27 19:13:56  [ Thread-273:923 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1318.shtml
+2017-01-27 19:13:56  [ Thread-288:923 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1327.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:923 ] - [ DEBUG ]  Thread277started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:925 ] - [ DEBUG ]  Thread278started.
+2017-01-27 19:13:56  [ Thread-289:925 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1338.shtml
+2017-01-27 19:13:56  [ Thread-272:926 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1319.shtml
+2017-01-27 19:13:56  [ Thread-274:925 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1317.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:926 ] - [ DEBUG ]  Thread279started.
+2017-01-27 19:13:56  [ Thread-290:926 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1337.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:928 ] - [ DEBUG ]  Thread280started.
+2017-01-27 19:13:56  [ Thread-291:928 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1336.shtml
+2017-01-27 19:13:56  [ Thread-276:929 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1315.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:929 ] - [ DEBUG ]  Thread281started.
+2017-01-27 19:13:56  [ Thread-277:930 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1326.shtml
+2017-01-27 19:13:56  [ Thread-292:929 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1335.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:930 ] - [ DEBUG ]  Thread282started.
+2017-01-27 19:13:56  [ Thread-293:930 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1334.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:931 ] - [ DEBUG ]  Thread283started.
+2017-01-27 19:13:56  [ Thread-294:931 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1333.shtml
+2017-01-27 19:13:56  [ Thread-278:933 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1325.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:933 ] - [ DEBUG ]  Thread284started.
+2017-01-27 19:13:56  [ Thread-295:933 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1344.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:934 ] - [ DEBUG ]  Thread285started.
+2017-01-27 19:13:56  [ Thread-296:934 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1343.shtml
+2017-01-27 19:13:56  [ Thread-275:934 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1316.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:935 ] - [ DEBUG ]  Thread286started.
+2017-01-27 19:13:56  [ Thread-297:935 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1342.shtml
+2017-01-27 19:13:56  [ Thread-280:936 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1323.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:937 ] - [ DEBUG ]  Thread287started.
+2017-01-27 19:13:56  [ Thread-298:937 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1341.shtml
+2017-01-27 19:13:56  [ Thread-279:937 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1324.shtml
+2017-01-27 19:13:56  [ Thread-282:938 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1321.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:938 ] - [ DEBUG ]  Thread288started.
+2017-01-27 19:13:56  [ Thread-299:938 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1340.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:939 ] - [ DEBUG ]  Thread289started.
+2017-01-27 19:13:56  [ Thread-300:939 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1339.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:940 ] - [ DEBUG ]  Thread290started.
+2017-01-27 19:13:56  [ Thread-301:940 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1353.shtml
+2017-01-27 19:13:56  [ Thread-281:941 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1322.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:941 ] - [ DEBUG ]  Thread291started.
+2017-01-27 19:13:56  [ Thread-283:941 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1332.shtml
+2017-01-27 19:13:56  [ Thread-302:942 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1352.shtml
+2017-01-27 19:13:56  [ Thread-284:942 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1331.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:943 ] - [ DEBUG ]  Thread292started.
+2017-01-27 19:13:56  [ Thread-303:943 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1351.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:944 ] - [ DEBUG ]  Thread293started.
+2017-01-27 19:13:56  [ Thread-304:944 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1350.shtml
+2017-01-27 19:13:56  [ Thread-286:945 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1329.shtml
+2017-01-27 19:13:56  [ Thread-285:945 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1330.shtml
+2017-01-27 19:13:56  [ Thread-305:948 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1346.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:949 ] - [ DEBUG ]  Thread294started.
+2017-01-27 19:13:56  [ Thread-297:961 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1342.shtml
+2017-01-27 19:13:56  [ Thread-295:961 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1344.shtml
+2017-01-27 19:13:56  [ Thread-296:959 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1343.shtml
+2017-01-27 19:13:56  [ Thread-293:957 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1334.shtml
+2017-01-27 19:13:56  [ Thread-294:957 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1333.shtml
+2017-01-27 19:13:56  [ Thread-292:956 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1335.shtml
+2017-01-27 19:13:56  [ Thread-290:956 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1337.shtml
+2017-01-27 19:13:56  [ Thread-291:956 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1336.shtml
+2017-01-27 19:13:56  [ Thread-289:956 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1338.shtml
+2017-01-27 19:13:56  [ Thread-288:956 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1327.shtml
+2017-01-27 19:13:56  [ Thread-287:955 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1328.shtml
+2017-01-27 19:13:56  [ Thread-306:964 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1345.shtml
+2017-01-27 19:13:56  [ Thread-299:965 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1340.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:965 ] - [ DEBUG ]  Thread295started.
+2017-01-27 19:13:56  [ Thread-302:966 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1352.shtml
+2017-01-27 19:13:56  [ Thread-298:966 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1341.shtml
+2017-01-27 19:13:56  [ Thread-300:968 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1339.shtml
+2017-01-27 19:13:56  [ Thread-303:968 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1351.shtml
+2017-01-27 19:13:56  [ Thread-301:968 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1353.shtml
+2017-01-27 19:13:56  [ Thread-304:968 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1350.shtml
+2017-01-27 19:13:56  [ Thread-305:974 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1346.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:986 ] - [ DEBUG ]  Thread296started.
+2017-01-27 19:13:56  [ Thread-307:987 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1360.shtml
+2017-01-27 19:13:56  [ Thread-308:988 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1359.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:988 ] - [ DEBUG ]  Thread297started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:991 ] - [ DEBUG ]  Thread298started.
+2017-01-27 19:13:56  [ Thread-309:991 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1358.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:992 ] - [ DEBUG ]  Thread299started.
+2017-01-27 19:13:56  [ Thread-310:992 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1357.shtml
+2017-01-27 19:13:56  [ Thread-306:993 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1345.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:994 ] - [ DEBUG ]  Thread300started.
+2017-01-27 19:13:56  [ Thread-311:994 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1356.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:996 ] - [ DEBUG ]  Thread301started.
+2017-01-27 19:13:56  [ Thread-312:996 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1355.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:997 ] - [ DEBUG ]  Thread302started.
+2017-01-27 19:13:56  [ Thread-313:997 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1368.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:998 ] - [ DEBUG ]  Thread303started.
+2017-01-27 19:13:56  [ Thread-314:998 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1367.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1000 ] - [ DEBUG ]  Thread304started.
+2017-01-27 19:13:56  [ Thread-315:1000 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1366.shtml
+2017-01-27 19:13:56  [ Thread-316:1001 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1365.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1003 ] - [ DEBUG ]  Thread305started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:1008 ] - [ DEBUG ]  Thread306started.
+2017-01-27 19:13:56  [ Thread-317:1008 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1364.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1012 ] - [ DEBUG ]  Thread307started.
+2017-01-27 19:13:56  [ Thread-318:1013 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1362.shtml
+2017-01-27 19:13:56  [ Thread-308:1014 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1359.shtml
+2017-01-27 19:13:56  [ Thread-307:1015 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1360.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1015 ] - [ DEBUG ]  Thread308started.
+2017-01-27 19:13:56  [ Thread-319:1015 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1372.shtml
+2017-01-27 19:13:56  [ Thread-309:1016 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1358.shtml
+2017-01-27 19:13:56  [ Thread-310:1017 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1357.shtml
+2017-01-27 19:13:56  [ Thread-320:1018 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1371.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1018 ] - [ DEBUG ]  Thread309started.
+2017-01-27 19:13:56  [ Thread-315:1024 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1366.shtml
+2017-01-27 19:13:56  [ Thread-312:1023 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1355.shtml
+2017-01-27 19:13:56  [ Thread-314:1023 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1367.shtml
+2017-01-27 19:13:56  [ Thread-313:1023 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1368.shtml
+2017-01-27 19:13:56  [ Thread-311:1020 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1356.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1025 ] - [ DEBUG ]  Thread310started.
+2017-01-27 19:13:56  [ Thread-321:1025 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1370.shtml
+2017-01-27 19:13:56  [ Thread-322:1029 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1369.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1030 ] - [ DEBUG ]  Thread311started.
+2017-01-27 19:13:56  [ Thread-320:1044 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1371.shtml
+2017-01-27 19:13:56  [ Thread-318:1042 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1362.shtml
+2017-01-27 19:13:56  [ Thread-319:1041 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1372.shtml
+2017-01-27 19:13:56  [ Thread-317:1036 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1364.shtml
+2017-01-27 19:13:56  [ Thread-316:1031 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1365.shtml
+2017-01-27 19:13:56  [ Thread-323:1047 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1376.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1047 ] - [ DEBUG ]  Thread312started.
+2017-01-27 19:13:56  [ Thread-324:1048 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1375.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1049 ] - [ DEBUG ]  Thread313started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:1053 ] - [ DEBUG ]  Thread314started.
+2017-01-27 19:13:56  [ Thread-325:1053 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1374.shtml
+2017-01-27 19:13:56  [ Thread-321:1054 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1370.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1055 ] - [ DEBUG ]  Thread315started.
+2017-01-27 19:13:56  [ Thread-326:1055 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1373.shtml
+2017-01-27 19:13:56  [ Thread-327:1058 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1380.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1058 ] - [ DEBUG ]  Thread316started.
+2017-01-27 19:13:56  [ Thread-322:1059 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1369.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1062 ] - [ DEBUG ]  Thread317started.
+2017-01-27 19:13:56  [ Thread-328:1062 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1379.shtml
+2017-01-27 19:13:56  [ Thread-329:1064 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1378.shtml
+2017-01-27 19:13:56  [ JavaFX Application Thread:1064 ] - [ DEBUG ]  Thread318started.
+2017-01-27 19:13:56  [ JavaFX Application Thread:1066 ] - [ DEBUG ]  1059
+2017-01-27 19:13:56  [ Thread-330:1066 ] - [ DEBUG ]  [Extract url is:] http://jeit.ie.ac.cn/CN/volumn/volumn_1377.shtml
+2017-01-27 19:13:56  [ Thread-323:1076 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1376.shtml
+2017-01-27 19:13:56  [ Thread-324:1077 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1375.shtml
+2017-01-27 19:13:56  [ Thread-325:1079 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1374.shtml
+2017-01-27 19:13:56  [ Thread-327:1082 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1380.shtml
+2017-01-27 19:13:56  [ Thread-326:1085 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1373.shtml
+2017-01-27 19:13:56  [ Thread-328:1091 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1379.shtml
+2017-01-27 19:13:56  [ Thread-329:1092 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1378.shtml
+2017-01-27 19:13:56  [ Thread-330:1098 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1377.shtml
+2017-01-27 19:14:03  [ Thread-73:7962 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1382.shtml
+2017-01-27 19:14:03  [ Thread-45:8035 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1431.shtml
+2017-01-27 19:14:04  [ Thread-100:8853 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1146.shtml
+2017-01-27 19:14:04  [ Thread-129:8853 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1165.shtml
+2017-01-27 19:14:07  [ Thread-125:11209 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1169.shtml
+2017-01-27 19:14:07  [ Thread-26:12072 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17199.shtml
+2017-01-27 19:14:08  [ Thread-85:12667 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1140.shtml
+2017-01-27 19:14:08  [ Thread-127:12725 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract9381.shtml
+2017-01-27 19:14:08  [ Thread-34:13032 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17534.shtml
+2017-01-27 19:14:09  [ Thread-54:13272 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://jeit.ie.ac.cn/CN/volumn/volumn_1416.shtml
+2017-01-27 19:14:10  [ Thread-26:15074 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17224.shtml
+2017-01-27 19:14:11  [ Thread-115:15979 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11452.shtml
+2017-01-27 19:14:11  [ Thread-65:16002 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15914.shtml
+2017-01-27 19:14:12  [ Thread-112:16450 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract10578.shtml
+2017-01-27 19:14:12  [ Thread-60:16729 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16651.shtml
+2017-01-27 19:14:13  [ Thread-120:18076 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11885.shtml
+2017-01-27 19:14:14  [ Thread-118:18189 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11547.shtml
+2017-01-27 19:14:14  [ Thread-72:18254 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16210.shtml
+2017-01-27 19:14:14  [ Thread-65:19006 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15890.shtml
+2017-01-27 19:14:15  [ Thread-67:19311 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16004.shtml
+2017-01-27 19:14:15  [ Thread-106:19494 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13610.shtml
+2017-01-27 19:14:15  [ Thread-107:19563 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13788.shtml
+2017-01-27 19:14:15  [ Thread-39:19571 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16778.shtml
+2017-01-27 19:14:15  [ Thread-27:19986 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17272.shtml
+2017-01-27 19:14:15  [ Thread-117:19986 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11168.shtml
+2017-01-27 19:14:15  [ Thread-78:20074 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15428.shtml
+2017-01-27 19:14:17  [ Thread-46:21462 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17044.shtml
+2017-01-27 19:14:17  [ Thread-50:21498 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16255.shtml
+2017-01-27 19:14:20  [ Thread-121:24610 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract9118.shtml
+2017-01-27 19:14:20  [ Thread-105:24770 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13286.shtml
+2017-01-27 19:14:21  [ Thread-51:25938 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16312.shtml
+2017-01-27 19:14:21  [ Thread-42:26122 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16910.shtml
+2017-01-27 19:14:23  [ Thread-58:27645 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16589.shtml
+2017-01-27 19:14:23  [ Thread-118:27647 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11537.shtml
+2017-01-27 19:14:24  [ Thread-112:28545 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract10620.shtml
+2017-01-27 19:14:24  [ Thread-109:28781 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract10392.shtml
+2017-01-27 19:14:24  [ Thread-20:28982 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17877.shtml
+2017-01-27 19:14:26  [ Thread-53:30267 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16381.shtml
+2017-01-27 19:14:28  [ Thread-133:32502 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract8897.shtml
+2017-01-27 19:14:30  [ Thread-52:34182 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16328.shtml
+2017-01-27 19:14:31  [ Thread-146:35856 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract10001.shtml
+2017-01-27 19:14:31  [ Thread-138:35856 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract8433.shtml
+2017-01-27 19:14:32  [ Thread-43:36716 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16950.shtml
+2017-01-27 19:14:33  [ Thread-116:37592 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11841.shtml
+2017-01-27 19:14:34  [ Thread-25:38241 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17197.shtml
+2017-01-27 19:14:35  [ Thread-34:39624 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17548.shtml
+2017-01-27 19:14:35  [ Thread-119:39819 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract11821.shtml
+2017-01-27 19:14:35  [ Thread-64:39821 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15871.shtml
+2017-01-27 19:14:36  [ Thread-53:40735 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16391.shtml
+2017-01-27 19:14:36  [ Thread-95:40786 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract14927.shtml
+2017-01-27 19:14:37  [ Thread-113:41735 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract10945.shtml
+2017-01-27 19:14:38  [ Thread-34:42625 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17561.shtml
+2017-01-27 19:14:39  [ Thread-103:43483 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13232.shtml
+2017-01-27 19:14:39  [ Thread-47:43744 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17100.shtml
+2017-01-27 19:14:41  [ Thread-72:45604 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16211.shtml
+2017-01-27 19:14:41  [ Thread-78:45922 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15412.shtml
+2017-01-27 19:14:41  [ Thread-102:45929 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13127.shtml
+2017-01-27 19:14:41  [ Thread-44:46122 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16979.shtml
+2017-01-27 19:14:43  [ Thread-68:47451 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16038.shtml
+2017-01-27 19:14:43  [ Thread-76:47626 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract15355.shtml
+2017-01-27 19:14:44  [ Thread-93:48333 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract14794.shtml
+2017-01-27 19:14:44  [ Thread-104:48593 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract13292.shtml
+2017-01-27 19:14:45  [ Thread-143:49835 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract8751.shtml
+2017-01-27 19:14:45  [ Thread-52:49845 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract16360.shtml
+2017-01-27 19:14:46  [ Thread-21:50834 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract17989.shtml
+2017-01-27 19:14:47  [ Thread-150:51337 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://jeit.ie.ac.cn/CN/abstract/abstract9830.shtml
+2017-01-27 19:23:42  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-01-27 19:23:42  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-01-27 19:23:42  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-01-27 19:23:42  [ JavaFX Application Thread:11 ] - [ DEBUG ]  Thread0started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread1started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread2started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:15 ] - [ DEBUG ]  Thread3started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:16 ] - [ DEBUG ]  Thread4started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:18 ] - [ DEBUG ]  Thread5started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:20 ] - [ DEBUG ]  Thread6started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread7started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread8started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread9started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread10started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread11started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:23 ] - [ DEBUG ]  Thread12started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:23 ] - [ DEBUG ]  Thread13started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread14started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread15started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread16started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:25 ] - [ DEBUG ]  Thread17started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:26 ] - [ DEBUG ]  Thread18started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:26 ] - [ DEBUG ]  Thread19started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:27 ] - [ DEBUG ]  Thread20started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:27 ] - [ DEBUG ]  Thread21started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:28 ] - [ DEBUG ]  Thread22started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:28 ] - [ DEBUG ]  Thread23started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:29 ] - [ DEBUG ]  Thread24started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:29 ] - [ DEBUG ]  Thread25started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread26started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread27started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:31 ] - [ DEBUG ]  Thread28started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread29started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread30started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:34 ] - [ DEBUG ]  Thread31started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread32started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread33started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread34started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread35started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread36started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread37started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread38started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread39started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread40started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread41started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread42started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread43started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread44started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread45started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:39 ] - [ DEBUG ]  Thread46started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:40 ] - [ DEBUG ]  Thread47started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:40 ] - [ DEBUG ]  Thread48started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:40 ] - [ DEBUG ]  Thread49started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:41 ] - [ DEBUG ]  Thread50started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:42 ] - [ DEBUG ]  Thread51started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:43 ] - [ DEBUG ]  Thread52started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:43 ] - [ DEBUG ]  Thread53started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:44 ] - [ DEBUG ]  Thread54started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:44 ] - [ DEBUG ]  Thread55started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:45 ] - [ DEBUG ]  Thread56started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:45 ] - [ DEBUG ]  Thread57started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:46 ] - [ DEBUG ]  Thread58started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:46 ] - [ DEBUG ]  Thread59started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:47 ] - [ DEBUG ]  Thread60started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:48 ] - [ DEBUG ]  Thread61started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:49 ] - [ DEBUG ]  Thread62started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:50 ] - [ DEBUG ]  Thread63started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:50 ] - [ DEBUG ]  Thread64started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:51 ] - [ DEBUG ]  Thread65started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:51 ] - [ DEBUG ]  Thread66started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:52 ] - [ DEBUG ]  Thread67started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:53 ] - [ DEBUG ]  Thread68started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:53 ] - [ DEBUG ]  Thread69started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:53 ] - [ DEBUG ]  Thread70started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread71started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread72started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread73started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread74started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:55 ] - [ DEBUG ]  Thread75started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:55 ] - [ DEBUG ]  Thread76started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:55 ] - [ DEBUG ]  Thread77started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:56 ] - [ DEBUG ]  Thread78started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:57 ] - [ DEBUG ]  Thread79started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:57 ] - [ DEBUG ]  Thread80started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:57 ] - [ DEBUG ]  Thread81started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread82started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread83started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread84started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread85started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:59 ] - [ DEBUG ]  Thread86started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:59 ] - [ DEBUG ]  Thread87started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:60 ] - [ DEBUG ]  Thread88started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:60 ] - [ DEBUG ]  Thread89started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread90started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread91started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread92started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread93started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread94started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread95started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread96started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread97started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread98started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread99started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread100started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread101started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread102started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread103started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread104started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread105started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread106started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread107started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread108started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread109started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread110started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread111started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread112started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread113started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread114started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread115started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread116started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread117started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread118started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread119started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread120started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread121started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread122started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread123started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread124started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread125started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread126started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:73 ] - [ DEBUG ]  Thread127started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:73 ] - [ DEBUG ]  Thread128started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread129started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread130started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread131started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread132started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread133started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread134started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread135started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:86 ] - [ DEBUG ]  Thread136started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread137started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread138started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread139started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread140started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread141started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread142started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread143started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread144started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread145started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread146started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread147started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread148started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread149started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread150started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread151started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread152started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread153started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread154started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread155started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread156started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread157started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread158started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread159started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread160started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread161started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread162started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread163started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread164started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread165started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread166started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread167started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread168started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread169started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread170started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread171started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread172started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread173started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread174started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread175started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread176started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread177started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread178started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread179started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread180started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread181started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread182started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread183started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread184started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread185started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread186started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread187started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread188started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread189started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread190started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread191started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread192started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread193started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread194started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread195started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread196started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread197started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread198started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread199started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:136 ] - [ DEBUG ]  Thread200started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:137 ] - [ DEBUG ]  Thread201started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread202started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread203started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread204started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:139 ] - [ DEBUG ]  Thread205started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:139 ] - [ DEBUG ]  Thread206started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:139 ] - [ DEBUG ]  Thread207started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:140 ] - [ DEBUG ]  Thread208started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:140 ] - [ DEBUG ]  Thread209started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:140 ] - [ DEBUG ]  Thread210started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:140 ] - [ DEBUG ]  Thread211started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:141 ] - [ DEBUG ]  Thread212started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:143 ] - [ DEBUG ]  Thread213started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread214started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread215started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:146 ] - [ DEBUG ]  Thread216started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:146 ] - [ DEBUG ]  Thread217started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:147 ] - [ DEBUG ]  Thread218started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:147 ] - [ DEBUG ]  Thread219started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:148 ] - [ DEBUG ]  Thread220started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:149 ] - [ DEBUG ]  Thread221started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:151 ] - [ DEBUG ]  Thread222started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:152 ] - [ DEBUG ]  Thread223started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:152 ] - [ DEBUG ]  Thread224started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:153 ] - [ DEBUG ]  Thread225started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:154 ] - [ DEBUG ]  Thread226started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:155 ] - [ DEBUG ]  Thread227started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:155 ] - [ DEBUG ]  Thread228started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:156 ] - [ DEBUG ]  Thread229started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:156 ] - [ DEBUG ]  Thread230started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:156 ] - [ DEBUG ]  Thread231started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:156 ] - [ DEBUG ]  Thread232started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:157 ] - [ DEBUG ]  Thread233started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:157 ] - [ DEBUG ]  Thread234started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:157 ] - [ DEBUG ]  Thread235started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:158 ] - [ DEBUG ]  Thread236started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:158 ] - [ DEBUG ]  Thread237started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:159 ] - [ DEBUG ]  Thread238started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:159 ] - [ DEBUG ]  Thread239started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:159 ] - [ DEBUG ]  Thread240started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:159 ] - [ DEBUG ]  Thread241started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:159 ] - [ DEBUG ]  Thread242started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread243started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread244started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread245started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread246started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread247started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:160 ] - [ DEBUG ]  Thread248started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread249started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread250started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread251started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread252started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:162 ] - [ DEBUG ]  Thread253started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:162 ] - [ DEBUG ]  Thread254started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:162 ] - [ DEBUG ]  Thread255started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:163 ] - [ DEBUG ]  Thread256started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:163 ] - [ DEBUG ]  Thread257started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:163 ] - [ DEBUG ]  Thread258started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:163 ] - [ DEBUG ]  Thread259started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:164 ] - [ DEBUG ]  Thread260started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:164 ] - [ DEBUG ]  Thread261started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread262started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread263started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread264started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread265started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread266started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread267started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread268started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread269started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread270started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread271started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread272started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread273started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:172 ] - [ DEBUG ]  Thread274started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:173 ] - [ DEBUG ]  Thread275started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:190 ] - [ DEBUG ]  Thread276started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:190 ] - [ DEBUG ]  Thread277started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:191 ] - [ DEBUG ]  Thread278started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:191 ] - [ DEBUG ]  Thread279started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:192 ] - [ DEBUG ]  Thread280started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:192 ] - [ DEBUG ]  Thread281started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:192 ] - [ DEBUG ]  Thread282started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:192 ] - [ DEBUG ]  Thread283started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:192 ] - [ DEBUG ]  Thread284started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:193 ] - [ DEBUG ]  Thread285started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:193 ] - [ DEBUG ]  Thread286started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:193 ] - [ DEBUG ]  Thread287started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:193 ] - [ DEBUG ]  Thread288started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:194 ] - [ DEBUG ]  Thread289started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:194 ] - [ DEBUG ]  Thread290started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:194 ] - [ DEBUG ]  Thread291started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:194 ] - [ DEBUG ]  Thread292started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:194 ] - [ DEBUG ]  Thread293started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:195 ] - [ DEBUG ]  Thread294started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:195 ] - [ DEBUG ]  Thread295started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:195 ] - [ DEBUG ]  Thread296started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:195 ] - [ DEBUG ]  Thread297started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:196 ] - [ DEBUG ]  Thread298started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:196 ] - [ DEBUG ]  Thread299started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:196 ] - [ DEBUG ]  Thread300started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:196 ] - [ DEBUG ]  Thread301started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread302started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread303started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread304started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread305started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:197 ] - [ DEBUG ]  Thread306started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:198 ] - [ DEBUG ]  Thread307started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:198 ] - [ DEBUG ]  Thread308started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:198 ] - [ DEBUG ]  Thread309started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:198 ] - [ DEBUG ]  Thread310started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:198 ] - [ DEBUG ]  Thread311started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:199 ] - [ DEBUG ]  Thread312started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:199 ] - [ DEBUG ]  Thread313started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:199 ] - [ DEBUG ]  Thread314started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:199 ] - [ DEBUG ]  Thread315started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:199 ] - [ DEBUG ]  Thread316started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:200 ] - [ DEBUG ]  Thread317started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:200 ] - [ DEBUG ]  Thread318started.
+2017-01-27 19:23:42  [ JavaFX Application Thread:200 ] - [ DEBUG ]  189
+2017-01-27 19:39:37  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-01-27 19:39:37  [ JavaFX Application Thread:2 ] - [ INFO ]  Connect to database successfully.
+2017-01-27 19:39:37  [ JavaFX Application Thread:7 ] - [ INFO ]  Get the collection successfully.
+2017-01-27 19:39:37  [ JavaFX Application Thread:7 ] - [ DEBUG ]  Thread0started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:9 ] - [ DEBUG ]  Thread1started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:9 ] - [ DEBUG ]  Thread2started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread3started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread4started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread5started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:12 ] - [ DEBUG ]  Thread6started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread7started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread8started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:14 ] - [ DEBUG ]  Thread9started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:14 ] - [ DEBUG ]  Thread10started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:15 ] - [ DEBUG ]  Thread11started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:15 ] - [ DEBUG ]  Thread12started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:16 ] - [ DEBUG ]  Thread13started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:17 ] - [ DEBUG ]  Thread14started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:17 ] - [ DEBUG ]  Thread15started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:18 ] - [ DEBUG ]  Thread16started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:18 ] - [ DEBUG ]  Thread17started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:19 ] - [ DEBUG ]  Thread18started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:19 ] - [ DEBUG ]  Thread19started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread20started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread21started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread22started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread23started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:23 ] - [ DEBUG ]  Thread24started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread25started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:25 ] - [ DEBUG ]  Thread26started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:26 ] - [ DEBUG ]  Thread27started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:27 ] - [ DEBUG ]  Thread28started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:28 ] - [ DEBUG ]  Thread29started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:29 ] - [ DEBUG ]  Thread30started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread31started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread32started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:31 ] - [ DEBUG ]  Thread33started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:31 ] - [ DEBUG ]  Thread34started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread35started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread36started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:33 ] - [ DEBUG ]  Thread37started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread38started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:35 ] - [ DEBUG ]  Thread39started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread40started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:37 ] - [ DEBUG ]  Thread41started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:38 ] - [ DEBUG ]  Thread42started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:38 ] - [ DEBUG ]  Thread43started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:39 ] - [ DEBUG ]  Thread44started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:39 ] - [ DEBUG ]  Thread45started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:40 ] - [ DEBUG ]  Thread46started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:43 ] - [ DEBUG ]  Thread47started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:44 ] - [ DEBUG ]  Thread48started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:48 ] - [ DEBUG ]  Thread49started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread50started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread51started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread52started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread53started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread54started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread55started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread56started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:70 ] - [ DEBUG ]  Thread57started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread58started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread59started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread60started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread61started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:73 ] - [ DEBUG ]  Thread62started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread63started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread64started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread65started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:76 ] - [ DEBUG ]  Thread66started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:76 ] - [ DEBUG ]  Thread67started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread68started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread69started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread70started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread71started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread72started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread73started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread74started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread75started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread76started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread77started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread78started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread79started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread80started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread81started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread82started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread83started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread84started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread85started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread86started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread87started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread88started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread89started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread90started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread91started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread92started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:86 ] - [ DEBUG ]  Thread93started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:86 ] - [ DEBUG ]  Thread94started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:86 ] - [ DEBUG ]  Thread95started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread96started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread97started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread98started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread99started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread100started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread101started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread102started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread103started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread104started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread105started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread106started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread107started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread108started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread109started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread110started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread111started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread112started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread113started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread114started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread115started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread116started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread117started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread118started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread119started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread120started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread121started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread122started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread123started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread124started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread125started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread126started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread127started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread128started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread129started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread130started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread131started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread132started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread133started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread134started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread135started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread136started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread137started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread138started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread139started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread140started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread141started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread142started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread143started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:104 ] - [ DEBUG ]  Thread144started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:105 ] - [ DEBUG ]  Thread145started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:105 ] - [ DEBUG ]  Thread146started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:106 ] - [ DEBUG ]  Thread147started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:106 ] - [ DEBUG ]  Thread148started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:107 ] - [ DEBUG ]  Thread149started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:107 ] - [ DEBUG ]  Thread150started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:107 ] - [ DEBUG ]  Thread151started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:107 ] - [ DEBUG ]  Thread152started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:107 ] - [ DEBUG ]  Thread153started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:108 ] - [ DEBUG ]  Thread154started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:108 ] - [ DEBUG ]  Thread155started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:108 ] - [ DEBUG ]  Thread156started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:108 ] - [ DEBUG ]  Thread157started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:109 ] - [ DEBUG ]  Thread158started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:109 ] - [ DEBUG ]  Thread159started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:110 ] - [ DEBUG ]  Thread160started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:110 ] - [ DEBUG ]  Thread161started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:111 ] - [ DEBUG ]  Thread162started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:111 ] - [ DEBUG ]  Thread163started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:111 ] - [ DEBUG ]  Thread164started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:112 ] - [ DEBUG ]  Thread165started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:112 ] - [ DEBUG ]  Thread166started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:112 ] - [ DEBUG ]  Thread167started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:113 ] - [ DEBUG ]  Thread168started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:113 ] - [ DEBUG ]  Thread169started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:113 ] - [ DEBUG ]  Thread170started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:114 ] - [ DEBUG ]  Thread171started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:114 ] - [ DEBUG ]  Thread172started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:114 ] - [ DEBUG ]  Thread173started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:114 ] - [ DEBUG ]  Thread174started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:115 ] - [ DEBUG ]  Thread175started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:115 ] - [ DEBUG ]  Thread176started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:115 ] - [ DEBUG ]  Thread177started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:116 ] - [ DEBUG ]  Thread178started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:116 ] - [ DEBUG ]  Thread179started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:116 ] - [ DEBUG ]  Thread180started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:117 ] - [ DEBUG ]  Thread181started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:117 ] - [ DEBUG ]  Thread182started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:118 ] - [ DEBUG ]  Thread183started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:118 ] - [ DEBUG ]  Thread184started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:118 ] - [ DEBUG ]  Thread185started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:119 ] - [ DEBUG ]  Thread186started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:119 ] - [ DEBUG ]  Thread187started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread188started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread189started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread190started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:121 ] - [ DEBUG ]  Thread191started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:121 ] - [ DEBUG ]  Thread192started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:121 ] - [ DEBUG ]  Thread193started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:122 ] - [ DEBUG ]  Thread194started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:123 ] - [ DEBUG ]  Thread195started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:124 ] - [ DEBUG ]  Thread196started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:126 ] - [ DEBUG ]  Thread197started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:127 ] - [ DEBUG ]  Thread198started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:130 ] - [ DEBUG ]  Thread199started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:143 ] - [ DEBUG ]  Thread200started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:148 ] - [ DEBUG ]  Thread201started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:153 ] - [ DEBUG ]  Thread202started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:154 ] - [ DEBUG ]  Thread203started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:155 ] - [ DEBUG ]  Thread204started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:156 ] - [ DEBUG ]  Thread205started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread206started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:161 ] - [ DEBUG ]  Thread207started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:162 ] - [ DEBUG ]  Thread208started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:163 ] - [ DEBUG ]  Thread209started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread210started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread211started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread212started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:168 ] - [ DEBUG ]  Thread213started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:170 ] - [ DEBUG ]  Thread214started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:214 ] - [ DEBUG ]  Thread215started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:215 ] - [ DEBUG ]  Thread216started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:215 ] - [ DEBUG ]  Thread217started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:215 ] - [ DEBUG ]  Thread218started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:221 ] - [ DEBUG ]  Thread219started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:225 ] - [ DEBUG ]  Thread220started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:229 ] - [ DEBUG ]  Thread221started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:230 ] - [ DEBUG ]  Thread222started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:231 ] - [ DEBUG ]  Thread223started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:231 ] - [ DEBUG ]  Thread224started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:232 ] - [ DEBUG ]  Thread225started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:232 ] - [ DEBUG ]  Thread226started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:233 ] - [ DEBUG ]  Thread227started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:233 ] - [ DEBUG ]  Thread228started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:234 ] - [ DEBUG ]  Thread229started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:234 ] - [ DEBUG ]  Thread230started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:234 ] - [ DEBUG ]  Thread231started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:235 ] - [ DEBUG ]  Thread232started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:235 ] - [ DEBUG ]  Thread233started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:235 ] - [ DEBUG ]  Thread234started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:236 ] - [ DEBUG ]  Thread235started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:236 ] - [ DEBUG ]  Thread236started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:236 ] - [ DEBUG ]  Thread237started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:237 ] - [ DEBUG ]  Thread238started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:237 ] - [ DEBUG ]  Thread239started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:237 ] - [ DEBUG ]  Thread240started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:237 ] - [ DEBUG ]  Thread241started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:238 ] - [ DEBUG ]  Thread242started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:238 ] - [ DEBUG ]  Thread243started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:239 ] - [ DEBUG ]  Thread244started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:239 ] - [ DEBUG ]  Thread245started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:240 ] - [ DEBUG ]  Thread246started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:240 ] - [ DEBUG ]  Thread247started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:243 ] - [ DEBUG ]  Thread248started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:244 ] - [ DEBUG ]  Thread249started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:245 ] - [ DEBUG ]  Thread250started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:246 ] - [ DEBUG ]  Thread251started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:248 ] - [ DEBUG ]  Thread252started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:249 ] - [ DEBUG ]  Thread253started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:250 ] - [ DEBUG ]  Thread254started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:251 ] - [ DEBUG ]  Thread255started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:252 ] - [ DEBUG ]  Thread256started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:252 ] - [ DEBUG ]  Thread257started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:252 ] - [ DEBUG ]  Thread258started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:253 ] - [ DEBUG ]  Thread259started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:253 ] - [ DEBUG ]  Thread260started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:254 ] - [ DEBUG ]  Thread261started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:254 ] - [ DEBUG ]  Thread262started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:254 ] - [ DEBUG ]  Thread263started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:255 ] - [ DEBUG ]  Thread264started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:255 ] - [ DEBUG ]  Thread265started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:255 ] - [ DEBUG ]  Thread266started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:256 ] - [ DEBUG ]  Thread267started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:256 ] - [ DEBUG ]  Thread268started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:256 ] - [ DEBUG ]  Thread269started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:257 ] - [ DEBUG ]  Thread270started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:257 ] - [ DEBUG ]  Thread271started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:257 ] - [ DEBUG ]  Thread272started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:257 ] - [ DEBUG ]  Thread273started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:258 ] - [ DEBUG ]  Thread274started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:261 ] - [ DEBUG ]  Thread275started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:262 ] - [ DEBUG ]  Thread276started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:262 ] - [ DEBUG ]  Thread277started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:262 ] - [ DEBUG ]  Thread278started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:263 ] - [ DEBUG ]  Thread279started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:263 ] - [ DEBUG ]  Thread280started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:263 ] - [ DEBUG ]  Thread281started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:264 ] - [ DEBUG ]  Thread282started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:264 ] - [ DEBUG ]  Thread283started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:264 ] - [ DEBUG ]  Thread284started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:264 ] - [ DEBUG ]  Thread285started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:265 ] - [ DEBUG ]  Thread286started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:265 ] - [ DEBUG ]  Thread287started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:265 ] - [ DEBUG ]  Thread288started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:265 ] - [ DEBUG ]  Thread289started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:266 ] - [ DEBUG ]  Thread290started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:267 ] - [ DEBUG ]  Thread291started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:270 ] - [ DEBUG ]  Thread292started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:271 ] - [ DEBUG ]  Thread293started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:272 ] - [ DEBUG ]  Thread294started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:272 ] - [ DEBUG ]  Thread295started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:273 ] - [ DEBUG ]  Thread296started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:274 ] - [ DEBUG ]  Thread297started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:275 ] - [ DEBUG ]  Thread298started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:275 ] - [ DEBUG ]  Thread299started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:276 ] - [ DEBUG ]  Thread300started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:277 ] - [ DEBUG ]  Thread301started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:278 ] - [ DEBUG ]  Thread302started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:280 ] - [ DEBUG ]  Thread303started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:282 ] - [ DEBUG ]  Thread304started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:284 ] - [ DEBUG ]  Thread305started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:288 ] - [ DEBUG ]  Thread306started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:294 ] - [ DEBUG ]  Thread307started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:296 ] - [ DEBUG ]  Thread308started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:310 ] - [ DEBUG ]  Thread309started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:310 ] - [ DEBUG ]  Thread310started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:310 ] - [ DEBUG ]  Thread311started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:311 ] - [ DEBUG ]  Thread312started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:312 ] - [ DEBUG ]  Thread313started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:313 ] - [ DEBUG ]  Thread314started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:313 ] - [ DEBUG ]  Thread315started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:314 ] - [ DEBUG ]  Thread316started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:314 ] - [ DEBUG ]  Thread317started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:314 ] - [ DEBUG ]  Thread318started.
+2017-01-27 19:39:37  [ JavaFX Application Thread:315 ] - [ DEBUG ]  307
+2017-01-27 19:43:02  [ JavaFX Application Thread:1 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-01-27 19:43:02  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
+2017-01-27 19:43:02  [ JavaFX Application Thread:7 ] - [ INFO ]  Get the collection successfully.
+2017-01-27 19:43:02  [ JavaFX Application Thread:8 ] - [ DEBUG ]  Thread0started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:8 ] - [ DEBUG ]  Thread1started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:8 ] - [ DEBUG ]  Thread2started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:9 ] - [ DEBUG ]  Thread3started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:9 ] - [ DEBUG ]  Thread4started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread5started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread6started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:10 ] - [ DEBUG ]  Thread7started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:11 ] - [ DEBUG ]  Thread8started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:11 ] - [ DEBUG ]  Thread9started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:12 ] - [ DEBUG ]  Thread10started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread11started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread12started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:13 ] - [ DEBUG ]  Thread13started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:14 ] - [ DEBUG ]  Thread14started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:14 ] - [ DEBUG ]  Thread15started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:14 ] - [ DEBUG ]  Thread16started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:15 ] - [ DEBUG ]  Thread17started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:15 ] - [ DEBUG ]  Thread18started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:16 ] - [ DEBUG ]  Thread19started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:16 ] - [ DEBUG ]  Thread20started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:17 ] - [ DEBUG ]  Thread21started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:18 ] - [ DEBUG ]  Thread22started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:18 ] - [ DEBUG ]  Thread23started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:19 ] - [ DEBUG ]  Thread24started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:20 ] - [ DEBUG ]  Thread25started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread26started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread27started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:21 ] - [ DEBUG ]  Thread28started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread29started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:22 ] - [ DEBUG ]  Thread30started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:23 ] - [ DEBUG ]  Thread31started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread32started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread33started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:24 ] - [ DEBUG ]  Thread34started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:25 ] - [ DEBUG ]  Thread35started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:26 ] - [ DEBUG ]  Thread36started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:27 ] - [ DEBUG ]  Thread37started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:28 ] - [ DEBUG ]  Thread38started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:29 ] - [ DEBUG ]  Thread39started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread40started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:30 ] - [ DEBUG ]  Thread41started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:31 ] - [ DEBUG ]  Thread42started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread43started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:32 ] - [ DEBUG ]  Thread44started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:34 ] - [ DEBUG ]  Thread45started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:36 ] - [ DEBUG ]  Thread46started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:38 ] - [ DEBUG ]  Thread47started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:43 ] - [ DEBUG ]  Thread48started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:45 ] - [ DEBUG ]  Thread49started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:46 ] - [ DEBUG ]  Thread50started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:47 ] - [ DEBUG ]  Thread51started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:48 ] - [ DEBUG ]  Thread52started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:49 ] - [ DEBUG ]  Thread53started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:50 ] - [ DEBUG ]  Thread54started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread55started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:54 ] - [ DEBUG ]  Thread56started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:55 ] - [ DEBUG ]  Thread57started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:56 ] - [ DEBUG ]  Thread58started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread59started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:58 ] - [ DEBUG ]  Thread60started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:59 ] - [ DEBUG ]  Thread61started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:59 ] - [ DEBUG ]  Thread62started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:59 ] - [ DEBUG ]  Thread63started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:60 ] - [ DEBUG ]  Thread64started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:60 ] - [ DEBUG ]  Thread65started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:60 ] - [ DEBUG ]  Thread66started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:61 ] - [ DEBUG ]  Thread67started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread68started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread69started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread70started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:62 ] - [ DEBUG ]  Thread71started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread72started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread73started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread74started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread75started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:63 ] - [ DEBUG ]  Thread76started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread77started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread78started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread79started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:64 ] - [ DEBUG ]  Thread80started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread81started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread82started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread83started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread84started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:65 ] - [ DEBUG ]  Thread85started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread86started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread87started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:66 ] - [ DEBUG ]  Thread88started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread89started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread90started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread91started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread92started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:67 ] - [ DEBUG ]  Thread93started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread94started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread95started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread96started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:68 ] - [ DEBUG ]  Thread97started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread98started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:69 ] - [ DEBUG ]  Thread99started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:71 ] - [ DEBUG ]  Thread100started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread101started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread102started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread103started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread104started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:72 ] - [ DEBUG ]  Thread105started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:73 ] - [ DEBUG ]  Thread106started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:73 ] - [ DEBUG ]  Thread107started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread108started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread109started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread110started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:74 ] - [ DEBUG ]  Thread111started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread112started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread113started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread114started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread115started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:75 ] - [ DEBUG ]  Thread116started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:76 ] - [ DEBUG ]  Thread117started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:76 ] - [ DEBUG ]  Thread118started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:76 ] - [ DEBUG ]  Thread119started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread120started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread121started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:77 ] - [ DEBUG ]  Thread122started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread123started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread124started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread125started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:78 ] - [ DEBUG ]  Thread126started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread127started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread128started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:79 ] - [ DEBUG ]  Thread129started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread130started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread131started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:80 ] - [ DEBUG ]  Thread132started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread133started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread134started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread135started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread136started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread137started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:81 ] - [ DEBUG ]  Thread138started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread139started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:82 ] - [ DEBUG ]  Thread140started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread141started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread142started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:83 ] - [ DEBUG ]  Thread143started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread144started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:84 ] - [ DEBUG ]  Thread145started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread146started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread147started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread148started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:85 ] - [ DEBUG ]  Thread149started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:86 ] - [ DEBUG ]  Thread150started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:87 ] - [ DEBUG ]  Thread151started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread152started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread153started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread154started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:88 ] - [ DEBUG ]  Thread155started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread156started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread157started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread158started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread159started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread160started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:89 ] - [ DEBUG ]  Thread161started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread162started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread163started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread164started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:90 ] - [ DEBUG ]  Thread165started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread166started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread167started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:91 ] - [ DEBUG ]  Thread168started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread169started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread170started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread171started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread172started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread173started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:92 ] - [ DEBUG ]  Thread174started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread175started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread176started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:93 ] - [ DEBUG ]  Thread177started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread178started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread179started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread180started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread181started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:94 ] - [ DEBUG ]  Thread182started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread183started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:95 ] - [ DEBUG ]  Thread184started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread185started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread186started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread187started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:96 ] - [ DEBUG ]  Thread188started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread189started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread190started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:97 ] - [ DEBUG ]  Thread191started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread192started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread193started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread194started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread195started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:98 ] - [ DEBUG ]  Thread196started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread197started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread198started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:99 ] - [ DEBUG ]  Thread199started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread200started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread201started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread202started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:100 ] - [ DEBUG ]  Thread203started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread204started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread205started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread206started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:101 ] - [ DEBUG ]  Thread207started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread208started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread209started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread210started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread211started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:102 ] - [ DEBUG ]  Thread212started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread213started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread214started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread215started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:103 ] - [ DEBUG ]  Thread216started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:104 ] - [ DEBUG ]  Thread217started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:104 ] - [ DEBUG ]  Thread218started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:104 ] - [ DEBUG ]  Thread219started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:104 ] - [ DEBUG ]  Thread220started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread221started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread222started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:120 ] - [ DEBUG ]  Thread223started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:122 ] - [ DEBUG ]  Thread224started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:130 ] - [ DEBUG ]  Thread225started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:131 ] - [ DEBUG ]  Thread226started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:131 ] - [ DEBUG ]  Thread227started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:133 ] - [ DEBUG ]  Thread228started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:134 ] - [ DEBUG ]  Thread229started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:135 ] - [ DEBUG ]  Thread230started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:136 ] - [ DEBUG ]  Thread231started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread232started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread233started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:138 ] - [ DEBUG ]  Thread234started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:139 ] - [ DEBUG ]  Thread235started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:139 ] - [ DEBUG ]  Thread236started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:142 ] - [ DEBUG ]  Thread237started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:143 ] - [ DEBUG ]  Thread238started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:143 ] - [ DEBUG ]  Thread239started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:143 ] - [ DEBUG ]  Thread240started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:144 ] - [ DEBUG ]  Thread241started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:144 ] - [ DEBUG ]  Thread242started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:144 ] - [ DEBUG ]  Thread243started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:144 ] - [ DEBUG ]  Thread244started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:144 ] - [ DEBUG ]  Thread245started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread246started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread247started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread248started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:145 ] - [ DEBUG ]  Thread249started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:146 ] - [ DEBUG ]  Thread250started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:146 ] - [ DEBUG ]  Thread251started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:146 ] - [ DEBUG ]  Thread252started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:149 ] - [ DEBUG ]  Thread253started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:153 ] - [ DEBUG ]  Thread254started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:154 ] - [ DEBUG ]  Thread255started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:154 ] - [ DEBUG ]  Thread256started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:164 ] - [ DEBUG ]  Thread257started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread258started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread259started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread260started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread261started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread262started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:165 ] - [ DEBUG ]  Thread263started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread264started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread265started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread266started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread267started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread268started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread269started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:166 ] - [ DEBUG ]  Thread270started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread271started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread272started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread273started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:167 ] - [ DEBUG ]  Thread274started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:168 ] - [ DEBUG ]  Thread275started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:168 ] - [ DEBUG ]  Thread276started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:168 ] - [ DEBUG ]  Thread277started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:169 ] - [ DEBUG ]  Thread278started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:169 ] - [ DEBUG ]  Thread279started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:170 ] - [ DEBUG ]  Thread280started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:170 ] - [ DEBUG ]  Thread281started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:171 ] - [ DEBUG ]  Thread282started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:172 ] - [ DEBUG ]  Thread283started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:172 ] - [ DEBUG ]  Thread284started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:173 ] - [ DEBUG ]  Thread285started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:174 ] - [ DEBUG ]  Thread286started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:175 ] - [ DEBUG ]  Thread287started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:175 ] - [ DEBUG ]  Thread288started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:175 ] - [ DEBUG ]  Thread289started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:176 ] - [ DEBUG ]  Thread290started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:176 ] - [ DEBUG ]  Thread291started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:176 ] - [ DEBUG ]  Thread292started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:177 ] - [ DEBUG ]  Thread293started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:177 ] - [ DEBUG ]  Thread294started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:177 ] - [ DEBUG ]  Thread295started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:178 ] - [ DEBUG ]  Thread296started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:178 ] - [ DEBUG ]  Thread297started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:178 ] - [ DEBUG ]  Thread298started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:179 ] - [ DEBUG ]  Thread299started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:179 ] - [ DEBUG ]  Thread300started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:179 ] - [ DEBUG ]  Thread301started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:180 ] - [ DEBUG ]  Thread302started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:180 ] - [ DEBUG ]  Thread303started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:180 ] - [ DEBUG ]  Thread304started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:180 ] - [ DEBUG ]  Thread305started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:181 ] - [ DEBUG ]  Thread306started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:181 ] - [ DEBUG ]  Thread307started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:181 ] - [ DEBUG ]  Thread308started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:182 ] - [ DEBUG ]  Thread309started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:182 ] - [ DEBUG ]  Thread310started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:182 ] - [ DEBUG ]  Thread311started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:183 ] - [ DEBUG ]  Thread312started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:183 ] - [ DEBUG ]  Thread313started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:184 ] - [ DEBUG ]  Thread314started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:184 ] - [ DEBUG ]  Thread315started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:184 ] - [ DEBUG ]  Thread316started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:185 ] - [ DEBUG ]  Thread317started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:186 ] - [ DEBUG ]  Thread318started.
+2017-01-27 19:43:02  [ JavaFX Application Thread:187 ] - [ DEBUG ]  180
