@@ -16,24 +16,36 @@ import java.util.List;
  * Created by huangzheng on 2017/1/24.
  */
 public class MongoDBJDBC {
-    private MongoCollection<Document> collection;
+    private  MongoCollection<Document> collection;
+    private MongoClient mongoClient;
+    private MongoDatabase mongoDatabase;
     private static Logger logger = Logger.getLogger(MongoDBJDBC.class);
     private static long no = 0;
-    public MongoDBJDBC() {
+    public MongoDBJDBC(int c) {
         PropertyConfigurator.configure("log4j.properties");
         try {
             // 连接到 mongodb 服务
-            MongoClient mongoClient = new MongoClient("localhost", 27017);
+            this.mongoClient = new MongoClient("localhost", 27017);
             logger.info("Get the service of mongodb successfully.");
             // 连接到数据库
-            MongoDatabase mongoDatabase = mongoClient.getDatabase("test");
+            this.mongoDatabase = mongoClient.getDatabase("test");
             logger.info("Connect to database successfully.");
-            collection = mongoDatabase.getCollection("test");
+            String cName = "c" + String.valueOf(c);
+            if (this.mongoDatabase.getCollection(cName) != null){
+                this.mongoDatabase.getCollection(cName).drop();
+            }
+            this.mongoDatabase.createCollection(cName);
+            this.collection = mongoDatabase.getCollection(cName);
+            if (this.collection == null){
+                System.out.println(cName);
+            }
             logger.info("Get the collection successfully.");
+
         } catch (Exception e) {
             System.err.println(e.getClass().getName() + ": " + e.getMessage());
         }
     }
+
     public void insert(List<Document> documents){
         //插入文档
         /**
@@ -41,16 +53,27 @@ public class MongoDBJDBC {
          * 2. 创建文档集合List<Document>
          * 3. 将文档集合插入数据库集合中 mongoCollection.insertMany(List<Document>) 插入单个文档可以用 mongoCollection.insertOne(Document)
          * */
-        if (!documents.isEmpty()) {
-            collection.insertMany(documents);
+        if (this.collection == null){
+            System.out.println("c is null");
+        }
+        if (documents!=null && !documents.isEmpty()) {
+            this.collection.insertMany(documents);
         }
     }
     public FindIterable<Document> selectAll(){
-        FindIterable<Document> documents = collection.find();
+        FindIterable<Document> documents = this.collection.find();
         return documents;
     }
     public long getRecordsCount (){
-        return collection.count();
+        return this.collection.count();
+    }
+
+    public static void main(String[] args) {
+        MongoDBJDBC mongoDBJDBC = new MongoDBJDBC(0);
+        Document document = new Document();
+        document.append("a","b");
+        FindIterable<Document> documents = mongoDBJDBC.selectAll();
+        System.out.println(documents.toString());
     }
 
 }

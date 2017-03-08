@@ -1,0 +1,1334 @@
+2017-03-03 12:43:31  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:43:31  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:43:31  [ main:157 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:43:43  [ JavaFX Application Thread:11378 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:43:43  [ JavaFX Application Thread:11378 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:43:43  [ JavaFX Application Thread:11458 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:44:05  [ JavaFX Application Thread:33949 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 12:45:00  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:45:00  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:45:00  [ main:130 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:45:11  [ JavaFX Application Thread:10963 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:45:11  [ JavaFX Application Thread:10964 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:45:11  [ JavaFX Application Thread:11061 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:45:22  [ JavaFX Application Thread:21853 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 12:46:59  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:46:59  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:46:59  [ main:157 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:47:08  [ JavaFX Application Thread:9786 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:47:08  [ JavaFX Application Thread:9787 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:47:08  [ JavaFX Application Thread:9882 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:47:22  [ JavaFX Application Thread:23521 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 12:53:05  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:53:05  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:53:05  [ main:147 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 12:53:40  [ JavaFX Application Thread:34828 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 12:53:40  [ JavaFX Application Thread:34828 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 12:53:40  [ JavaFX Application Thread:34914 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:00:38  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:00:38  [ main:6 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:00:38  [ main:138 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:00:48  [ JavaFX Application Thread:10819 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:00:48  [ JavaFX Application Thread:10820 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:00:48  [ JavaFX Application Thread:10896 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:10:30  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:10:30  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:10:30  [ main:153 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:10:38  [ JavaFX Application Thread:8628 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:10:38  [ JavaFX Application Thread:8628 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:10:38  [ JavaFX Application Thread:8702 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:14:04  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:14:04  [ main:5 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:14:04  [ main:131 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:14:17  [ JavaFX Application Thread:13932 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:14:17  [ JavaFX Application Thread:13932 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:14:18  [ JavaFX Application Thread:14018 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:28:07  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:28:07  [ JavaFX Application Thread:5 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:28:08  [ JavaFX Application Thread:164 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:28:17  [ JavaFX Application Thread:9897 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:28:17  [ JavaFX Application Thread:9898 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:28:17  [ JavaFX Application Thread:10016 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:37:52  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:37:52  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:37:52  [ main:122 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:38:15  [ JavaFX Application Thread:22401 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:38:15  [ JavaFX Application Thread:22401 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:38:15  [ JavaFX Application Thread:22484 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:38:17  [ JavaFX Application Thread:25160 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 13:38:24  [ JavaFX Application Thread:31352 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 13:38:45  [ JavaFX Application Thread:53105 ] - [ DEBUG ]  6
+2017-03-03 13:38:45  [ Thread-12:53105 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 13:38:45  [ JavaFX Application Thread:53109 ] - [ DEBUG ]  4
+2017-03-03 13:38:45  [ Thread-13:53109 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 13:38:45  [ JavaFX Application Thread:53113 ] - [ DEBUG ]  4
+2017-03-03 13:38:45  [ Thread-14:53113 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 13:38:45  [ JavaFX Application Thread:53117 ] - [ DEBUG ]  4
+2017-03-03 13:38:45  [ Thread-15:53117 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 13:38:45  [ Thread-16:53123 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 13:38:48  [ Thread-13:56142 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=23%C6%DA&year=2015%C4%EA
+2017-03-03 13:38:48  [ Thread-14:56147 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2012%C4%EA
+2017-03-03 13:38:48  [ Thread-16:56156 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2006%C4%EA
+2017-03-03 13:38:51  [ Thread-15:58409 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2010%C4%EA
+2017-03-03 13:38:51  [ Thread-13:59174 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=24%C6%DA&year=2015%C4%EA
+2017-03-03 13:38:51  [ Thread-14:59182 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2012%C4%EA
+2017-03-03 13:38:52  [ Thread-16:59187 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2006%C4%EA
+2017-03-03 13:38:53  [ Thread-12:60232 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2017%C4%EA
+2017-03-03 13:38:55  [ Thread-13:62210 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2014%C4%EA
+2017-03-03 13:38:55  [ Thread-14:62216 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2012%C4%EA
+2017-03-03 13:38:55  [ Thread-16:62219 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2006%C4%EA
+2017-03-03 13:38:56  [ Thread-12:63263 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2016%C4%EA
+2017-03-03 13:38:57  [ Thread-15:64907 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2010%C4%EA
+2017-03-03 13:38:58  [ Thread-16:65263 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2006%C4%EA
+2017-03-03 13:38:58  [ Thread-14:65263 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2012%C4%EA
+2017-03-03 13:38:59  [ Thread-12:66296 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:01  [ Thread-14:68296 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:01  [ Thread-13:69076 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:02  [ Thread-12:69335 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:03  [ Thread-15:70373 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2010%C4%EA
+2017-03-03 13:39:03  [ Thread-16:70911 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2006%C4%EA
+2017-03-03 13:39:04  [ Thread-13:72113 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:05  [ Thread-12:72368 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:06  [ Thread-15:73404 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2010%C4%EA
+2017-03-03 13:39:06  [ Thread-14:73487 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:06  [ Thread-16:73946 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2006%C4%EA
+2017-03-03 13:39:07  [ Thread-13:75146 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:09  [ Thread-15:76441 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2010%C4%EA
+2017-03-03 13:39:09  [ Thread-14:76515 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:09  [ Thread-16:77030 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA&year=2006%C4%EA
+2017-03-03 13:39:09  [ Thread-12:77172 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:11  [ Thread-13:78183 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:12  [ Thread-14:79549 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:12  [ Thread-16:80064 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:13  [ Thread-12:80204 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:13  [ Thread-15:81175 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:14  [ Thread-13:81216 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:15  [ Thread-14:82595 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:15  [ Thread-16:83098 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:16  [ Thread-12:83236 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:17  [ Thread-15:84203 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:17  [ Thread-13:84247 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:18  [ Thread-14:85626 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:18  [ Thread-16:86133 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:19  [ Thread-12:86272 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:20  [ Thread-15:87236 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:20  [ Thread-13:87277 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:21  [ Thread-14:88661 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA &year=2012%C4%EA
+2017-03-03 13:39:21  [ Thread-16:89165 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:22  [ Thread-12:89305 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:23  [ Thread-15:90268 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:23  [ Thread-13:90308 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:24  [ Thread-14:91694 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=13%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:25  [ Thread-16:92204 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:25  [ Thread-12:92336 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:26  [ Thread-15:93305 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:26  [ Thread-13:93343 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=13%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:27  [ Thread-14:94729 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=14%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:28  [ Thread-12:95370 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:28  [ Thread-16:95835 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:29  [ Thread-15:96337 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:29  [ Thread-13:96378 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=14%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:30  [ Thread-14:97763 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=15%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:31  [ Thread-12:98400 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=13%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:31  [ Thread-16:98865 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:32  [ Thread-15:99369 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:32  [ Thread-13:99416 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=15%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:34  [ Thread-16:101898 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:34  [ Thread-14:102102 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=17%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:35  [ Thread-15:102400 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:35  [ Thread-13:102452 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=16%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:35  [ Thread-12:103132 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=15%C6%DA&year=2016%C4%EA
+2017-03-03 13:39:37  [ Thread-16:104929 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2005%C4%EA
+2017-03-03 13:39:37  [ Thread-14:105136 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=18%C6%DA&year=2012%C4%EA
+2017-03-03 13:39:38  [ Thread-15:105432 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2009%C4%EA
+2017-03-03 13:39:38  [ Thread-16:105457 ] - [ DEBUG ]  U Thread 0 end
+2017-03-03 13:39:38  [ Thread-13:105485 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=17%C6%DA&year=2014%C4%EA
+2017-03-03 13:39:38  [ Thread-12:106173 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=16%C6%DA&year=2016%C4%EA
+2017-03-03 13:40:55  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:40:55  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:40:55  [ main:130 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:41:53  [ JavaFX Application Thread:57908 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:41:53  [ JavaFX Application Thread:57908 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:41:53  [ JavaFX Application Thread:57999 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:42:27  [ JavaFX Application Thread:92484 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:42:27  [ JavaFX Application Thread:92484 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:42:28  [ JavaFX Application Thread:92583 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:46:07  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:46:07  [ main:5 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:46:07  [ main:165 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 13:46:18  [ JavaFX Application Thread:11028 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 13:46:18  [ JavaFX Application Thread:11029 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 13:46:18  [ JavaFX Application Thread:11103 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:02:19  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:02:19  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:02:19  [ main:126 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:02:34  [ JavaFX Application Thread:14224 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:02:34  [ JavaFX Application Thread:14225 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:02:34  [ JavaFX Application Thread:14311 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:02:39  [ JavaFX Application Thread:19992 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:03:04  [ JavaFX Application Thread:44714 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 14:04:10  [ JavaFX Application Thread:110337 ] - [ DEBUG ]  8
+2017-03-03 14:04:10  [ Thread-16:110339 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:04:10  [ Thread-17:110341 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:04:10  [ JavaFX Application Thread:110341 ] - [ DEBUG ]  4
+2017-03-03 14:04:10  [ JavaFX Application Thread:110346 ] - [ DEBUG ]  4
+2017-03-03 14:04:10  [ Thread-18:110346 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:04:10  [ JavaFX Application Thread:110349 ] - [ DEBUG ]  3
+2017-03-03 14:04:10  [ Thread-19:110349 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:04:10  [ Thread-20:110357 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:04:13  [ Thread-16:113384 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2017%C4%EA
+2017-03-03 14:04:13  [ Thread-19:113386 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:13  [ Thread-20:113390 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:15  [ Thread-18:115764 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111084
+2017-03-03 14:04:15  [ Thread-17:115773 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503104
+2017-03-03 14:04:16  [ Thread-20:116628 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:16  [ Thread-16:116629 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2017%C4%EA
+2017-03-03 14:04:16  [ Thread-19:116629 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:18  [ Thread-18:118826 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201107088
+2017-03-03 14:04:18  [ Thread-17:118839 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502155
+2017-03-03 14:04:19  [ Thread-20:119668 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:19  [ Thread-19:119675 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:19  [ Thread-16:119675 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2017%C4%EA
+2017-03-03 14:04:21  [ Thread-18:121898 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111128
+2017-03-03 14:04:21  [ Thread-17:121923 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502132
+2017-03-03 14:04:22  [ Thread-20:122715 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:22  [ Thread-19:122726 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:22  [ Thread-16:122733 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2017%C4%EA
+2017-03-03 14:04:24  [ Thread-18:124939 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201110032
+2017-03-03 14:04:24  [ Thread-17:124964 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502011
+2017-03-03 14:04:25  [ Thread-20:125751 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:25  [ Thread-19:125764 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:25  [ Thread-16:125765 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:27  [ Thread-18:127998 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111009
+2017-03-03 14:04:27  [ Thread-17:127998 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503087
+2017-03-03 14:04:28  [ Thread-20:128794 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:28  [ Thread-16:128808 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:28  [ Thread-19:128821 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:30  [ Thread-18:131044 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201110030
+2017-03-03 14:04:30  [ Thread-17:131047 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502013
+2017-03-03 14:04:31  [ Thread-20:131826 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:31  [ Thread-16:131844 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:31  [ Thread-19:131851 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:33  [ Thread-18:134116 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110130
+2017-03-03 14:04:33  [ Thread-17:134118 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201412219
+2017-03-03 14:04:34  [ Thread-20:134861 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA&year=2006%C4%EA
+2017-03-03 14:04:34  [ Thread-16:134874 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:34  [ Thread-19:134886 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:37  [ Thread-18:137151 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111123
+2017-03-03 14:04:37  [ Thread-17:137156 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502096
+2017-03-03 14:04:37  [ Thread-20:137894 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:37  [ Thread-16:137910 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:37  [ Thread-19:137923 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=11%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:40  [ Thread-18:140186 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111062
+2017-03-03 14:04:40  [ Thread-17:140189 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503066
+2017-03-03 14:04:40  [ Thread-20:140934 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:40  [ Thread-16:140947 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:40  [ Thread-19:140959 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=12%C6%DA&year=2010%C4%EA
+2017-03-03 14:04:43  [ Thread-18:143223 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111003
+2017-03-03 14:04:43  [ Thread-17:143225 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503129
+2017-03-03 14:04:43  [ Thread-20:143970 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:43  [ Thread-16:143976 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:43  [ Thread-19:143990 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2009%C4%EA
+2017-03-03 14:04:46  [ Thread-17:146257 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201501284
+2017-03-03 14:04:46  [ Thread-18:146259 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111072
+2017-03-03 14:04:46  [ Thread-16:147010 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=08%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:46  [ Thread-20:147010 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:46  [ Thread-19:147027 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2009%C4%EA
+2017-03-03 14:04:49  [ Thread-17:149295 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502036
+2017-03-03 14:04:49  [ Thread-18:149299 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111116
+2017-03-03 14:04:49  [ Thread-16:150046 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=09%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:49  [ Thread-20:150049 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:49  [ Thread-19:150061 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2009%C4%EA
+2017-03-03 14:04:52  [ Thread-17:152334 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503062
+2017-03-03 14:04:52  [ Thread-18:152338 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111116
+2017-03-03 14:04:52  [ Thread-16:153077 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=10%C6%DA&year=2016%C4%EA
+2017-03-03 14:04:52  [ Thread-20:153087 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2005%C4%EA
+2017-03-03 14:04:52  [ Thread-19:153095 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2009%C4%EA
+2017-03-03 14:04:55  [ Thread-17:155368 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502039
+2017-03-03 14:04:55  [ Thread-18:155374 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111079
+2017-03-03 14:04:55  [ Thread-19:156128 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2009%C4%EA
+2017-03-03 14:04:57  [ Thread-16:157336 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201506235
+2017-03-03 14:04:58  [ Thread-17:158407 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502022
+2017-03-03 14:04:58  [ Thread-18:158414 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111111
+2017-03-03 14:04:58  [ Thread-20:158698 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050819
+2017-03-03 14:04:59  [ Thread-16:159517 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201505249
+2017-03-03 14:04:59  [ Thread-18:159625 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111078
+2017-03-03 14:05:00  [ Thread-19:161104 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906050
+2017-03-03 14:05:01  [ Thread-17:161442 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201501213
+2017-03-03 14:05:01  [ Thread-20:161727 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050807
+2017-03-03 14:05:02  [ Thread-16:162564 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506216
+2017-03-03 14:05:02  [ Thread-18:162660 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111076
+2017-03-03 14:05:03  [ Thread-19:164140 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906033
+2017-03-03 14:05:04  [ Thread-17:164477 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503118
+2017-03-03 14:05:04  [ Thread-20:164763 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050816
+2017-03-03 14:05:05  [ Thread-16:165596 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506213
+2017-03-03 14:05:05  [ Thread-18:165696 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111076
+2017-03-03 14:05:07  [ Thread-19:167171 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906032
+2017-03-03 14:05:07  [ Thread-17:167508 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502028
+2017-03-03 14:05:07  [ Thread-20:167798 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050808
+2017-03-03 14:05:08  [ Thread-16:168631 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201602043
+2017-03-03 14:05:08  [ Thread-18:168731 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111111
+2017-03-03 14:05:10  [ Thread-19:170204 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906031
+2017-03-03 14:05:10  [ Thread-17:170560 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503078
+2017-03-03 14:05:10  [ Thread-20:170830 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050815
+2017-03-03 14:05:11  [ Thread-16:171664 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601218
+2017-03-03 14:05:11  [ Thread-18:171766 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111078
+2017-03-03 14:05:13  [ Thread-19:173240 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906030
+2017-03-03 14:05:13  [ Thread-17:173601 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502022
+2017-03-03 14:05:13  [ Thread-20:173862 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050809
+2017-03-03 14:05:14  [ Thread-16:174698 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201511098
+2017-03-03 14:05:14  [ Thread-18:174801 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111079
+2017-03-03 14:05:16  [ Thread-19:176277 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906037
+2017-03-03 14:05:16  [ Thread-17:176636 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503078
+2017-03-03 14:05:16  [ Thread-20:176898 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050818
+2017-03-03 14:05:17  [ Thread-16:177729 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201512198
+2017-03-03 14:05:17  [ Thread-18:177836 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111072
+2017-03-03 14:05:19  [ Thread-19:179314 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906036
+2017-03-03 14:05:19  [ Thread-17:179676 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201505098
+2017-03-03 14:05:19  [ Thread-20:179931 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050817
+2017-03-03 14:05:20  [ Thread-18:180481 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201109122
+2017-03-03 14:05:20  [ Thread-16:180765 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201512075
+2017-03-03 14:05:22  [ Thread-19:182366 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906035
+2017-03-03 14:05:22  [ Thread-17:182714 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503071
+2017-03-03 14:05:22  [ Thread-20:182960 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050803
+2017-03-03 14:05:23  [ Thread-18:183516 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110108
+2017-03-03 14:05:23  [ Thread-16:183802 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506178
+2017-03-03 14:05:25  [ Thread-19:185401 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906034
+2017-03-03 14:05:25  [ Thread-17:185752 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503072
+2017-03-03 14:05:25  [ Thread-20:185999 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050812
+2017-03-03 14:05:26  [ Thread-18:186569 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110109
+2017-03-03 14:05:26  [ Thread-16:186835 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506212
+2017-03-03 14:05:28  [ Thread-19:188441 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906039
+2017-03-03 14:05:28  [ Thread-17:188791 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503070
+2017-03-03 14:05:28  [ Thread-20:189030 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050804
+2017-03-03 14:05:29  [ Thread-18:189606 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201110058
+2017-03-03 14:05:29  [ Thread-16:189869 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201507021
+2017-03-03 14:05:31  [ Thread-19:191477 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=200906038
+2017-03-03 14:05:31  [ Thread-17:191821 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201503118
+2017-03-03 14:05:31  [ Thread-20:192065 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050811
+2017-03-03 14:05:32  [ Thread-18:192641 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110117
+2017-03-03 14:05:32  [ Thread-16:192902 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201506238
+2017-03-03 14:05:34  [ Thread-19:194511 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906048
+2017-03-03 14:05:34  [ Thread-17:194861 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201505098
+2017-03-03 14:05:34  [ Thread-20:195095 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050805
+2017-03-03 14:05:35  [ Thread-18:195675 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111028
+2017-03-03 14:05:35  [ Thread-16:195933 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506228
+2017-03-03 14:05:37  [ Thread-19:197549 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906049
+2017-03-03 14:05:37  [ Thread-17:197897 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503071
+2017-03-03 14:05:37  [ Thread-20:198142 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050814
+2017-03-03 14:05:38  [ Thread-18:198709 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111029
+2017-03-03 14:05:38  [ Thread-16:198967 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201506222
+2017-03-03 14:05:40  [ Thread-19:200586 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906044
+2017-03-03 14:05:40  [ Thread-17:200930 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503070
+2017-03-03 14:05:41  [ Thread-20:201180 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050806
+2017-03-03 14:05:41  [ Thread-18:201743 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110114
+2017-03-03 14:05:41  [ Thread-16:202003 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201603240
+2017-03-03 14:05:43  [ Thread-19:203624 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906045
+2017-03-03 14:05:43  [ Thread-17:203964 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502028
+2017-03-03 14:05:44  [ Thread-20:204210 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050813
+2017-03-03 14:05:44  [ Thread-18:204809 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111047
+2017-03-03 14:05:44  [ Thread-16:205036 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201506186
+2017-03-03 14:05:46  [ Thread-19:206681 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906046
+2017-03-03 14:05:47  [ Thread-20:207247 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050821
+2017-03-03 14:05:47  [ Thread-17:207907 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503072
+2017-03-03 14:05:47  [ Thread-16:208071 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201603240
+2017-03-03 14:05:49  [ Thread-18:209178 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111043
+2017-03-03 14:05:50  [ Thread-19:210233 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906040
+2017-03-03 14:05:50  [ Thread-20:210279 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050822
+2017-03-03 14:05:50  [ Thread-17:210947 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502132
+2017-03-03 14:05:50  [ Thread-16:211104 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201506183
+2017-03-03 14:05:52  [ Thread-18:212212 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201111022
+2017-03-03 14:05:53  [ Thread-19:213265 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906041
+2017-03-03 14:05:53  [ Thread-20:213318 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050801
+2017-03-03 14:05:53  [ Thread-17:213979 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502011
+2017-03-03 14:05:55  [ Thread-18:215251 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111042
+2017-03-03 14:05:55  [ Thread-16:215344 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201506222
+2017-03-03 14:05:56  [ Thread-19:216299 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906042
+2017-03-03 14:05:56  [ Thread-20:216350 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=050810
+2017-03-03 14:05:56  [ Thread-17:217013 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201501284
+2017-03-03 14:05:58  [ Thread-18:218285 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110072
+2017-03-03 14:05:58  [ Thread-16:218380 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201507034
+2017-03-03 14:05:59  [ Thread-19:219350 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=200906043
+2017-03-03 14:05:59  [ Thread-20:219384 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=050823
+2017-03-03 14:05:59  [ Thread-17:220052 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201502013
+2017-03-03 14:07:20  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:07:20  [ main:6 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:07:20  [ main:142 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:07:39  [ JavaFX Application Thread:18892 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:07:39  [ JavaFX Application Thread:18892 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:07:39  [ JavaFX Application Thread:18968 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:07:44  [ JavaFX Application Thread:24086 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:07:53  [ JavaFX Application Thread:33749 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 14:08:09  [ JavaFX Application Thread:49673 ] - [ DEBUG ]  7
+2017-03-03 14:08:09  [ Thread-14:49674 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:08:09  [ Thread-15:49677 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:08:09  [ JavaFX Application Thread:49676 ] - [ DEBUG ]  3
+2017-03-03 14:08:09  [ JavaFX Application Thread:49682 ] - [ DEBUG ]  4
+2017-03-03 14:08:09  [ Thread-16:49683 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:08:09  [ Thread-17:49684 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:08:09  [ JavaFX Application Thread:49684 ] - [ DEBUG ]  2
+2017-03-03 14:08:09  [ Thread-18:49690 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:08:12  [ Thread-14:51899 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601095
+2017-03-03 14:08:12  [ Thread-15:52720 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=23%C6%DA&year=2015%C4%EA
+2017-03-03 14:08:12  [ Thread-16:52724 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2012%C4%EA
+2017-03-03 14:08:12  [ Thread-18:52758 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2006%C4%EA
+2017-03-03 14:08:14  [ Thread-17:53835 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100350
+2017-03-03 14:08:15  [ Thread-14:54940 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601097
+2017-03-03 14:08:15  [ Thread-15:55753 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=24%C6%DA&year=2015%C4%EA
+2017-03-03 14:08:15  [ Thread-16:55761 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2012%C4%EA
+2017-03-03 14:08:16  [ Thread-18:55792 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2006%C4%EA
+2017-03-03 14:08:17  [ Thread-17:56866 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100351
+2017-03-03 14:08:18  [ Thread-14:57982 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/DArticle.aspx?type=view&id=201604221
+2017-03-03 14:08:19  [ Thread-16:58790 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2012%C4%EA
+2017-03-03 14:08:19  [ Thread-15:58795 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2014%C4%EA
+2017-03-03 14:08:19  [ Thread-18:58827 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=07%C6%DA&year=2006%C4%EA
+2017-03-03 14:17:08  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:17:08  [ main:3 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:17:08  [ main:153 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:17:27  [ JavaFX Application Thread:18932 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:17:27  [ JavaFX Application Thread:18932 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:17:27  [ JavaFX Application Thread:19009 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:18:09  [ JavaFX Application Thread:60573 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:18:18  [ JavaFX Application Thread:70041 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 14:19:00  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:19:00  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:19:00  [ main:133 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:19:12  [ JavaFX Application Thread:11944 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:19:12  [ JavaFX Application Thread:11945 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:19:12  [ JavaFX Application Thread:12025 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:19:15  [ JavaFX Application Thread:14905 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:19:24  [ JavaFX Application Thread:24333 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 14:19:48  [ JavaFX Application Thread:48138 ] - [ DEBUG ]  6
+2017-03-03 14:19:48  [ Thread-13:48138 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:19:48  [ Thread-14:48144 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:19:48  [ JavaFX Application Thread:48144 ] - [ DEBUG ]  6
+2017-03-03 14:19:48  [ JavaFX Application Thread:48148 ] - [ DEBUG ]  3
+2017-03-03 14:19:48  [ Thread-15:48148 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:19:48  [ JavaFX Application Thread:48152 ] - [ DEBUG ]  4
+2017-03-03 14:19:48  [ Thread-16:48152 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:19:48  [ Thread-17:48159 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:19:50  [ Thread-13:49722 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601095
+2017-03-03 14:19:58  [ Thread-15:58182 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=01%C6%DA&year=2012%C4%EA
+2017-03-03 14:19:58  [ Thread-14:58183 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=23%C6%DA&year=2015%C4%EA
+2017-03-03 14:19:58  [ Thread-16:58242 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=03%C6%DA&year=2010%C4%EA
+2017-03-03 14:19:58  [ Thread-17:58245 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=05%C6%DA&year=2006%C4%EA
+2017-03-03 14:20:00  [ Thread-13:59785 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601097
+2017-03-03 14:20:08  [ Thread-14:68213 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=24%C6%DA&year=2015%C4%EA
+2017-03-03 14:20:08  [ Thread-15:68221 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=02%C6%DA&year=2012%C4%EA
+2017-03-03 14:20:08  [ Thread-16:68277 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=04%C6%DA&year=2010%C4%EA
+2017-03-03 14:20:08  [ Thread-17:68279 ] - [ DEBUG ]  [(url level)This url cannot connect:]http://mag.ieechina.com/oa/scriptlsit.aspx?kind=Issue&issnum=06%C6%DA&year=2006%C4%EA
+2017-03-03 14:25:12  [ main:1 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:25:12  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:25:12  [ main:123 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:25:27  [ JavaFX Application Thread:14968 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:25:27  [ JavaFX Application Thread:14968 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:25:27  [ JavaFX Application Thread:15072 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:25:30  [ JavaFX Application Thread:18056 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:25:37  [ JavaFX Application Thread:24998 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class]>DIV[class]>A[rel=external]
+2017-03-03 14:25:54  [ JavaFX Application Thread:41999 ] - [ DEBUG ]  4
+2017-03-03 14:25:54  [ Thread-19:41999 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:25:54  [ JavaFX Application Thread:42004 ] - [ DEBUG ]  4
+2017-03-03 14:25:54  [ Thread-20:42004 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:25:54  [ JavaFX Application Thread:42008 ] - [ DEBUG ]  4
+2017-03-03 14:25:54  [ Thread-21:42008 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:25:54  [ JavaFX Application Thread:42011 ] - [ DEBUG ]  3
+2017-03-03 14:25:54  [ Thread-22:42012 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:25:54  [ Thread-23:42018 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:25:55  [ Thread-20:43402 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503104
+2017-03-03 14:26:17  [ Thread-20:65460 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502132
+2017-03-03 14:26:18  [ Thread-20:65704 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502011
+2017-03-03 14:26:21  [ Thread-22:68694 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100350
+2017-03-03 14:26:21  [ Thread-22:68978 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100351
+2017-03-03 14:26:21  [ Thread-22:69111 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100349
+2017-03-03 14:26:42  [ Thread-19:89908 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601095
+2017-03-03 14:26:42  [ Thread-19:90133 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201601097
+2017-03-03 14:26:43  [ Thread-22:91078 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=20100348
+2017-03-03 14:27:03  [ Thread-20:110731 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502013
+2017-03-03 14:27:25  [ Thread-21:132724 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201107088
+2017-03-03 14:27:44  [ Thread-20:152270 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201412219
+2017-03-03 14:27:44  [ Thread-20:152387 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201502096
+2017-03-03 14:28:06  [ Thread-21:174187 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110130
+2017-03-03 14:28:33  [ Thread-20:200837 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503066
+2017-03-03 14:28:34  [ Thread-20:201584 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201501284
+2017-03-03 14:28:53  [ Thread-19:220813 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201512141
+2017-03-03 14:29:14  [ Thread-19:241530 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201511294
+2017-03-03 14:29:35  [ Thread-19:262580 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201511171
+2017-03-03 14:29:55  [ Thread-19:283050 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201511292
+2017-03-03 14:30:15  [ Thread-19:302897 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201511210
+2017-03-03 14:30:36  [ Thread-21:323610 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111062
+2017-03-03 14:30:56  [ Thread-19:343627 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201512220
+2017-03-03 14:31:16  [ Thread-21:363764 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111116
+2017-03-03 14:31:35  [ Thread-21:383287 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111079
+2017-03-03 14:31:35  [ Thread-21:383391 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111111
+2017-03-03 14:31:36  [ Thread-21:384145 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111078
+2017-03-03 14:32:00  [ Thread-21:407821 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111076
+2017-03-03 14:32:19  [ Thread-20:427011 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201503062
+2017-03-03 14:32:22  [ Thread-21:430060 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201111072
+2017-03-03 14:32:22  [ Thread-21:430160 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201109122
+2017-03-03 14:32:42  [ Thread-21:449568 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110108
+2017-03-03 14:33:03  [ Thread-21:470520 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://mag.ieechina.com/oa/pdfdow.aspx?Sid=201110109
+2017-03-03 14:45:31  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:45:31  [ main:8 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:45:31  [ main:206 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:45:43  [ JavaFX Application Thread:12613 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 14:45:43  [ JavaFX Application Thread:12613 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 14:45:44  [ JavaFX Application Thread:12700 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 14:45:47  [ JavaFX Application Thread:15803 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class=column]>TABLE[border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>TABLE>TBODY>TR>TD>TABLE[border=0][cellspacing=0]>TBODY>TR>TD>A
+2017-03-03 14:45:53  [ JavaFX Application Thread:22423 ] - [ DEBUG ]  BODY[class]>DIV>DIV>DIV>DIV>DIV[class=column]>TABLE[width=100%][border=0][cellpadding=0][cellspacing=0]>TBODY>TR>TD>DIV[class=item]>DIV[class=title]>A[rel=external]
+2017-03-03 14:46:15  [ JavaFX Application Thread:44234 ] - [ DEBUG ]  7
+2017-03-03 14:46:15  [ Thread-16:44234 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:46:15  [ JavaFX Application Thread:44238 ] - [ DEBUG ]  4
+2017-03-03 14:46:15  [ Thread-17:44238 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:46:15  [ JavaFX Application Thread:44242 ] - [ DEBUG ]  4
+2017-03-03 14:46:15  [ Thread-18:44242 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:46:15  [ JavaFX Application Thread:44246 ] - [ DEBUG ]  4
+2017-03-03 14:46:15  [ Thread-19:44246 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 14:46:15  [ Thread-20:44254 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 15:03:43  [ Thread-20:1092286 ] - [ DEBUG ]  U Thread 0 end
+2017-03-03 15:52:43  [ Thread-19:4031924 ] - [ DEBUG ]  U Thread 1 end
+2017-03-03 16:20:15  [ Thread-17:5684257 ] - [ DEBUG ]  U Thread 2 end
+2017-03-03 16:23:17  [ Thread-18:5865785 ] - [ DEBUG ]  U Thread 3 end
+2017-03-03 16:23:53  [ Thread-16:5902186 ] - [ DEBUG ]  U Thread 4 end
+2017-03-03 17:01:55  [ JavaFX Application Thread:8184440 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:01:55  [ JavaFX Application Thread:8184441 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:01:55  [ JavaFX Application Thread:8184526 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:02:00  [ JavaFX Application Thread:8189146 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 17:02:25  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:02:25  [ main:7 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:02:25  [ main:137 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:04:04  [ JavaFX Application Thread:99769 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:04:04  [ JavaFX Application Thread:99769 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:04:04  [ JavaFX Application Thread:99854 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:04:11  [ JavaFX Application Thread:105928 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 17:04:20  [ JavaFX Application Thread:115020 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[cellspacing=0][cellpadding=0][align=center][border=0][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[cellpadding=0][cellspacing=0][border=0][width=98%]>TBODY>TR>TD>DIV[class=tabbox1]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do]>DIV>UL[name=tabul]>TABLE[width=100%][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[align=left]>DIV[class]>TABLE[width=100%]>TBODY>TR>TD[style=PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px][align=left]:has(a)::0
+2017-03-03 17:04:52  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:04:52  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:04:52  [ main:125 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:11:34  [ JavaFX Application Thread:402260 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:11:34  [ JavaFX Application Thread:402260 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:11:34  [ JavaFX Application Thread:402362 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:11:40  [ JavaFX Application Thread:407540 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 17:11:45  [ JavaFX Application Thread:413047 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[cellspacing=0][cellpadding=0][align=center][border=0][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[cellpadding=0][cellspacing=0][border=0][width=98%]>TBODY>TR>TD>DIV[class=tabbox1]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do]>DIV>UL[name=tabul]>TABLE[width=100%][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[align=left]>DIV[class]>TABLE[width=100%]>TBODY>TR>TD[style=PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px][align=left]:has(a)::0
+2017-03-03 17:12:07  [ JavaFX Application Thread:435278 ] - [ DEBUG ]  6
+2017-03-03 17:12:07  [ Thread-19:435278 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 17:12:07  [ JavaFX Application Thread:435283 ] - [ DEBUG ]  4
+2017-03-03 17:12:07  [ Thread-20:435283 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 17:12:07  [ JavaFX Application Thread:435287 ] - [ DEBUG ]  4
+2017-03-03 17:12:07  [ Thread-21:435287 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 17:12:07  [ Thread-22:435291 ] - [ DEBUG ]  U Thread 0 started
+2017-03-03 17:12:09  [ Thread-21:437282 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/181
+2017-03-03 17:12:10  [ Thread-21:437454 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/140
+2017-03-03 17:12:10  [ Thread-21:437565 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/162
+2017-03-03 17:12:10  [ Thread-21:437652 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/173
+2017-03-03 17:12:10  [ Thread-21:437792 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/145
+2017-03-03 17:12:10  [ Thread-21:437909 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/156
+2017-03-03 17:12:10  [ Thread-21:437970 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/113
+2017-03-03 17:12:10  [ Thread-21:438077 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/201
+2017-03-03 17:12:10  [ Thread-21:438152 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/169
+2017-03-03 17:12:10  [ Thread-21:438246 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/153
+2017-03-03 17:12:10  [ Thread-21:438329 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/186
+2017-03-03 17:12:11  [ Thread-21:438423 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/132
+2017-03-03 17:12:11  [ Thread-21:438509 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/220
+2017-03-03 17:12:11  [ Thread-21:438662 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/122
+2017-03-03 17:12:11  [ Thread-21:438802 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/210
+2017-03-03 17:12:11  [ Thread-21:438952 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/127
+2017-03-03 17:12:11  [ Thread-21:439021 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/215
+2017-03-03 17:12:11  [ Thread-21:439111 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I2/205
+2017-03-03 17:12:12  [ Thread-21:439431 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/26
+2017-03-03 17:12:12  [ Thread-21:439498 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/14
+2017-03-03 17:12:12  [ Thread-21:439662 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/57
+2017-03-03 17:12:12  [ Thread-21:439749 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/102
+2017-03-03 17:12:12  [ Thread-21:439825 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/34
+2017-03-03 17:12:12  [ Thread-21:439900 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/45
+2017-03-03 17:12:12  [ Thread-21:440001 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/67
+2017-03-03 17:12:12  [ Thread-21:440093 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/78
+2017-03-03 17:12:12  [ Thread-21:440171 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/112
+2017-03-03 17:12:12  [ Thread-21:440240 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/1
+2017-03-03 17:12:12  [ Thread-21:440361 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/62
+2017-03-03 17:12:13  [ Thread-21:440457 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/73
+2017-03-03 17:12:13  [ Thread-21:440516 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/50
+2017-03-03 17:12:13  [ Thread-21:440617 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/83
+2017-03-03 17:12:13  [ Thread-21:440760 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/92
+2017-03-03 17:12:13  [ Thread-21:440877 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/10
+2017-03-03 17:12:13  [ Thread-21:440974 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/87
+2017-03-03 17:12:13  [ Thread-21:441043 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/20
+2017-03-03 17:12:13  [ Thread-21:441188 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I1/41
+2017-03-03 17:12:14  [ Thread-21:441658 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/604
+2017-03-03 17:12:14  [ Thread-21:441805 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/615
+2017-03-03 17:12:14  [ Thread-21:441873 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/635
+2017-03-03 17:12:14  [ Thread-21:441965 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/657
+2017-03-03 17:12:14  [ Thread-21:442046 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/619
+2017-03-03 17:12:14  [ Thread-21:442115 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/639
+2017-03-03 17:12:14  [ Thread-21:442335 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/630
+2017-03-03 17:12:15  [ Thread-21:442490 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/561
+2017-03-03 17:12:15  [ Thread-21:442633 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/583
+2017-03-03 17:12:15  [ Thread-21:442731 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/595
+2017-03-03 17:12:15  [ Thread-21:442845 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/650
+2017-03-03 17:12:15  [ Thread-21:443064 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/600
+2017-03-03 17:12:15  [ Thread-21:443244 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/611
+2017-03-03 17:12:16  [ Thread-21:443450 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/623
+2017-03-03 17:12:16  [ Thread-21:443541 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/645
+2017-03-03 17:12:16  [ Thread-21:443693 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/664
+2017-03-03 17:12:16  [ Thread-21:443901 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/577
+2017-03-03 17:12:16  [ Thread-21:444079 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/570
+2017-03-03 17:12:16  [ Thread-21:444186 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/590
+2017-03-03 17:12:16  [ Thread-21:444265 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I6/580
+2017-03-03 17:12:17  [ Thread-21:444510 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/465
+2017-03-03 17:12:17  [ Thread-21:444596 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/485
+2017-03-03 17:12:17  [ Thread-21:444681 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/551
+2017-03-03 17:12:17  [ Thread-21:444826 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/547
+2017-03-03 17:12:37  [ Thread-21:465085 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/458
+2017-03-03 17:12:37  [ Thread-21:465179 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/524
+2017-03-03 17:12:37  [ Thread-21:465269 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/479
+2017-03-03 17:12:37  [ Thread-21:465322 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/467
+2017-03-03 17:12:38  [ Thread-21:465442 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/500
+2017-03-03 17:12:38  [ Thread-21:465552 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/511
+2017-03-03 17:12:38  [ Thread-21:465686 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/555
+2017-03-03 17:12:38  [ Thread-21:465771 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/490
+2017-03-03 17:12:38  [ Thread-21:465829 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/473
+2017-03-03 17:12:38  [ Thread-21:465911 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/495
+2017-03-03 17:12:38  [ Thread-21:466042 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/529
+2017-03-03 17:12:38  [ Thread-21:466209 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/506
+2017-03-03 17:12:38  [ Thread-21:466321 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/517
+2017-03-03 17:12:39  [ Thread-21:466541 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/538
+2017-03-03 17:12:39  [ Thread-21:466705 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/449
+2017-03-03 17:12:39  [ Thread-21:466794 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I5/537
+2017-03-03 17:12:39  [ Thread-21:467225 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/407
+2017-03-03 17:12:56  [ Thread-21:484087 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/429
+2017-03-03 17:12:56  [ Thread-21:484397 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/419
+2017-03-03 17:12:57  [ Thread-21:484579 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/337
+2017-03-03 17:12:57  [ Thread-21:484761 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/348
+2017-03-03 17:12:57  [ Thread-21:485109 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/414
+2017-03-03 17:12:58  [ Thread-21:485595 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/425
+2017-03-03 17:12:58  [ Thread-21:485770 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/369
+2017-03-03 17:12:58  [ Thread-21:485949 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/413
+2017-03-03 17:12:58  [ Thread-21:486125 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/437
+2017-03-03 17:12:58  [ Thread-21:486363 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/399
+2017-03-03 17:12:59  [ Thread-21:486590 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/343
+2017-03-03 17:12:59  [ Thread-21:486928 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/354
+2017-03-03 17:12:59  [ Thread-21:487106 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/357
+2017-03-03 17:12:59  [ Thread-21:487284 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/389
+2017-03-03 17:13:00  [ Thread-21:487458 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/433
+2017-03-03 17:13:00  [ Thread-21:487782 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/444
+2017-03-03 17:13:00  [ Thread-21:487947 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/384
+2017-03-03 17:13:00  [ Thread-21:488124 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/394
+2017-03-03 17:13:00  [ Thread-21:488302 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/364
+2017-03-03 17:13:01  [ Thread-21:488478 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/374
+2017-03-03 17:13:01  [ Thread-21:488806 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I4/380
+2017-03-03 17:13:02  [ Thread-21:489673 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/307
+2017-03-03 17:13:02  [ Thread-21:490000 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/317
+2017-03-03 17:13:02  [ Thread-21:490166 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/237
+2017-03-03 17:13:02  [ Thread-21:490342 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/259
+2017-03-03 17:13:03  [ Thread-21:490518 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/303
+2017-03-03 17:13:03  [ Thread-21:490746 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/325
+2017-03-03 17:13:03  [ Thread-21:490923 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/225
+2017-03-03 17:13:03  [ Thread-21:491188 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/246
+2017-03-03 17:13:04  [ Thread-21:491449 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/289
+2017-03-03 17:13:04  [ Thread-21:491658 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/311
+2017-03-03 17:13:04  [ Thread-21:491878 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/322
+2017-03-03 17:13:04  [ Thread-21:492082 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/333
+2017-03-03 17:13:04  [ Thread-21:492228 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/233
+2017-03-03 17:13:04  [ Thread-21:492330 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/255
+2017-03-03 17:13:05  [ Thread-21:492457 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/265
+2017-03-03 17:13:05  [ Thread-21:492524 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/230
+2017-03-03 17:13:05  [ Thread-21:492641 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/241
+2017-03-03 17:13:05  [ Thread-21:492704 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/274
+2017-03-03 17:13:05  [ Thread-21:492802 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/285
+2017-03-03 17:13:05  [ Thread-21:492924 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/262
+2017-03-03 17:13:05  [ Thread-21:493058 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/295
+2017-03-03 17:13:05  [ Thread-21:493156 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I3/280
+2017-03-03 17:13:06  [ Thread-21:493426 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/151
+2017-03-03 17:13:06  [ Thread-21:493498 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/183
+2017-03-03 17:13:06  [ Thread-21:493665 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/131
+2017-03-03 17:13:06  [ Thread-21:493791 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/164
+2017-03-03 17:13:08  [ Thread-21:496244 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/141
+2017-03-03 17:13:08  [ Thread-21:496402 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/177
+2017-03-03 17:13:09  [ Thread-21:496482 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/210
+2017-03-03 17:13:09  [ Thread-21:496569 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/220
+2017-03-03 17:13:09  [ Thread-21:496723 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/113
+2017-03-03 17:13:09  [ Thread-21:496822 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/135
+2017-03-03 17:13:09  [ Thread-21:496893 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/157
+2017-03-03 17:13:09  [ Thread-21:496946 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/168
+2017-03-03 17:13:09  [ Thread-21:497009 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/201
+2017-03-03 17:13:09  [ Thread-21:497072 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/212
+2017-03-03 17:13:09  [ Thread-21:497133 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/145
+2017-03-03 17:13:09  [ Thread-21:497276 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/189
+2017-03-03 17:13:09  [ Thread-21:497339 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/126
+2017-03-03 17:13:09  [ Thread-21:497403 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/205
+2017-03-03 17:13:10  [ Thread-21:497461 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/119
+2017-03-03 17:13:10  [ Thread-21:497593 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/193
+2017-03-03 17:13:10  [ Thread-21:497681 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I2/170
+2017-03-03 17:13:12  [ Thread-21:499944 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/50
+2017-03-03 17:13:12  [ Thread-21:500002 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/72
+2017-03-03 17:13:12  [ Thread-21:500054 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/62
+2017-03-03 17:13:12  [ Thread-21:500200 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/31
+2017-03-03 17:13:12  [ Thread-21:500320 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/42
+2017-03-03 17:13:13  [ Thread-21:500528 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/54
+2017-03-03 17:13:13  [ Thread-21:500631 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/87
+2017-03-03 17:13:13  [ Thread-21:500686 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/22
+2017-03-03 17:13:13  [ Thread-21:500759 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/99
+2017-03-03 17:13:13  [ Thread-21:500845 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/45
+2017-03-03 17:13:13  [ Thread-21:500935 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/67
+2017-03-03 17:13:18  [ Thread-21:506220 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/78
+2017-03-03 17:13:18  [ Thread-21:506306 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/13
+2017-03-03 17:13:19  [ Thread-21:506434 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/82
+2017-03-03 17:13:19  [ Thread-21:506497 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/93
+2017-03-03 17:13:19  [ Thread-21:506606 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/112
+2017-03-03 17:13:19  [ Thread-21:506705 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/26
+2017-03-03 17:13:19  [ Thread-21:506788 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/37
+2017-03-03 17:13:19  [ Thread-21:506846 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/9
+2017-03-03 17:13:19  [ Thread-21:506949 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/17
+2017-03-03 17:13:19  [ Thread-21:507073 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/104
+2017-03-03 17:13:19  [ Thread-21:507177 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2002/V16/I1/5
+2017-03-03 17:13:21  [ Thread-21:508447 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/643
+2017-03-03 17:13:21  [ Thread-21:508566 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/654
+2017-03-03 17:13:21  [ Thread-21:508684 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/664
+2017-03-03 17:13:21  [ Thread-21:508736 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/675
+2017-03-03 17:13:21  [ Thread-21:508852 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/686
+2017-03-03 17:13:21  [ Thread-21:508912 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/630
+2017-03-03 17:13:21  [ Thread-21:509002 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/693
+2017-03-03 17:13:21  [ Thread-21:509083 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/681
+2017-03-03 17:13:21  [ Thread-21:509211 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/639
+2017-03-03 17:13:21  [ Thread-21:509266 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/649
+2017-03-03 17:13:21  [ Thread-21:509341 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/615
+2017-03-03 17:13:21  [ Thread-21:509406 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/659
+2017-03-03 17:13:22  [ Thread-21:509565 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/703
+2017-03-03 17:13:22  [ Thread-21:509782 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/669
+2017-03-03 17:13:22  [ Thread-21:509908 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/623
+2017-03-03 17:13:22  [ Thread-21:509999 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/634
+2017-03-03 17:13:22  [ Thread-21:510094 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/600
+2017-03-03 17:13:22  [ Thread-21:510166 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/611
+2017-03-03 17:13:22  [ Thread-21:510272 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/699
+2017-03-03 17:13:22  [ Thread-21:510367 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/609
+2017-03-03 17:13:23  [ Thread-21:510532 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/708
+2017-03-03 17:13:23  [ Thread-21:510635 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I6/619
+2017-03-03 17:13:23  [ Thread-21:510880 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/535
+2017-03-03 17:13:23  [ Thread-21:510935 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/505
+2017-03-03 17:13:23  [ Thread-21:511028 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/549
+2017-03-03 17:13:23  [ Thread-21:511111 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/537
+2017-03-03 17:13:23  [ Thread-21:511231 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/539
+2017-03-03 17:13:23  [ Thread-21:511349 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/519
+2017-03-03 17:13:24  [ Thread-21:511788 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/495
+2017-03-03 17:13:24  [ Thread-21:511842 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/561
+2017-03-03 17:13:24  [ Thread-21:511915 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/572
+2017-03-03 17:13:24  [ Thread-21:512044 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/593
+2017-03-03 17:13:24  [ Thread-21:512155 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/530
+2017-03-03 17:13:24  [ Thread-21:512288 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/510
+2017-03-03 17:13:24  [ Thread-21:512411 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/565
+2017-03-03 17:13:25  [ Thread-21:512473 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/520
+2017-03-03 17:13:25  [ Thread-21:512734 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/553
+2017-03-03 17:13:25  [ Thread-21:512865 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/589
+2017-03-03 17:13:25  [ Thread-21:512985 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/500
+2017-03-03 17:13:25  [ Thread-21:513086 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/577
+2017-03-03 17:13:25  [ Thread-21:513173 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I5/581
+2017-03-03 17:13:26  [ Thread-21:513845 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/399
+2017-03-03 17:13:26  [ Thread-21:514059 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/454
+2017-03-03 17:13:26  [ Thread-21:514257 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/465
+2017-03-03 17:13:27  [ Thread-21:514518 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/420
+2017-03-03 17:13:27  [ Thread-21:514599 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/440
+2017-03-03 17:13:27  [ Thread-21:514677 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/451
+2017-03-03 17:13:27  [ Thread-21:514789 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/473
+2017-03-03 17:13:27  [ Thread-21:514876 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/458
+2017-03-03 17:13:27  [ Thread-21:515192 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/479
+2017-03-03 17:13:27  [ Thread-21:515337 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/467
+2017-03-03 17:13:28  [ Thread-21:515573 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/389
+2017-03-03 17:13:28  [ Thread-21:515853 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/411
+2017-03-03 17:13:28  [ Thread-21:515940 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/433
+2017-03-03 17:13:28  [ Thread-21:516050 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/384
+2017-03-03 17:13:29  [ Thread-21:516979 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/394
+2017-03-03 17:13:29  [ Thread-21:517285 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/482
+2017-03-03 17:13:30  [ Thread-21:517524 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/427
+2017-03-03 17:13:30  [ Thread-21:517858 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/449
+2017-03-03 17:13:30  [ Thread-21:518092 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/404
+2017-03-03 17:13:30  [ Thread-21:518190 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I4/415
+2017-03-03 17:13:31  [ Thread-21:518573 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/328
+2017-03-03 17:13:31  [ Thread-21:518699 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/318
+2017-03-03 17:13:31  [ Thread-21:518807 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/308
+2017-03-03 17:13:31  [ Thread-21:518948 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/269
+2017-03-03 17:13:31  [ Thread-21:519085 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/313
+2017-03-03 17:13:31  [ Thread-21:519226 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/303
+2017-03-03 17:13:31  [ Thread-21:519330 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/358
+2017-03-03 17:13:32  [ Thread-21:519484 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/348
+2017-03-03 17:13:32  [ Thread-21:519609 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/338
+2017-03-03 17:13:32  [ Thread-21:519797 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/287
+2017-03-03 17:13:32  [ Thread-21:519872 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/353
+2017-03-03 17:13:32  [ Thread-21:519940 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/299
+2017-03-03 17:13:32  [ Thread-21:520047 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/343
+2017-03-03 17:13:32  [ Thread-21:520122 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/333
+2017-03-03 17:13:32  [ Thread-21:520201 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/279
+2017-03-03 17:13:32  [ Thread-21:520276 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/323
+2017-03-03 17:13:32  [ Thread-21:520411 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/367
+2017-03-03 17:13:33  [ Thread-21:520533 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/295
+2017-03-03 17:13:33  [ Thread-21:520637 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/372
+2017-03-03 17:13:33  [ Thread-21:520837 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/263
+2017-03-03 17:13:33  [ Thread-21:521002 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/275
+2017-03-03 17:13:33  [ Thread-21:521101 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I3/291
+2017-03-03 17:13:36  [ Thread-21:523516 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/239
+2017-03-03 17:13:36  [ Thread-21:523599 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/215
+2017-03-03 17:13:36  [ Thread-21:523736 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/205
+2017-03-03 17:13:38  [ Thread-21:525688 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/249
+2017-03-03 17:13:38  [ Thread-21:525772 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/257
+2017-03-03 17:13:38  [ Thread-21:525848 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/159
+2017-03-03 17:13:38  [ Thread-21:525941 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/225
+2017-03-03 17:13:38  [ Thread-21:526047 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/244
+2017-03-03 17:13:38  [ Thread-21:526176 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/179
+2017-03-03 17:13:38  [ Thread-21:526278 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/201
+2017-03-03 17:13:38  [ Thread-21:526364 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/166
+2017-03-03 17:13:39  [ Thread-21:526622 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/254
+2017-03-03 17:13:39  [ Thread-21:526790 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/185
+2017-03-03 17:13:39  [ Thread-21:526937 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/230
+2017-03-03 17:13:41  [ Thread-21:528446 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/260
+2017-03-03 17:13:41  [ Thread-21:528557 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/151
+2017-03-03 17:13:41  [ Thread-21:528693 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/171
+2017-03-03 17:13:41  [ Thread-21:528815 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/193
+2017-03-03 17:13:41  [ Thread-21:528958 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/219
+2017-03-03 17:13:41  [ Thread-21:529020 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I2/209
+2017-03-03 17:13:41  [ Thread-21:529317 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/130
+2017-03-03 17:13:41  [ Thread-21:529403 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/120
+2017-03-03 17:13:42  [ Thread-21:529551 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/110
+2017-03-03 17:13:42  [ Thread-21:529627 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/143
+2017-03-03 17:13:42  [ Thread-21:529719 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/135
+2017-03-03 17:13:42  [ Thread-21:529829 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/125
+2017-03-03 17:13:42  [ Thread-21:529959 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/105
+2017-03-03 17:13:42  [ Thread-21:530110 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/138
+2017-03-03 17:13:42  [ Thread-21:530197 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/17
+2017-03-03 17:13:42  [ Thread-21:530253 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/117
+2017-03-03 17:13:42  [ Thread-21:530309 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/49
+2017-03-03 17:13:42  [ Thread-21:530387 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/29
+2017-03-03 17:13:43  [ Thread-21:530502 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/23
+2017-03-03 17:13:43  [ Thread-21:530641 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/69
+2017-03-03 17:13:44  [ Thread-21:532323 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/97
+2017-03-03 17:13:45  [ Thread-21:532444 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/41
+2017-03-03 17:13:45  [ Thread-21:532588 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/9
+2017-03-03 17:13:45  [ Thread-21:532666 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/33
+2017-03-03 17:13:45  [ Thread-21:532766 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/77
+2017-03-03 17:13:45  [ Thread-21:532870 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/65
+2017-03-03 17:13:45  [ Thread-21:532946 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/61
+2017-03-03 17:13:45  [ Thread-21:533018 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/83
+2017-03-03 17:13:45  [ Thread-21:533097 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/1
+2017-03-03 17:13:45  [ Thread-21:533245 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2001/V15/I1/91
+2017-03-03 17:13:46  [ Thread-21:533668 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/657
+2017-03-03 17:13:46  [ Thread-21:533823 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/625
+2017-03-03 17:13:46  [ Thread-21:533910 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/647
+2017-03-03 17:13:46  [ Thread-21:533993 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/604
+2017-03-03 17:13:46  [ Thread-21:534078 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/615
+2017-03-03 17:13:46  [ Thread-21:534139 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/587
+2017-03-03 17:13:46  [ Thread-21:534204 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/599
+2017-03-03 17:13:48  [ Thread-21:535755 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/643
+2017-03-03 17:13:48  [ Thread-21:535891 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/665
+2017-03-03 17:13:48  [ Thread-21:536022 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/578
+2017-03-03 17:13:48  [ Thread-21:536115 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/568
+2017-03-03 17:13:48  [ Thread-21:536216 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/634
+2017-03-03 17:13:49  [ Thread-21:537135 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/639
+2017-03-03 17:13:49  [ Thread-21:537261 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/609
+2017-03-03 17:13:49  [ Thread-21:537316 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/561
+2017-03-03 17:13:49  [ Thread-21:537415 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/583
+2017-03-03 17:13:50  [ Thread-21:537530 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/573
+2017-03-03 17:13:50  [ Thread-21:537652 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/595
+2017-03-03 17:13:50  [ Thread-21:537767 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/661
+2017-03-03 17:13:50  [ Thread-21:537826 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/652
+2017-03-03 17:13:50  [ Thread-21:537948 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/591
+2017-03-03 17:13:50  [ Thread-21:538086 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I6/670
+2017-03-03 17:13:50  [ Thread-21:538411 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/531
+2017-03-03 17:13:51  [ Thread-21:538532 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/553
+2017-03-03 17:13:51  [ Thread-21:538655 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/543
+2017-03-03 17:13:51  [ Thread-21:538735 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/463
+2017-03-03 17:13:51  [ Thread-21:538860 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/485
+2017-03-03 17:13:51  [ Thread-21:539006 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/475
+2017-03-03 17:13:51  [ Thread-21:539156 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/497
+2017-03-03 17:13:51  [ Thread-21:539292 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/481
+2017-03-03 17:13:52  [ Thread-21:539441 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/493
+2017-03-03 17:13:52  [ Thread-21:539510 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/517
+2017-03-03 17:13:52  [ Thread-21:539677 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/449
+2017-03-03 17:13:52  [ Thread-21:539830 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/548
+2017-03-03 17:13:52  [ Thread-21:539955 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/505
+2017-03-03 17:13:52  [ Thread-21:540084 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/538
+2017-03-03 17:13:52  [ Thread-21:540213 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/469
+2017-03-03 17:13:52  [ Thread-21:540344 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/513
+2017-03-03 17:13:53  [ Thread-21:540455 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/524
+2017-03-03 17:13:53  [ Thread-21:540572 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/558
+2017-03-03 17:13:53  [ Thread-21:540668 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/489
+2017-03-03 17:13:53  [ Thread-21:540726 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/457
+2017-03-03 17:13:53  [ Thread-21:540835 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/501
+2017-03-03 17:13:53  [ Thread-21:540931 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I5/509
+2017-03-03 17:13:53  [ Thread-21:541357 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/413
+2017-03-03 17:13:54  [ Thread-21:541470 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/424
+2017-03-03 17:13:54  [ Thread-21:541654 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/337
+2017-03-03 17:13:54  [ Thread-21:541714 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/359
+2017-03-03 17:13:54  [ Thread-21:541828 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/349
+2017-03-03 17:13:54  [ Thread-21:541941 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/438
+2017-03-03 17:13:54  [ Thread-21:542135 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/417
+2017-03-03 17:13:54  [ Thread-21:542395 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/407
+2017-03-03 17:13:55  [ Thread-21:542613 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/373
+2017-03-03 17:13:55  [ Thread-21:542907 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/384
+2017-03-03 17:13:55  [ Thread-21:543021 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/363
+2017-03-03 17:13:55  [ Thread-21:543223 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/397
+2017-03-03 17:13:55  [ Thread-21:543365 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/431
+2017-03-03 17:13:56  [ Thread-21:543550 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/344
+2017-03-03 17:13:56  [ Thread-21:543858 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/355
+2017-03-03 17:13:56  [ Thread-21:544037 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/388
+2017-03-03 17:13:56  [ Thread-21:544208 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/367
+2017-03-03 17:13:56  [ Thread-21:544305 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/379
+2017-03-03 17:13:57  [ Thread-21:544454 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/401
+2017-03-03 17:13:57  [ Thread-21:544637 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/445
+2017-03-03 17:13:57  [ Thread-21:544698 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I4/393
+2017-03-03 17:13:57  [ Thread-21:545102 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/265
+2017-03-03 17:13:57  [ Thread-21:545239 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/331
+2017-03-03 17:13:57  [ Thread-21:545380 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/244
+2017-03-03 17:13:58  [ Thread-21:545553 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/255
+2017-03-03 17:13:58  [ Thread-21:545846 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/277
+2017-03-03 17:13:58  [ Thread-21:546228 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/321
+2017-03-03 17:13:58  [ Thread-21:546313 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/296
+2017-03-03 17:13:58  [ Thread-21:546393 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/225
+2017-03-03 17:13:59  [ Thread-21:546470 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/303
+2017-03-03 17:13:59  [ Thread-21:546536 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/325
+2017-03-03 17:13:59  [ Thread-21:546614 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/234
+2017-03-03 17:13:59  [ Thread-21:546705 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/289
+2017-03-03 17:13:59  [ Thread-21:546844 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/311
+2017-03-03 17:13:59  [ Thread-21:547068 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/334
+2017-03-03 17:13:59  [ Thread-21:547152 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/283
+2017-03-03 17:13:59  [ Thread-21:547285 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/260
+2017-03-03 17:14:00  [ Thread-21:547439 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/271
+2017-03-03 17:14:00  [ Thread-21:547632 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/307
+2017-03-03 17:14:00  [ Thread-21:547795 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/318
+2017-03-03 17:14:00  [ Thread-21:547909 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/329
+2017-03-03 17:14:00  [ Thread-21:548069 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/249
+2017-03-03 17:14:00  [ Thread-21:548236 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/315
+2017-03-03 17:14:01  [ Thread-21:548438 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I3/239
+2017-03-03 17:14:01  [ Thread-21:548964 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/218
+2017-03-03 17:14:01  [ Thread-21:549131 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/136
+2017-03-03 17:14:01  [ Thread-21:549354 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/147
+2017-03-03 17:14:02  [ Thread-21:549483 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/159
+2017-03-03 17:14:02  [ Thread-21:549723 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/203
+2017-03-03 17:14:02  [ Thread-21:549873 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/127
+2017-03-03 17:14:02  [ Thread-21:550016 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/215
+2017-03-03 17:14:02  [ Thread-21:550179 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/198
+2017-03-03 17:14:02  [ Thread-21:550296 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/133
+2017-03-03 17:14:03  [ Thread-21:550432 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/188
+2017-03-03 17:14:03  [ Thread-21:550563 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/210
+2017-03-03 17:14:03  [ Thread-21:550690 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/221
+2017-03-03 17:14:03  [ Thread-21:550812 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/123
+2017-03-03 17:14:03  [ Thread-21:550901 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/167
+2017-03-03 17:14:03  [ Thread-21:550985 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/113
+2017-03-03 17:14:03  [ Thread-21:551058 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/179
+2017-03-03 17:14:03  [ Thread-21:551181 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/183
+2017-03-03 17:14:03  [ Thread-21:551359 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/173
+2017-03-03 17:14:04  [ Thread-21:551495 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/141
+2017-03-03 17:14:04  [ Thread-21:551662 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/163
+2017-03-03 17:14:04  [ Thread-21:551795 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/153
+2017-03-03 17:14:04  [ Thread-21:551921 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I2/193
+2017-03-03 17:14:04  [ Thread-21:552245 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/104
+2017-03-03 17:14:05  [ Thread-21:552426 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/29
+2017-03-03 17:14:05  [ Thread-21:552515 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/100
+2017-03-03 17:14:05  [ Thread-21:552640 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/82
+2017-03-03 17:14:05  [ Thread-21:552712 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/92
+2017-03-03 17:14:05  [ Thread-21:552817 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/1
+2017-03-03 17:14:05  [ Thread-21:552918 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/42
+2017-03-03 17:14:05  [ Thread-21:553079 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/86
+2017-03-03 17:14:05  [ Thread-21:553198 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/96
+2017-03-03 17:14:05  [ Thread-21:553263 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/51
+2017-03-03 17:14:05  [ Thread-21:553371 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/61
+2017-03-03 17:14:06  [ Thread-21:553475 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/72
+2017-03-03 17:14:06  [ Thread-21:553643 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/24
+2017-03-03 17:14:06  [ Thread-21:553768 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/12
+2017-03-03 17:14:06  [ Thread-21:553936 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/56
+2017-03-03 17:14:06  [ Thread-21:554109 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/66
+2017-03-03 17:14:06  [ Thread-19:554223 ] - [ DEBUG ]  U Thread 0 end
+2017-03-03 17:14:06  [ Thread-21:554243 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/88
+2017-03-03 17:14:06  [ Thread-21:554362 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/76
+2017-03-03 17:14:07  [ Thread-21:554515 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/17
+2017-03-03 17:14:07  [ Thread-21:554650 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/109
+2017-03-03 17:14:07  [ Thread-21:554736 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/37
+2017-03-03 17:14:07  [ Thread-21:554823 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2000/V14/I1/47
+2017-03-03 17:15:10  [ Thread-22:618277 ] - [ DEBUG ]  U Thread 1 end
+2017-03-03 17:15:56  [ Thread-20:663489 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/619
+2017-03-03 17:15:56  [ Thread-20:664134 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/609
+2017-03-03 17:15:57  [ Thread-20:665321 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/561
+2017-03-03 17:15:58  [ Thread-20:665595 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/594
+2017-03-03 17:15:58  [ Thread-20:665835 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/664
+2017-03-03 17:15:58  [ Thread-20:666007 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/577
+2017-03-03 17:15:58  [ Thread-20:666144 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/585
+2017-03-03 17:15:59  [ Thread-20:666523 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/651
+2017-03-03 17:15:59  [ Thread-20:666812 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/657
+2017-03-03 17:15:59  [ Thread-20:667133 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/567
+2017-03-03 17:16:00  [ Thread-20:667422 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/589
+2017-03-03 17:16:00  [ Thread-20:667639 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/601
+2017-03-03 17:16:01  [ Thread-20:668457 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/634
+2017-03-03 17:16:01  [ Thread-20:668676 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/645
+2017-03-03 17:16:01  [ Thread-20:668827 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/639
+2017-03-03 17:16:01  [ Thread-20:669077 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/615
+2017-03-03 17:16:01  [ Thread-20:669196 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I6/626
+2017-03-03 17:16:01  [ Thread-20:669415 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/465
+2017-03-03 17:16:02  [ Thread-20:669485 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/531
+2017-03-03 17:16:02  [ Thread-20:669682 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/555
+2017-03-03 17:16:02  [ Thread-20:669732 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/457
+2017-03-03 17:16:02  [ Thread-20:669812 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/479
+2017-03-03 17:16:02  [ Thread-20:669900 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/501
+2017-03-03 17:16:03  [ Thread-20:670473 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/512
+2017-03-03 17:16:03  [ Thread-20:670529 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/523
+2017-03-03 17:16:03  [ Thread-20:670630 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/550
+2017-03-03 17:16:03  [ Thread-20:670686 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/485
+2017-03-03 17:16:03  [ Thread-20:670764 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/496
+2017-03-03 17:16:03  [ Thread-20:670872 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/506
+2017-03-03 17:16:03  [ Thread-20:670938 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/519
+2017-03-03 17:16:03  [ Thread-20:671026 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/449
+2017-03-03 17:16:03  [ Thread-20:671108 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/537
+2017-03-03 17:16:03  [ Thread-20:671187 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I5/471
+2017-03-03 17:16:04  [ Thread-20:671642 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/384
+2017-03-03 17:16:04  [ Thread-20:671778 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/395
+2017-03-03 17:16:04  [ Thread-20:671918 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/369
+2017-03-03 17:16:04  [ Thread-20:672043 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/413
+2017-03-03 17:16:04  [ Thread-20:672248 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/337
+2017-03-03 17:16:04  [ Thread-20:672349 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/348
+2017-03-03 17:16:04  [ Thread-20:672403 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/403
+2017-03-03 17:16:05  [ Thread-20:672490 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/389
+2017-03-03 17:16:05  [ Thread-20:672568 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/444
+2017-03-03 17:16:05  [ Thread-20:672747 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/343
+2017-03-03 17:16:05  [ Thread-20:672870 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/354
+2017-03-03 17:16:05  [ Thread-20:672975 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/431
+2017-03-03 17:16:05  [ Thread-20:673064 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/363
+2017-03-03 17:16:05  [ Thread-20:673151 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/375
+2017-03-03 17:16:05  [ Thread-20:673245 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/419
+2017-03-03 17:16:05  [ Thread-20:673345 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/407
+2017-03-03 17:16:06  [ Thread-20:673438 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/437
+2017-03-03 17:16:06  [ Thread-20:673538 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I4/427
+2017-03-03 17:16:06  [ Thread-20:673842 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/243
+2017-03-03 17:16:06  [ Thread-20:673926 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/287
+2017-03-03 17:16:06  [ Thread-20:673984 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/320
+2017-03-03 17:16:06  [ Thread-20:674043 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/255
+2017-03-03 17:16:06  [ Thread-20:674116 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/277
+2017-03-03 17:16:06  [ Thread-20:674202 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/310
+2017-03-03 17:16:06  [ Thread-20:674282 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/333
+2017-03-03 17:16:06  [ Thread-20:674366 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/279
+2017-03-03 17:16:07  [ Thread-20:674478 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/225
+2017-03-03 17:16:07  [ Thread-20:674587 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/237
+2017-03-03 17:16:07  [ Thread-20:674641 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/303
+2017-03-03 17:16:07  [ Thread-20:674723 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/325
+2017-03-03 17:16:07  [ Thread-20:674800 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/315
+2017-03-03 17:16:07  [ Thread-20:674897 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/293
+2017-03-03 17:16:07  [ Thread-20:674969 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/250
+2017-03-03 17:16:07  [ Thread-20:675069 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/272
+2017-03-03 17:16:07  [ Thread-20:675167 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/262
+2017-03-03 17:16:07  [ Thread-20:675264 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/230
+2017-03-03 17:16:07  [ Thread-20:675370 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I3/297
+2017-03-03 17:16:08  [ Thread-20:675793 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/183
+2017-03-03 17:16:08  [ Thread-20:675875 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/170
+2017-03-03 17:16:08  [ Thread-20:675925 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/193
+2017-03-03 17:16:08  [ Thread-20:675992 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/165
+2017-03-03 17:16:08  [ Thread-20:676064 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/220
+2017-03-03 17:16:09  [ Thread-20:676893 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/141
+2017-03-03 17:16:09  [ Thread-20:676982 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/120
+2017-03-03 17:16:09  [ Thread-20:677073 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/131
+2017-03-03 17:16:09  [ Thread-20:677166 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/153
+2017-03-03 17:16:09  [ Thread-20:677253 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/208
+2017-03-03 17:16:09  [ Thread-20:677310 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/213
+2017-03-03 17:16:09  [ Thread-20:677393 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/126
+2017-03-03 17:16:10  [ Thread-20:677541 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/148
+2017-03-03 17:16:10  [ Thread-20:677625 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/159
+2017-03-03 17:16:10  [ Thread-20:677698 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/189
+2017-03-03 17:16:10  [ Thread-20:677802 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/200
+2017-03-03 17:16:10  [ Thread-20:677898 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/113
+2017-03-03 17:16:10  [ Thread-20:677980 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I2/179
+2017-03-03 17:16:10  [ Thread-20:678383 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/90
+2017-03-03 17:16:11  [ Thread-20:678441 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/84
+2017-03-03 17:16:11  [ Thread-20:678514 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/72
+2017-03-03 17:16:11  [ Thread-20:678586 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/94
+2017-03-03 17:16:11  [ Thread-20:678672 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/107
+2017-03-03 17:16:11  [ Thread-20:678768 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/102
+2017-03-03 17:16:11  [ Thread-20:678868 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/1
+2017-03-03 17:16:11  [ Thread-20:678923 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/28
+2017-03-03 17:16:11  [ Thread-20:679027 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/8
+2017-03-03 17:16:11  [ Thread-20:679113 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/42
+2017-03-03 17:16:11  [ Thread-20:679216 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/64
+2017-03-03 17:16:11  [ Thread-20:679308 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/54
+2017-03-03 17:16:11  [ Thread-20:679397 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/35
+2017-03-03 17:16:12  [ Thread-20:679522 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/23
+2017-03-03 17:16:12  [ Thread-20:679633 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/78
+2017-03-03 17:16:12  [ Thread-20:679777 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/15
+2017-03-03 17:16:12  [ Thread-20:679863 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/59
+2017-03-03 17:16:12  [ Thread-20:679962 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2005/V19/I1/47
+2017-03-03 17:16:12  [ Thread-20:680334 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/606
+2017-03-03 17:16:13  [ Thread-20:680425 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/617
+2017-03-03 17:16:13  [ Thread-20:680523 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/647
+2017-03-03 17:16:13  [ Thread-20:680616 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/635
+2017-03-03 17:16:13  [ Thread-20:680688 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/668
+2017-03-03 17:16:13  [ Thread-20:680763 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/568
+2017-03-03 17:16:13  [ Thread-20:680981 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/623
+2017-03-03 17:16:13  [ Thread-20:681090 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/611
+2017-03-03 17:16:13  [ Thread-20:681206 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/577
+2017-03-03 17:16:13  [ Thread-20:681311 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/654
+2017-03-03 17:16:14  [ Thread-20:681472 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/587
+2017-03-03 17:16:14  [ Thread-20:681580 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/597
+2017-03-03 17:16:14  [ Thread-20:681681 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/630
+2017-03-03 17:16:14  [ Thread-20:681733 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/641
+2017-03-03 17:16:14  [ Thread-20:681812 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/661
+2017-03-03 17:16:14  [ Thread-20:681891 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/561
+2017-03-03 17:16:14  [ Thread-20:681961 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/582
+2017-03-03 17:16:14  [ Thread-20:682082 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I6/593
+2017-03-03 17:16:15  [ Thread-20:682483 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/471
+2017-03-03 17:16:15  [ Thread-20:682547 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/461
+2017-03-03 17:16:15  [ Thread-20:682697 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/494
+2017-03-03 17:16:15  [ Thread-20:682787 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/485
+2017-03-03 17:16:15  [ Thread-20:682952 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/466
+2017-03-03 17:16:15  [ Thread-20:683059 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/477
+2017-03-03 17:16:15  [ Thread-20:683179 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/499
+2017-03-03 17:16:15  [ Thread-20:683289 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/542
+2017-03-03 17:16:15  [ Thread-20:683381 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/556
+2017-03-03 17:16:16  [ Thread-20:683499 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/511
+2017-03-03 17:16:16  [ Thread-20:683636 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/524
+2017-03-03 17:16:16  [ Thread-20:683781 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/549
+2017-03-03 17:16:16  [ Thread-20:683867 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/449
+2017-03-03 17:16:16  [ Thread-20:683957 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/537
+2017-03-03 17:16:16  [ Thread-20:684036 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/529
+2017-03-03 17:16:16  [ Thread-20:684150 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/506
+2017-03-03 17:16:16  [ Thread-20:684255 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I5/517
+2017-03-03 17:16:17  [ Thread-20:684674 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/352
+2017-03-03 17:16:17  [ Thread-20:684777 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/385
+2017-03-03 17:16:17  [ Thread-20:684882 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/373
+2017-03-03 17:16:17  [ Thread-20:684938 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/357
+2017-03-03 17:16:17  [ Thread-20:685015 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/412
+2017-03-03 17:16:17  [ Thread-20:685146 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/399
+2017-03-03 17:16:17  [ Thread-20:685270 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/443
+2017-03-03 17:16:17  [ Thread-20:685343 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/343
+2017-03-03 17:16:18  [ Thread-20:685422 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/365
+2017-03-03 17:16:18  [ Thread-20:685496 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/405
+2017-03-03 17:16:18  [ Thread-20:685569 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/337
+2017-03-03 17:16:18  [ Thread-20:685636 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/424
+2017-03-03 17:16:18  [ Thread-20:685719 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/435
+2017-03-03 17:16:18  [ Thread-20:685805 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/419
+2017-03-03 17:16:18  [ Thread-20:685882 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/429
+2017-03-03 17:16:18  [ Thread-20:685972 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/392
+2017-03-03 17:16:18  [ Thread-20:686090 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I4/380
+2017-03-03 17:16:19  [ Thread-20:686482 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/251
+2017-03-03 17:16:19  [ Thread-20:686536 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/273
+2017-03-03 17:16:19  [ Thread-20:686608 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/295
+2017-03-03 17:16:19  [ Thread-20:686688 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/280
+2017-03-03 17:16:19  [ Thread-20:686795 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/291
+2017-03-03 17:16:19  [ Thread-20:686893 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/246
+2017-03-03 17:16:19  [ Thread-20:686995 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/257
+2017-03-03 17:16:19  [ Thread-20:687075 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/301
+2017-03-03 17:16:19  [ Thread-20:687150 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/322
+2017-03-03 17:16:19  [ Thread-20:687240 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/333
+2017-03-03 17:16:19  [ Thread-20:687317 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/225
+2017-03-03 17:16:20  [ Thread-20:687424 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/285
+2017-03-03 17:16:20  [ Thread-20:687520 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/310
+2017-03-03 17:16:20  [ Thread-20:687764 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/232
+2017-03-03 17:16:20  [ Thread-20:687826 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/265
+2017-03-03 17:16:20  [ Thread-20:687940 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/239
+2017-03-03 17:16:20  [ Thread-20:687994 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/327
+2017-03-03 17:16:20  [ Thread-20:688096 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I3/315
+2017-03-03 17:16:21  [ Thread-20:688455 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/139
+2017-03-03 17:16:21  [ Thread-20:688563 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/205
+2017-03-03 17:16:21  [ Thread-20:688684 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/149
+2017-03-03 17:16:21  [ Thread-20:688761 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/113
+2017-03-03 17:16:21  [ Thread-20:688894 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/212
+2017-03-03 17:16:21  [ Thread-20:689005 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/123
+2017-03-03 17:16:21  [ Thread-20:689096 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/167
+2017-03-03 17:16:21  [ Thread-20:689211 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/144
+2017-03-03 17:16:21  [ Thread-20:689328 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/155
+2017-03-03 17:16:22  [ Thread-20:689429 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/199
+2017-03-03 17:16:22  [ Thread-20:689529 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/176
+2017-03-03 17:16:22  [ Thread-20:689633 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/187
+2017-03-03 17:16:22  [ Thread-20:689724 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/219
+2017-03-03 17:16:22  [ Thread-20:689799 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/119
+2017-03-03 17:16:22  [ Thread-20:689935 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/130
+2017-03-03 17:16:22  [ Thread-20:690045 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/161
+2017-03-03 17:16:22  [ Thread-20:690155 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/171
+2017-03-03 17:16:22  [ Thread-20:690252 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/193
+2017-03-03 17:16:22  [ Thread-20:690322 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I2/181
+2017-03-03 17:16:23  [ Thread-20:690718 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/18
+2017-03-03 17:16:23  [ Thread-20:690774 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/39
+2017-03-03 17:16:23  [ Thread-20:690843 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/25
+2017-03-03 17:16:23  [ Thread-20:690919 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/34
+2017-03-03 17:16:23  [ Thread-20:691007 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/46
+2017-03-03 17:16:23  [ Thread-20:691121 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/76
+2017-03-03 17:16:23  [ Thread-20:691237 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/11
+2017-03-03 17:16:23  [ Thread-20:691325 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/66
+2017-03-03 17:16:23  [ Thread-20:691398 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/88
+2017-03-03 17:16:24  [ Thread-20:691486 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/52
+2017-03-03 17:16:24  [ Thread-20:691711 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/96
+2017-03-03 17:16:24  [ Thread-20:691763 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/108
+2017-03-03 17:16:24  [ Thread-20:691977 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/1
+2017-03-03 17:16:24  [ Thread-20:692089 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/60
+2017-03-03 17:16:24  [ Thread-20:692209 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/71
+2017-03-03 17:16:24  [ Thread-20:692298 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/82
+2017-03-03 17:16:25  [ Thread-20:692438 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/6
+2017-03-03 17:16:25  [ Thread-20:692553 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2004/V18/I1/102
+2017-03-03 17:16:25  [ Thread-20:693024 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/611
+2017-03-03 17:16:25  [ Thread-20:693167 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/623
+2017-03-03 17:16:25  [ Thread-20:693284 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/597
+2017-03-03 17:16:25  [ Thread-20:693381 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/565
+2017-03-03 17:16:26  [ Thread-20:693499 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/664
+2017-03-03 17:16:26  [ Thread-20:693613 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/577
+2017-03-03 17:16:26  [ Thread-20:693707 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/632
+2017-03-03 17:16:26  [ Thread-20:693828 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/643
+2017-03-03 17:16:26  [ Thread-20:693971 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/654
+2017-03-03 17:16:26  [ Thread-20:694105 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/561
+2017-03-03 17:16:26  [ Thread-20:694225 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/572
+2017-03-03 17:16:26  [ Thread-20:694348 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/583
+2017-03-03 17:16:27  [ Thread-20:694456 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/591
+2017-03-03 17:16:27  [ Thread-20:694577 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/604
+2017-03-03 17:16:27  [ Thread-20:694717 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/637
+2017-03-03 17:16:27  [ Thread-20:694834 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/659
+2017-03-03 17:16:27  [ Thread-20:694965 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I6/617
+2017-03-03 17:16:27  [ Thread-20:695204 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/537
+2017-03-03 17:16:27  [ Thread-20:695333 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/505
+2017-03-03 17:16:28  [ Thread-20:695445 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/549
+2017-03-03 17:16:28  [ Thread-20:695567 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/500
+2017-03-03 17:16:28  [ Thread-20:695664 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/555
+2017-03-03 17:16:28  [ Thread-20:696237 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/454
+2017-03-03 17:16:28  [ Thread-20:696364 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/465
+2017-03-03 17:16:29  [ Thread-20:696471 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/520
+2017-03-03 17:16:29  [ Thread-20:696586 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/531
+2017-03-03 17:16:29  [ Thread-20:696710 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/477
+2017-03-03 17:16:29  [ Thread-20:696842 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/510
+2017-03-03 17:16:29  [ Thread-20:696970 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/496
+2017-03-03 17:16:29  [ Thread-20:697102 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/461
+2017-03-03 17:16:29  [ Thread-20:697212 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/483
+2017-03-03 17:16:29  [ Thread-20:697388 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/471
+2017-03-03 17:16:30  [ Thread-20:697482 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I5/490
+2017-03-03 17:16:30  [ Thread-20:697803 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/373
+2017-03-03 17:16:30  [ Thread-20:697938 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/384
+2017-03-03 17:16:31  [ Thread-20:699234 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/395
+2017-03-03 17:16:31  [ Thread-20:699322 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/354
+2017-03-03 17:16:32  [ Thread-20:699447 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/365
+2017-03-03 17:16:32  [ Thread-20:699545 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/421
+2017-03-03 17:16:32  [ Thread-20:699669 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/389
+2017-03-03 17:16:32  [ Thread-20:699768 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/411
+2017-03-03 17:16:32  [ Thread-20:699893 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/433
+2017-03-03 17:16:32  [ Thread-20:700025 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/444
+2017-03-03 17:16:32  [ Thread-20:700158 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/357
+2017-03-03 17:16:32  [ Thread-20:700275 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/401
+2017-03-03 17:16:32  [ Thread-20:700402 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/347
+2017-03-03 17:16:33  [ Thread-20:701140 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/369
+2017-03-03 17:16:33  [ Thread-20:701254 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/337
+2017-03-03 17:16:33  [ Thread-20:701372 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/414
+2017-03-03 17:16:34  [ Thread-20:701470 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/427
+2017-03-03 17:16:34  [ Thread-20:701590 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I4/439
+2017-03-03 17:16:34  [ Thread-20:701875 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/230
+2017-03-03 17:16:34  [ Thread-20:702015 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/241
+2017-03-03 17:16:34  [ Thread-20:702118 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/262
+2017-03-03 17:16:34  [ Thread-20:702254 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/295
+2017-03-03 17:16:34  [ Thread-20:702354 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/300
+2017-03-03 17:16:35  [ Thread-20:702480 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/333
+2017-03-03 17:16:35  [ Thread-20:702621 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/235
+2017-03-03 17:16:35  [ Thread-20:702727 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/257
+2017-03-03 17:16:35  [ Thread-20:702865 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/268
+2017-03-03 17:16:36  [ Thread-20:703870 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/279
+2017-03-03 17:16:36  [ Thread-20:703975 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/287
+2017-03-03 17:16:36  [ Thread-20:704067 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/277
+2017-03-03 17:16:36  [ Thread-20:704187 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/310
+2017-03-03 17:16:36  [ Thread-20:704308 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/321
+2017-03-03 17:16:37  [ Thread-20:704417 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/315
+2017-03-03 17:16:37  [ Thread-20:704523 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/327
+2017-03-03 17:16:37  [ Thread-20:704609 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/225
+2017-03-03 17:16:37  [ Thread-20:704725 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/247
+2017-03-03 17:16:37  [ Thread-20:704855 ] - [ DEBUG ]  [(metadata level)This url cannot connect:]http://www.cjmr.org/CN/Y2003/V17/I3/303
+2017-03-03 17:16:37  [ Thread-20:704868 ] - [ DEBUG ]  U Thread 2 end
+2017-03-03 17:16:45  [ Thread-21:712866 ] - [ DEBUG ]  U Thread 3 end
+2017-03-03 17:21:28  [ JavaFX Application Thread:995468 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:21:28  [ JavaFX Application Thread:995468 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:21:28  [ JavaFX Application Thread:995554 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:21:34  [ JavaFX Application Thread:1002025 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][bgcolor=#CCCCCC][valign=middle][height=30][width=60]>A
+2017-03-03 17:21:39  [ JavaFX Application Thread:1006444 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 17:21:52  [ JavaFX Application Thread:1019497 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[cellspacing=0][cellpadding=0][align=center][border=0][height=100%][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[class][cellspacing=0][cellpadding=0][border=0][width=100%]>TBODY>TR>TD[align=center][height=30]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do][onsubmit=return isready1(this)][name=AbstractList]>TABLE[border=0][align=center][width=98%][height=156]>TBODY>TR>TD>TABLE[border=0][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[align=left][valign=top]>TABLE[border=0][bgcolor=#f4f4f4][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[height=22][colspan=2][align=left][valign=center][class]:has(a)::0
+2017-03-03 17:21:54  [ JavaFX Application Thread:1021606 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[cellspacing=0][cellpadding=0][align=center][border=0][height=100%][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[class][cellspacing=0][cellpadding=0][border=0][width=100%]>TBODY>TR>TD[align=center][height=30]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do][onsubmit=return isready1(this)][name=AbstractList]>TABLE[border=0][align=center][width=98%][height=156]>TBODY>TR>TD>TABLE[border=0][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[align=left][valign=top]>TABLE[border=0][bgcolor=#FFFFFF][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[height=22][colspan=2][align=left][valign=center][class]:has(a)::0
+2017-03-03 17:22:12  [ Thread-99:1039811 ] - [ DEBUG ]  U Thread 4 started
+2017-03-03 17:25:16  [ Thread-99:1223670 ] - [ DEBUG ]  U Thread 4 end
+2017-03-03 17:32:31  [ JavaFX Application Thread:1658845 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-03 17:32:31  [ JavaFX Application Thread:1658845 ] - [ INFO ]  Connect to database successfully.
+2017-03-03 17:32:31  [ JavaFX Application Thread:1658911 ] - [ INFO ]  Get the collection successfully.
+2017-03-03 17:32:36  [ JavaFX Application Thread:1664258 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][bgcolor=#CCCCCC][valign=middle][height=30][width=60]>A
+2017-03-03 17:32:42  [ JavaFX Application Thread:1670110 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][valign=top][height=20]>A[class]
+2017-03-03 17:33:26  [ JavaFX Application Thread:1713989 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0][width=979]>TABLE[bgcolor=#ffffff][align=center][cellspacing=0][cellpadding=0][border=0]>TBODY>TR>TD[valign=top]>TABLE[align=center][cellspacing=0][cellpadding=0][border=0][height=100%][width=992]>TBODY>TR>TD[valign=top][align=left][width=748]>TABLE[cellspacing=0][cellpadding=0][align=center][border=0][height=100%][width=738]>TBODY>TR[valign=top]>TD[bgcolor=#ffffff][align=left]>TABLE[width=100%][cellpadding=0][cellspacing=0][border=0][class]>TBODY>TR>TD[align=middle]>TABLE[width=98%][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do][onsubmit=return isready1(this)][name=AbstractList]>TABLE[align=center][border=0][width=98%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[valign=top][colspan=2]>TABLE[class][cellspacing=0][cellpadding=5][border=0][width=100%]>TBODY>TR>TD[class][valign=top]>TABLE[cellspacing=0][cellpadding=0][border=0][width=100%]>TBODY>TR>TD[height=22]:has(a)::0
+2017-03-03 17:33:54  [ Thread-129:1742327 ] - [ DEBUG ]  U Thread 5 started
+2017-03-03 22:30:06  [ Thread-129:19513771 ] - [ DEBUG ]  U Thread 5 end
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197587 ] - [ DEBUG ]  6
+2017-03-03 22:58:10  [ Thread-133:21197587 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197591 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-134:21197591 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197593 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-135:21197593 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197597 ] - [ DEBUG ]  4
+2017-03-03 22:58:10  [ Thread-136:21197597 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197600 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-137:21197600 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197603 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-138:21197603 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-139:21197605 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197605 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197608 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-140:21197608 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197611 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-141:21197611 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197614 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-142:21197615 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197616 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-143:21197617 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197621 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-144:21197621 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-145:21197625 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197624 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197628 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-146:21197630 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-147:21197632 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197630 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197636 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-148:21197636 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197639 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-149:21197639 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197644 ] - [ DEBUG ]  5
+2017-03-03 22:58:10  [ Thread-150:21197646 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197646 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-151:21197646 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197648 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-152:21197649 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-153:21197651 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197650 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197656 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-154:21197658 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-155:21197658 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197658 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197662 ] - [ DEBUG ]  3
+2017-03-03 22:58:10  [ Thread-156:21197664 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-157:21197666 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197664 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197672 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-158:21197673 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197674 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-159:21197674 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197677 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-160:21197677 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ JavaFX Application Thread:21197680 ] - [ DEBUG ]  2
+2017-03-03 22:58:10  [ Thread-161:21197681 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:10  [ Thread-162:21197684 ] - [ DEBUG ]  U Thread 6 started
+2017-03-03 22:58:26  [ Thread-162:21214106 ] - [ DEBUG ]  U Thread 6 end
+2017-03-03 22:58:30  [ Thread-147:21218055 ] - [ DEBUG ]  U Thread 7 end
+2017-03-03 22:58:34  [ Thread-144:21222059 ] - [ DEBUG ]  U Thread 8 end
+2017-03-03 22:58:36  [ Thread-158:21223882 ] - [ DEBUG ]  U Thread 9 end
+2017-03-03 22:58:36  [ Thread-149:21224052 ] - [ DEBUG ]  U Thread 10 end
+2017-03-03 22:58:37  [ Thread-145:21225009 ] - [ DEBUG ]  U Thread 11 end
+2017-03-03 22:58:38  [ Thread-136:21225457 ] - [ DEBUG ]  U Thread 12 end
+2017-03-03 22:58:38  [ Thread-157:21225541 ] - [ DEBUG ]  U Thread 13 end
+2017-03-03 22:58:38  [ Thread-135:21225840 ] - [ DEBUG ]  U Thread 14 end
+2017-03-03 22:58:38  [ Thread-137:21226091 ] - [ DEBUG ]  U Thread 15 end
+2017-03-03 22:58:38  [ Thread-160:21226165 ] - [ DEBUG ]  U Thread 16 end
+2017-03-03 22:58:38  [ Thread-142:21226279 ] - [ DEBUG ]  U Thread 17 end
+2017-03-03 22:58:38  [ Thread-146:21226289 ] - [ DEBUG ]  U Thread 18 end
+2017-03-03 22:58:39  [ Thread-148:21226466 ] - [ DEBUG ]  U Thread 19 end
+2017-03-03 22:58:39  [ Thread-153:21226636 ] - [ DEBUG ]  U Thread 20 end
+2017-03-03 22:58:39  [ Thread-154:21226783 ] - [ DEBUG ]  U Thread 21 end
+2017-03-03 22:58:40  [ Thread-151:21227546 ] - [ DEBUG ]  U Thread 22 end
+2017-03-03 22:58:40  [ Thread-150:21227880 ] - [ DEBUG ]  U Thread 23 end
+2017-03-03 22:58:40  [ Thread-159:21228030 ] - [ DEBUG ]  U Thread 24 end
+2017-03-03 22:58:40  [ Thread-152:21228142 ] - [ DEBUG ]  U Thread 25 end
+2017-03-03 22:58:40  [ Thread-143:21228406 ] - [ DEBUG ]  U Thread 26 end
+2017-03-03 22:58:41  [ Thread-134:21228716 ] - [ DEBUG ]  U Thread 27 end
+2017-03-03 22:58:41  [ Thread-156:21228763 ] - [ DEBUG ]  U Thread 28 end
+2017-03-03 22:58:41  [ Thread-161:21229211 ] - [ DEBUG ]  U Thread 29 end
+2017-03-03 22:58:42  [ Thread-140:21229976 ] - [ DEBUG ]  U Thread 30 end
+2017-03-03 22:58:42  [ Thread-141:21230024 ] - [ DEBUG ]  U Thread 31 end
+2017-03-03 22:58:42  [ Thread-155:21230192 ] - [ DEBUG ]  U Thread 32 end
+2017-03-03 22:58:43  [ Thread-138:21230568 ] - [ DEBUG ]  U Thread 33 end
+2017-03-03 22:58:43  [ Thread-139:21230809 ] - [ DEBUG ]  U Thread 34 end
+2017-03-03 22:58:43  [ Thread-133:21231027 ] - [ DEBUG ]  U Thread 35 end

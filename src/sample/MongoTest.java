@@ -41,7 +41,7 @@ public class MongoTest extends Application{
 
     @Override
     public void start(Stage stage) throws Exception {
-        MongoDBJDBC mongoDBJDBC = new MongoDBJDBC();
+        MongoDBJDBC mongoDBJDBC = new MongoDBJDBC(0);
         stage.setTitle("采集数据");
         stage.setHeight(500);
 

@@ -1,12 +1,26 @@
-2017-02-13 10:36:23  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
-2017-02-13 10:36:23  [ JavaFX Application Thread:5 ] - [ INFO ]  Connect to database successfully.
-2017-02-13 10:36:23  [ JavaFX Application Thread:12 ] - [ INFO ]  Get the collection successfully.
-2017-02-13 10:37:13  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
-2017-02-13 10:37:13  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
-2017-02-13 10:37:13  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
-2017-02-13 10:42:18  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
-2017-02-13 10:42:18  [ JavaFX Application Thread:4 ] - [ INFO ]  Connect to database successfully.
-2017-02-13 10:42:18  [ JavaFX Application Thread:10 ] - [ INFO ]  Get the collection successfully.
-2017-02-13 10:59:56  [ JavaFX Application Thread:0 ] - [ INFO ]  Get the service of mongodb successfully.
-2017-02-13 10:59:56  [ JavaFX Application Thread:3 ] - [ INFO ]  Connect to database successfully.
-2017-02-13 10:59:56  [ JavaFX Application Thread:11 ] - [ INFO ]  Get the collection successfully.
+2017-03-07 11:31:14  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-07 11:31:14  [ main:6 ] - [ INFO ]  Connect to database successfully.
+2017-03-07 11:31:14  [ main:147 ] - [ INFO ]  Get the collection successfully.
+2017-03-07 11:31:25  [ JavaFX Application Thread:10927 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-07 11:31:25  [ JavaFX Application Thread:10927 ] - [ INFO ]  Connect to database successfully.
+2017-03-07 11:31:25  [ JavaFX Application Thread:11009 ] - [ INFO ]  Get the collection successfully.
+2017-03-07 11:31:29  [ JavaFX Application Thread:15273 ] - [ DEBUG ]  BODY[marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[align=center][width=1002][cellpadding=0][cellspacing=0][border=0]>TBODY>TR>TD[bgcolor=#ffffff][valign=top]>TABLE[align=center][border=0][height=156][width=100%]>TBODY>TR>TD[valign=top]>TABLE[cellspacing=1][cellpadding=5][border=0][height=30][width=100%]>TBODY>TR>TD[class][align=left][bgcolor=#CCCCCC][valign=top][height=50][width=90]>A[class]
+2017-03-07 11:31:35  [ JavaFX Application Thread:21253 ] - [ DEBUG ]  BODY[style=background-color:transparent][marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[bgcolor=#ffffff][cellspacing=0][cellpadding=0][align=center][border=0][height=100%][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[class][cellspacing=0][cellpadding=0][border=0][width=100%]>TBODY>TR>TD[align=center][height=30]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do][onsubmit=return isready1(this)][name=AbstractList]>TABLE[border=0][align=center][width=98%][height=156]>TBODY>TR>TD>TABLE[border=0][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[align=left][valign=top]>TABLE[border=0][bgcolor=#f4f4f4][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[height=22][colspan=2][align=left][valign=center][class]:has(a)::0
+2017-03-07 11:31:37  [ JavaFX Application Thread:23109 ] - [ DEBUG ]  BODY[style=background-color:transparent][marginheight=0][marginwidth=0][topmargin=0][leftmargin=0]>TABLE[bgcolor=#ffffff][cellspacing=0][cellpadding=0][align=center][border=0][height=100%][width=1002]>TBODY>TR>TD[bgcolor=#ffffff][valign=top][align=center]>TABLE[class][cellspacing=0][cellpadding=0][border=0][width=100%]>TBODY>TR>TD[align=center][height=30]>FORM[target=_blank][method=post][action=../article/uniteZhaiYao.do][onsubmit=return isready1(this)][name=AbstractList]>TABLE[border=0][align=center][width=98%][height=156]>TBODY>TR>TD>TABLE[border=0][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[align=left][valign=top]>TABLE[border=0][bgcolor=#FFFFFF][width=100%][cellpadding=0][cellspacing=0]>TBODY>TR>TD[height=22][colspan=2][align=left][valign=center][class]:has(a)::0
+2017-03-07 11:31:54  [ JavaFX Application Thread:40045 ] - [ DEBUG ]  5
+2017-03-07 11:31:54  [ Thread-14:40045 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:31:54  [ JavaFX Application Thread:40050 ] - [ DEBUG ]  4
+2017-03-07 11:31:54  [ Thread-15:40050 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:31:54  [ JavaFX Application Thread:40053 ] - [ DEBUG ]  3
+2017-03-07 11:31:54  [ Thread-16:40053 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:31:54  [ JavaFX Application Thread:40058 ] - [ DEBUG ]  4
+2017-03-07 11:31:54  [ Thread-17:40058 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:31:54  [ JavaFX Application Thread:40064 ] - [ DEBUG ]  6
+2017-03-07 11:31:54  [ Thread-18:40064 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:31:54  [ Thread-19:40068 ] - [ DEBUG ]  U Thread 0 started
+2017-03-07 11:32:28  [ Thread-19:73911 ] - [ DEBUG ]  U Thread 0 end
+2017-03-07 11:33:02  [ Thread-15:108695 ] - [ DEBUG ]  U Thread 1 end
+2017-03-07 11:33:03  [ Thread-14:109622 ] - [ DEBUG ]  U Thread 2 end
+2017-03-07 11:33:18  [ Thread-18:124478 ] - [ DEBUG ]  U Thread 3 end
+2017-03-07 11:33:25  [ Thread-17:131323 ] - [ DEBUG ]  U Thread 4 end
+2017-03-07 11:33:31  [ Thread-16:137437 ] - [ DEBUG ]  U Thread 5 end

@@ -31,6 +31,7 @@ import jdk.nashorn.internal.objects.NativeUint8Array;
 import netscape.javascript.JSObject;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Attribute;
 import org.jsoup.select.Elements;
@@ -44,6 +45,8 @@ import org.w3c.dom.events.EventTarget;
 
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -64,7 +67,17 @@ public class Test1 extends Application {
     private ArrayList<LinkedHashSet<String>> urls = new ArrayList<>();//存放需要采集的url，以下标来代表层
     private ArrayList<LinkedHashSet<String>> urlsRegs = new ArrayList<>();//与urls相对应，存放每一层的采集规则
     HashMap<String,HashSet<String>> metaDataRegs = new HashMap<>(); //元数据采集规则,key:元数据字段名；value：元数据采集规则
+    static Map<String, String> header = new HashMap<String, String>();
 
+    public void initConnectionMap(){
+        header.put("Host", "http://info.bet007.com");
+        header.put("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0");
+        header.put("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8");
+        header.put("Accept-Language", "zh-cn,zh;q=0.5");
+        header.put("Accept-Charset", "GB2312,utf-8;q=0.7,*;q=0.7");
+        header.put("Connection", "keep-alive");
+
+    }
 
 
 
@@ -87,6 +100,7 @@ public class Test1 extends Application {
     );
     @Override
     public void start(Stage primaryStage) throws Exception{
+        initConnectionMap();
         GridPane root = new GridPane();
         root.setPadding(new Insets(0,0,0,0));
         Scene scene = new Scene(root);
@@ -102,8 +116,8 @@ public class Test1 extends Application {
         VBox vBrowser = this.addCenterBrowder(webView);
         root.add(vBrowser,0,1);
         webEngine = webView.getEngine();
-        webEngine.load("http://118.145.16.213/bhxb_skb/CN/article/showTenYearOldVolumn.do");
-        jDocument = Jsoup.connect("http://118.145.16.213/bhxb_skb/CN/article/showTenYearOldVolumn.do").get();
+        webEngine.load("");
+//        jDocument = Jsoup.connect("").get();
         webEngine.getLoadWorker().stateProperty().addListener(
                 new ChangeListener<Worker.State>() {
                     @Override
@@ -173,7 +187,7 @@ public class Test1 extends Application {
                 txtUrl.setText(strUrl);
                 webEngine.load(strUrl);
                 try {
-                    jDocument = Jsoup.connect(strUrl).get();
+                    jDocument = Jsoup.connect(strUrl).data(header).get();
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -214,7 +228,7 @@ public class Test1 extends Application {
                         lstRectNode.add(currentSelNode);
                         drawRectangle();
                     }
-                    String reg = getAttr(3,0);
+                    String reg = getAttr(0);
                     System.out.println(reg);
 
                 }
@@ -233,7 +247,7 @@ public class Test1 extends Application {
                     String nextLevelUrl = urls.get(level).iterator().next();
                     webEngine.load(nextLevelUrl);
                     try {
-                        jDocument = Jsoup.connect(nextLevelUrl).get();
+                        jDocument = Jsoup.connect(nextLevelUrl).data(header).get();
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -258,7 +272,7 @@ public class Test1 extends Application {
                         lstRectNode.add(currentSelNode);
                         drawRectangle();
                     }
-                    String reg = getAttr(3,1);
+                    String reg = getAttr(1);
                     wirteMetadataInfo(reg);
 
                 }
@@ -274,7 +288,7 @@ public class Test1 extends Application {
                         lstRectNode.add(currentSelNode);
                         drawRectangle();
                     }
-                    String reg = getAttr(3,1);
+                    String reg = getAttr(1);
                     String text = currentSelNode.getTextContent();
                     writeComplexMetadataInfo(reg,text);
 
@@ -300,6 +314,13 @@ public class Test1 extends Application {
             }
         });
         contextMenu.getItems().add(extractElement);
+
+        contextMenu.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                System.out.println("nima");
+            }
+        });
 
         webView.setOnMousePressed(new EventHandler<MouseEvent>() {
             @Override
@@ -419,35 +440,85 @@ public class Test1 extends Application {
         }
     }
 
+    /**
+     * 选择同类型元素，从最顶层开始
+     * @param nodeList 与当前比较元属路径中当前层标签名相同的元素集合
+     * @param mapList 当前元素所在路径的属性键值对数组
+     * @param tagList 当前元素所在路径的标签值数组
+     * @param k 当前比较的层
+     * @param n 当有同类型当兄弟节点时，应选择节点应该在第n个
+     */
+
     public void selectSameNode(NodeList nodeList,ArrayList<Map<String,String>> mapList,
-                               ArrayList<String> tagList,int k){
+                               ArrayList<String> tagList,int k,int n){
+
+
 
         for (int i = 0; i < nodeList.getLength(); i++) {
+
             Element e = (Element) nodeList.item(i);
+            //先判读节点属性个数是否与原节点相同
+            NamedNodeMap namedNodeMap = e.getAttributes();
+            int count = 0;
+            for (int j = 0; j < namedNodeMap.getLength(); j++) {
+                Node node = namedNodeMap.item(j);
+                String attrName = node.getNodeName();
+                if (!"text".equals(attrName) && !"id".equals(attrName) &&
+                        !"href".equals(attrName) && !"onclick".equals(attrName)){
+                    count ++;
+                }
+            }
             int flag = 0;
-            for (Map.Entry<String,String> entry : mapList.get(k+1).entrySet()){
-                String attrName = entry.getKey();
-                String attrValue = entry.getValue();
-                if (!attrValue.equals(e.getAttribute(attrName))){
-                    flag = 1;
-                    break;
+            int c = mapList.get(k+1).size();
+            if (count != c){
+                flag = 1;
+            }else {
+                for (Map.Entry<String, String> entry : mapList.get(k + 1).entrySet()) {
+                    String attrName = entry.getKey();
+                    if (attrName.equals("id")) {
+                        continue;
+                    }
+                    String attrValue = entry.getValue();
+                    if (!attrValue.equals(e.getAttribute(attrName))) {
+                        flag = 1;
+                        break;
+                    }
                 }
             }
             if (flag == 0){
-                if (k >=0 ) {
-                    NodeList listTemp = e.getElementsByTagName(tagList.get(k));
-                    selectSameNode(listTemp, mapList, tagList, k - 1);
+                if (n == -1) {
+                    if (k >=0 ) {
+                        NodeList listTemp = e.getElementsByTagName(tagList.get(k));
+                        selectSameNode(listTemp, mapList, tagList, k - 1, n);
+                    }else {
+                        lstRectNode.add(nodeList.item(i));
+                    }
                 }else {
-                    lstRectNode.add(nodeList.item(i));
+                    NodeList listTemp = e.getElementsByTagName(tagList.get(k));
+                    if (tagList.get(k).equals("A")) {
+
+                        if (listTemp.getLength() > 1) {
+                            lstRectNode.add(listTemp.item(n));
+                            continue;
+                        }
+                    } else {
+                        selectSameNode(listTemp, mapList, tagList, k - 1, n);
+                    }
                 }
             }
 
         }
 
     }
+    /**
+     * 如果是循环，则将采集规则最后一个标签规定为a,不然采集不到url
+     * @param regTemp 采集规则
+     * @param value 链接值
+     * @return
+     */
+    public String fixReg(String regTemp,String value){
 
-    //如果是循环，则将采集规则最后一个标签规定为a,不然采集不到url
-    public String fixReg(String regTemp){
+
         StringBuffer sb = new StringBuffer();
         String []splits = regTemp.split(">");
         int i =  splits.length-1;
@@ -462,8 +533,40 @@ public class Test1 extends Application {
         for (int j = 0; j <= i; j++) {
             sb.append(splits[j]+">");
         }
-        return sb.toString().substring(0,sb.length()-1);
+        String returnStr = sb.toString().substring(0, sb.length() - 1);
+        if (value != null && !value.isEmpty()) {
+            String baseURL = value.split(";")[0];
+            String urlT = value.split(";")[1];
+            String url = resolve(baseURL, urlT);
+
+            //查看当前链接是否有同类型的兄弟节点
+            StringBuffer sb1 = new StringBuffer();
+            String aReg = returnStr.substring(returnStr.lastIndexOf(">") + 1, returnStr.length());
+            for (int j = 0; j < i; j++) {
+                sb1.append(splits[j] + ">");
+            }
+            String strTemp = sb1.toString().substring(0, sb1.length() - 1) + ":has(a)";
+            Elements elements = jDocument.select(strTemp);
+            org.jsoup.nodes.Element element = elements.get(0);
+            Elements elements1 = element.select(aReg);
+            if (elements1.size() > 1) {
+                int j = 0;
+                for (org.jsoup.nodes.Element e : elements1) {
+                    String u = e.absUrl("href");
+                    if (u.equals(url)) {
+                        break;
+                    }
+                    j++;
+
+                }
+                returnStr = strTemp + "::" + j;
+            }
+        }
+
+
+        return returnStr;
     }
+
 
     //采集url
     public void extractURL(String reg){
@@ -477,27 +580,35 @@ public class Test1 extends Application {
 
     /**
      * 生成当前节点往上n层的xpath
-     * @param n 往上层数
      * @param flag flag=0选择元素-循环；flag=1选择元素-采集
      */
-    public String getAttr(int n,int flag){
+    public String getAttr(int flag){
         ArrayList<Map<String,String>> list = new ArrayList<Map<String, String>>();
         ArrayList<String> tagList = new ArrayList<String>();
         //生成xpath，便于jsoup抽取
         StringBuffer sb = new StringBuffer();
         Node tempNode = currentSelNode;
-        for (int i = 0; i < n; i++) {
-            Element e = (Element) tempNode;
-            String tagName = e.getTagName();
+        String value = "";
+        boolean attrAflag = true;
+        Element e = (Element) tempNode;
+        String tagName ="";
+        while (!(tagName = e.getTagName()).equals("HTML")){
             tagList.add(tagName);
             NamedNodeMap nodeMap = tempNode.getAttributes();
             Map<String,String> currentNodeMap = new HashMap<String, String>();
             for (int j = 0; j < nodeMap.getLength(); j++) {
                 String attrName = nodeMap.item(j).getNodeName();
                 String attrValue = nodeMap.item(j).getNodeValue();
-                if (!"href".equals(attrName) && !"onclick".equals(attrName)){
-                    //规则排除href onclick class 三个属性
-                    if ("class".equals(attrName)){
+                if (attrAflag && tagName.toUpperCase().equals("A") && attrName.equals("href")){
+                    String baseURL = currentSelNode.getBaseURI();
+                    value = baseURL + ";" + attrValue;
+                    attrAflag = false;
+                }
+                if (!"text".equals(attrName) && !"id".equals(attrName) &&
+                        !"href".equals(attrName) && !"onclick".equals(attrName)){
+                    //规则排除id,href,onclick,text 四个属性 class属性保留作为条件
+
+                    if ("class".equals(attrName) && flag ==0 ){
                         sb.insert(0,"["+attrName+"]");
                     }else {
                         sb.insert(0, "[" + attrName + "=" + attrValue + "]");
@@ -509,15 +620,23 @@ public class Test1 extends Application {
             sb.insert(0,">");
             list.add(currentNodeMap);
             tempNode = tempNode.getParentNode();
+            e = (Element) tempNode;
         }
 
         String regTemp = sb.toString().substring(1,sb.length());
         String reg = regTemp;
         if (flag ==0 ){
-            reg = fixReg(regTemp);
+            reg = fixReg(regTemp,value);
+            int n = -1;
+            if (reg.contains("::")){
+                n = Integer.valueOf(reg.split("::")[1]);
+            }
+
+
             String tag = tagList.get(tagList.size()-1);
             NodeList nodeListTemp = document.getElementsByTagName(tag);
-            selectSameNode(nodeListTemp,list,tagList,tagList.size()-2);
+
+            selectSameNode(nodeListTemp,list,tagList,tagList.size()-2,n);
             drawRectangle();
             if (urlsRegs.get(level).contains(reg)){
                 System.out.println("todo");
@@ -567,7 +686,7 @@ public class Test1 extends Application {
                 String metaDataName = textName.getText();
                 if ("链接".equals(textType.getValue())){
                     //加个标识，链接的采集方式与文本采集方式不同
-                    regTemp = "URL"+fixReg(regStr);
+                    regTemp = "URL"+fixReg(regStr,"");
                 }
                 if ("是".equals(isNeeded.getValue())){
                     //加标识，如果必须，则作为结构检查的字段
@@ -577,7 +696,9 @@ public class Test1 extends Application {
                 }
                 if (!metaDataRegs.containsKey(metaDataName)){
                     HashSet<String> regSet = new HashSet<String>();
+                    System.out.println(regTemp);
                     regSet.add(regTemp);
+
                     metaDataRegs.put(metaDataName,regSet);
                 }else {
                     if (!metaDataRegs.get(metaDataName).contains(regTemp)){
@@ -631,7 +752,7 @@ public class Test1 extends Application {
                 public void handle(ActionEvent event) {
                     webEngine.load(url);
                     try {
-                        jDocument = Jsoup.connect(url).get();
+                        jDocument = Jsoup.connect(url).data(header).get();
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -814,7 +935,32 @@ public class Test1 extends Application {
         window.showAndWait();
     }
 
+    public static String resolve(String baseUrl, String relUrl) {
+        try {
+            URL base;
+            try {
+                base = new URL(baseUrl);
+            } catch (MalformedURLException var5) {
+                URL abs = new URL(relUrl);
+                return abs.toExternalForm();
+            }
 
+            return resolve(base, relUrl).toExternalForm();
+        } catch (MalformedURLException var6) {
+            return "";
+        }
+    }
+    public static URL resolve(URL base, String relUrl) throws MalformedURLException {
+        if(relUrl.startsWith("?")) {
+            relUrl = base.getPath() + relUrl;
+        }
+
+        if(relUrl.indexOf(46) == 0 && base.getFile().indexOf(47) != 0) {
+            base = new URL(base.getProtocol(), base.getHost(), base.getPort(), "/" + base.getFile());
+        }
+
+        return new URL(base, relUrl);
+    }
     public static void main(String[] args) {
         launch(args);
     }

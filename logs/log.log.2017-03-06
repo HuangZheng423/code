@@ -1,0 +1,45 @@
+2017-03-06 20:49:24  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 20:49:24  [ main:6 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 20:49:24  [ main:156 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 20:49:58  [ JavaFX Application Thread:34575 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 20:49:58  [ JavaFX Application Thread:34575 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 20:49:59  [ JavaFX Application Thread:34664 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 20:50:09  [ JavaFX Application Thread:45363 ] - [ DEBUG ]  BODY>DIV>DIV>DIV>DIV>DIV>DIV[style=float: left; width: 100%;]>DIV[style=clear:left;]>H4>A
+2017-03-06 20:50:35  [ JavaFX Application Thread:70706 ] - [ DEBUG ]  BODY>DIV>DIV>DIV>DIV>TABLE[class=tocArticle]>TBODY>TR[valign=top]>TD[class=tocArticleTitleAuthors]>DIV[class=tocTitle]>A
+2017-03-06 20:51:00  [ Thread-12:96049 ] - [ DEBUG ]  U Thread 0 started
+2017-03-06 20:55:50  [ Thread-12:386161 ] - [ DEBUG ]  U Thread 0 end
+2017-03-06 21:21:01  [ JavaFX Application Thread:1897424 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:21:01  [ JavaFX Application Thread:1897425 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:21:01  [ JavaFX Application Thread:1897528 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:21:24  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:21:24  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:21:25  [ main:137 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:21:36  [ JavaFX Application Thread:11325 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:21:36  [ JavaFX Application Thread:11326 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:21:36  [ JavaFX Application Thread:11435 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:22:23  [ JavaFX Application Thread:58107 ] - [ DEBUG ]  BODY>DIV[class=page-wrap]>DIV>DIV[class]>DIV>DIV>DIV>OL[class][xmlns=http://www.w3.org/1999/xhtml]>LI>A[class]
+2017-03-06 21:23:25  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:23:25  [ main:17 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:23:26  [ main:155 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:23:41  [ JavaFX Application Thread:15662 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:23:41  [ JavaFX Application Thread:15663 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:23:41  [ JavaFX Application Thread:15741 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:23:55  [ JavaFX Application Thread:30114 ] - [ DEBUG ]  BODY>DIV[class=page-wrap]>DIV>DIV[class]>DIV>DIV>DIV>OL[class][xmlns=http://www.w3.org/1999/xhtml]>LI>A[class]
+2017-03-06 21:24:10  [ JavaFX Application Thread:44608 ] - [ DEBUG ]  BODY>DIV[class=page-wrap]>DIV>DIV[class]>DIV>DIV>DIV>OL[class][xmlns=http://www.w3.org/1999/xhtml]>LI>OL>LI>DIV[class=issue]>A
+2017-03-06 21:31:04  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:31:04  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:31:04  [ main:122 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 21:35:35  [ JavaFX Application Thread:271146 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 21:35:35  [ JavaFX Application Thread:271146 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 21:35:36  [ JavaFX Application Thread:271229 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 22:05:18  [ main:0 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 22:05:18  [ main:4 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 22:05:18  [ main:180 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 22:05:34  [ JavaFX Application Thread:16394 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 22:05:34  [ JavaFX Application Thread:16395 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 22:05:34  [ JavaFX Application Thread:16469 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 22:08:02  [ JavaFX Application Thread:163984 ] - [ INFO ]  Get the service of mongodb successfully.
+2017-03-06 22:08:02  [ JavaFX Application Thread:163984 ] - [ INFO ]  Connect to database successfully.
+2017-03-06 22:08:02  [ JavaFX Application Thread:164076 ] - [ INFO ]  Get the collection successfully.
+2017-03-06 22:08:24  [ JavaFX Application Thread:185571 ] - [ DEBUG ]  BODY>DIV[class=page-wrap]>DIV>DIV[class]>DIV>DIV>DIV>OL[class][xmlns=http://www.w3.org/1999/xhtml]>LI>A[class]
+2017-03-06 22:08:37  [ JavaFX Application Thread:198787 ] - [ DEBUG ]  BODY>DIV[class=page-wrap]>DIV>DIV[class]>DIV>DIV>DIV>OL[class][xmlns=http://www.w3.org/1999/xhtml]>LI>OL>LI>DIV[class=issue]>A

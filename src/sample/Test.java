@@ -11,6 +11,10 @@ import org.jsoup.nodes.*;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -21,21 +25,72 @@ import java.util.regex.Pattern;
 public class Test {
 
     public static void main(String[] args) throws IOException {
-
         List<String> list = new ArrayList<>();
         list.add("a");
         list.add("b");
         list.add("c");
         list.add("d");
-        list.add("e");
-        list.remove("a");
+        list.remove(0);
         System.out.println(list.get(0));
+
 
 
     }
 
 
+    public static String toUtf8String(String s) {
+        StringBuffer sb = new StringBuffer();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (c >= 0 && c <= 255) {
+                sb.append(c);
+            } else {
+                byte[] b;
+                try {
+                    b = String.valueOf(c).getBytes("gb2312");
+                } catch (Exception ex) {
+                    System.out.println(ex);
+                    b = new byte[0];
+                }
+                for (int j = 0; j < b.length; j++) {
+                    int k = b[j];
+                    if (k < 0)
+                        k += 256;
+                    sb.append("%" + Integer.toHexString(k).toUpperCase());
+                }
+            }
+        }
+        return sb.toString();
+    }
 
+    public static String resolve(String baseUrl, String relUrl) {
+        try {
+            URL base;
+            try {
+                base = new URL(baseUrl);
+            } catch (MalformedURLException var5) {
+                URL abs = new URL(relUrl);
+                return abs.toExternalForm();
+            }
+
+            return resolve(base, relUrl).toExternalForm();
+        } catch (MalformedURLException var6) {
+            return "";
+        }
+    }
+    public static URL resolve(URL base, String relUrl) throws MalformedURLException {
+        if(relUrl.startsWith("?")) {
+            relUrl = base.getPath() + relUrl;
+        }
+
+        if(relUrl.indexOf(46) == 0 && base.getFile().indexOf(47) != 0) {
+            base = new URL(base.getProtocol(), base.getHost(), base.getPort(), "/" + base.getFile());
+        }
+
+        System.out.println(base);
+
+        return new URL(base, relUrl);
+    }
 
 
     public static void split(String s){
