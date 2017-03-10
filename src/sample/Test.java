@@ -25,14 +25,15 @@ import java.util.regex.Pattern;
 public class Test {
 
     public static void main(String[] args) throws IOException {
-        List<String> list = new ArrayList<>();
-        list.add("a");
-        list.add("b");
-        list.add("c");
-        list.add("d");
-        list.remove(0);
-        System.out.println(list.get(0));
-
+        URL url = new URL("http://journal.yejinfenxi.cn/CN/article/showTenYearOldVolumn.do");
+        String host = url.getHost();
+        String a = "journal.yejinfenxi.cn";
+        System.out.println(host);
+        String s[] = host.split("\\.");
+        System.out.println(s.length);
+        if (host.contains(".")){
+            System.out.println("asdf");
+        }
 
 
     }

@@ -125,6 +125,7 @@ public class Test1 extends Application {
                         if (newValue == Worker.State.SUCCEEDED){
                             lstRectNode.clear();
                             drawRectangle();
+
                             setNodeEventListener();
                             ObservableList<javafx.scene.Node> list = webView.getChildrenUnmodifiable();
                             for (javafx.scene.Node n : list){
@@ -189,6 +190,27 @@ public class Test1 extends Application {
                 try {
                     jDocument = Jsoup.connect(strUrl).data(header).get();
                 } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                String baseStr = webEngine.getLocation();
+                try {
+                    URL baseURL = new URL(baseStr);
+                    String host = baseURL.getHost();
+                    StringBuffer sb = new StringBuffer();
+                    String h = "default";
+                    if (host.contains(".")){
+                        System.out.println("ada");
+                        String splits[] = host.split("\\.");
+                        for (String s : splits){
+                            sb.append(s + "-");
+                        }
+                        if (sb.length()>0) {
+                            h = sb.substring(0, sb.length() - 1);
+                        }
+                    }
+                    System.out.println("host: " + host);
+                    System.out.println("tsoh: " + h);
+                } catch (MalformedURLException e) {
                     e.printStackTrace();
                 }
             }

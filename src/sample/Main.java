@@ -79,8 +79,8 @@ public class Main extends Application {
     private HashMap<String,String> attrMap = new HashMap<>();
     private static Logger logger = Logger.getLogger(Main.class);
 
-    private static int dbCollctionCount = 0; //数据库集合，递增
-    private static MongoDBJDBC mongoDBJDBC  = new MongoDBJDBC(dbCollctionCount);
+//    private static int dbCollctionCount = 0; //数据库集合，递增
+    private static MongoDBJDBC mongoDBJDBC  ;
 
     static Map<String, String> header = new HashMap<String, String>();
 
@@ -128,8 +128,8 @@ public class Main extends Application {
         VBox vBrowser = this.addCenterBrowder(webView);
         root.add(vBrowser,0,1);
         webEngine = webView.getEngine();
-        webEngine.load("http://jeit.ie.ac.cn/CN/article/showOldVolumn.do");
-        jDocument = Jsoup.connect("http://jeit.ie.ac.cn/CN/article/showOldVolumn.do").data(header).timeout(10*1000).get();
+        webEngine.load("https://www.baidu.com");
+        jDocument = Jsoup.connect("https://www.baidu.com").data(header).timeout(10*1000).get();
 
         webEngine.getLoadWorker().stateProperty().addListener(
                 new ChangeListener<Worker.State>() {
@@ -221,7 +221,7 @@ public class Main extends Application {
                 metaDataRegs.clear(); //元数据采集规则,key:元数据字段名；value：元数据采集规则
                 collectCount = 0; //首次采集此值为0，采集完成之后值加1，之后采集都为异构网页采集，值大于0
                 attrMap.clear();
-                mongoDBJDBC = new MongoDBJDBC(dbCollctionCount);
+
                 downloadBuffer = new StringBuffer();
             }
         };
@@ -232,7 +232,7 @@ public class Main extends Application {
         showDatas.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                showList();
+                showList(new MongoDBJDBC(""));
             }
         });
         hOper.getChildren().addAll(btnBack,lblUrl,txtUrl,btnGo,showDatas);
@@ -377,7 +377,10 @@ public class Main extends Application {
         extractElement.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-
+                if (collectCount == 0) {
+                    String cName = getCName();
+                    mongoDBJDBC = new MongoDBJDBC(cName);
+                }
 
                 LinkedHashSet<String> urlSet = urls.get(0);
                 if (urlSet.size() == 0){
@@ -393,7 +396,6 @@ public class Main extends Application {
                         extractMetaData(urlNeedCheck.toArray(),1);
                     }
                 }
-
 
             }
         });
@@ -961,8 +963,8 @@ public class Main extends Application {
             showDatas.setOnAction(new EventHandler<ActionEvent>() {
                 @Override
                 public void handle(ActionEvent event) {
-                    dbCollctionCount++;
-                    showList();
+//                    dbCollctionCount++;
+                    showList(mongoDBJDBC);
                     window.close();
                 }
             });
@@ -1316,7 +1318,7 @@ public class Main extends Application {
 
     }
 
-    public void showList(){
+    public void showList(MongoDBJDBC mongoDBJDBC){
 
         Stage stage = new Stage();
         stage.setTitle("采集数据");
@@ -1515,6 +1517,28 @@ public class Main extends Application {
             }
         }
         return sb.toString();
+    }
+
+    public String getCName(){
+        String baseStr = webEngine.getLocation();
+        String h = "default";
+        try {
+            URL baseURL = new URL(baseStr);
+            String host = baseURL.getHost();
+            StringBuffer sb = new StringBuffer();
+            if (host.contains(".")){
+                String splits[] = host.split("\\.");
+                for (String s : splits){
+                    sb.append(s + "-");
+                }
+                if (sb.length()>0) {
+                    h = sb.substring(0, sb.length() - 1);
+                }
+            }
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+        return h;
     }
 
 

@@ -7,7 +7,9 @@ import com.mongodb.client.MongoDatabase;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.bson.BsonDocument;
 import org.bson.Document;
+import org.bson.conversions.Bson;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,29 +18,43 @@ import java.util.List;
  * Created by huangzheng on 2017/1/24.
  */
 public class MongoDBJDBC {
-    private  MongoCollection<Document> collection;
-    private MongoClient mongoClient;
-    private MongoDatabase mongoDatabase;
+    private MongoCollection collection;
+
     private static Logger logger = Logger.getLogger(MongoDBJDBC.class);
-    private static long no = 0;
-    public MongoDBJDBC(int c) {
+    public MongoDBJDBC(String cName) {
+        if (cName == null || cName.isEmpty()){
+            cName = "default";
+        }
         PropertyConfigurator.configure("log4j.properties");
         try {
             // 连接到 mongodb 服务
-            this.mongoClient = new MongoClient("localhost", 27017);
+            MongoClient mongoClient = new MongoClient("localhost", 27017);
             logger.info("Get the service of mongodb successfully.");
+
+
+
             // 连接到数据库
-            this.mongoDatabase = mongoClient.getDatabase("test");
+            MongoDatabase mongoDatabase = mongoClient.getDatabase("test");
             logger.info("Connect to database successfully.");
-            String cName = "c" + String.valueOf(c);
-            if (this.mongoDatabase.getCollection(cName) != null){
-                this.mongoDatabase.getCollection(cName).drop();
+
+            //连接到存放集合名的集合中
+            MongoCollection cNameCollection = mongoDatabase.getCollection("cname");
+            System.out.println(cNameCollection.count());
+            if (cNameCollection == null){
+                mongoDatabase.createCollection("cname");
+                cNameCollection = mongoDatabase.getCollection("cname");
             }
-            this.mongoDatabase.createCollection(cName);
+            Document document = new Document();
+            document.append("name",cName);
+            //如果存放集合名的集合中没有当前集合则插入，并新建集合
+            FindIterable<Document> iterable = cNameCollection.find(document);
+            if (iterable.first() == null || iterable.first().isEmpty()){
+                cNameCollection.insertOne(document);
+                mongoDatabase.createCollection(cName);
+            }
+            //连接到当前集合
             this.collection = mongoDatabase.getCollection(cName);
-            if (this.collection == null){
-                System.out.println(cName);
-            }
+
             logger.info("Get the collection successfully.");
 
         } catch (Exception e) {
@@ -69,11 +85,10 @@ public class MongoDBJDBC {
     }
 
     public static void main(String[] args) {
-        MongoDBJDBC mongoDBJDBC = new MongoDBJDBC(0);
+        MongoDBJDBC mongoDBJDBC = new MongoDBJDBC("asd");
         Document document = new Document();
         document.append("a","b");
         FindIterable<Document> documents = mongoDBJDBC.selectAll();
-        System.out.println(documents.toString());
     }
 
 }
