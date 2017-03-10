@@ -232,7 +232,9 @@ public class Main extends Application {
         showDatas.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                showList(new MongoDBJDBC(""));
+                if (mongoDBJDBC != null){
+                    showList(mongoDBJDBC);
+                }
             }
         });
         hOper.getChildren().addAll(btnBack,lblUrl,txtUrl,btnGo,showDatas);
